@@ -1,0 +1,400 @@
+play baseball CausesDesire score home run HasPrerequisite play baseball HasPrerequisite bat UsedFor play baseball CausesDesire score home run UsedFor baseball player IsA human CapableOf scheme AtLocation mind PartOf human
+bear HasA fur PartOf frog DefinedAs water AtLocation kettle HasA water IsA life DefinedAs good AtLocation grocery store HasA cash register AtLocation shop
+shop DefinedAs spend money Causes problem CausesDesire create idea Causes human AtLocation aircraft AtLocation sky AtLocation paint AtLocation someone CapableOf walk dog HasSubevent get exercise
+read book MotivatedByGoal learn about subject UsedFor student NotDesires go to school HasSubevent make friend HasSubevent fall in love Causes pain CausesDesire have examination HasPrerequisite go to doctor MotivatedByGoal have physical exam MotivatedByGoal join army
+boredom CausesDesire surf web Causes tiredness CausesDesire lose consciousness HasPrerequisite go to sleep MotivatedByGoal get up early UsedFor bird UsedFor watch IsA clock CapableOf tick IsA arachnid
+eat hamburger HasPrerequisite buy hamburger HasPrerequisite be hungry CausesDesire make bread Causes bread AtLocation dinner AtLocation table RelatedTo chair IsA seat IsA something AtLocation tent
+author IsA person Desires dog HasA tail PartOf cat InheritsFrom lynx IsA cat CapableOf poop AtLocation tree UsedFor shade AtLocation forest
+pencil CapableOf write HasPrerequisite pencil RelatedTo mechanical pencil AtLocation desk drawer UsedFor paper DefinedAs draw CreatedBy artist CapableOf paint AtLocation someone CapableOf park car
+person Desires cake MadeOf egg AtLocation chicken MadeOf corn DefinedAs this IsA bicycle HasA seat IsA something CapableOf eat lunch HasPrerequisite go to restaurant
+king HasA kingdom HasA king IsA chess piece AtLocation chess set AtLocation home RelatedTo sister IsA girl CapableOf play sport Causes rain CausesDesire repair umbrella
+something AtLocation south pole SymbolOf penguin AtLocation sea HasA seawater AtLocation sea AtLocation ship AtLocation ocean DefinedAs fish InheritsFrom submarine CapableOf surface
+dance UsedFor person UsedFor socialize HasPrerequisite go to party DefinedAs have fun MotivatedByGoal fun IsA something AtLocation someone CapableOf skate UsedFor play hockey UsedFor excercise
+egg AtLocation chicken DefinedAs egg DefinedAs chicken AtLocation egg DefinedAs chicken MadeOf corn DefinedAs this IsA man CapableOf sign contract MotivatedByGoal buy house
+democracy Causes equality for everyone PartOf communism IsA government CreatedBy person CapableOf walk dog HasPrerequisite dog NotDesires cat InheritsFrom lynx IsA cat Desires food
+boss IsA person NotDesires stupidity AtLocation person NotDesires terrorism CausesDesire fight war HasPrerequisite soldier IsA person NotDesires it UsedFor woman IsA mayor
+mother CapableOf take bath HasPrerequisite water AtLocation juice MadeOf fruit IsA something AtLocation someone CapableOf play piano HasPrerequisite finger UsedFor point PartOf sword
+paint AtLocation someone CapableOf snowboard IsA sport UsedFor everyone Desires something AtLocation mat UsedFor picture frame DefinedAs this IsA singer IsA performer
+something AtLocation person Desires tobacco IsA plant AtLocation pot HasA water AtLocation ice DefinedAs water AtLocation thunderstorm Causes destruction AtLocation war zone
+ribbon AtLocation typewriter IsA machine UsedFor seal AtLocation aquarium HasA water AtLocation cup of coffee AtLocation kitchen AtLocation knife IsA s PartOf alphabet
+math CausesDesire compute sum HasPrerequisite logic IsA science CausesDesire examine thing HasPrerequisite look MotivatedByGoal see UsedFor saw HasA handle PartOf coffee mug UsedFor drink coffee
+singer IsA performer HasA long hair CausesDesire have haircut HasPrerequisite scissor UsedFor ribbon AtLocation typewriter DefinedAs this IsA chair IsA seat AtLocation motorcycle
+whale CapableOf sing HasLastSubevent bow IsA ribbon AtLocation typewriter DefinedAs this IsA corn DefinedAs this IsA skink IsA lizard HasA scale
+something AtLocation work Causes hunger CausesDesire have lunch HasPrerequisite time HasProperty now CapableOf this IsA bill clinton IsA person NotDesires it IsA tree
+fruit IsA something AtLocation someone CapableOf polka IsA dance UsedFor perform UsedFor singer IsA person DefinedAs human CapableOf commit suicide UsedFor hitler
+queen IsA ruler AtLocation office AtLocation skyscraper CreatedBy person Desires science CausesDesire examine thing HasSubevent eat MotivatedByGoal be hungry CausesDesire eat hamburger HasPrerequisite buy hamburger
+baseball player IsA human CapableOf breathe DefinedAs live DefinedAs eat HasPrerequisite swallow IsA bird NotHasA arm AtLocation jacket AtLocation person AtLocation poker
+cougar IsA cat IsA friend AtLocation you CapableOf walk dog HasSubevent get exercise MotivatedByGoal sex RelatedTo wife UsedFor sex AtLocation bedroom AtLocation pillow
+cook HasPrerequisite food CausesDesire eat HasSubevent read HasPrerequisite book HasA author IsA person Desires beer AtLocation me PartOf we HasA retriever
+bone PartOf dolphin IsA animal NotDesires hunger CausesDesire cook meal MotivatedByGoal eat Causes gas MadeOf oil AtLocation motor PartOf robot AtLocation science fiction movie
+lawyer IsA person Desires imac IsA computer DefinedAs mouse AtLocation keyboard RelatedTo mouse AtLocation cheese CreatedBy milk AtLocation house HasA foyer
+kid Desires finger paint UsedFor child HasA mother UsedFor security CausesDesire start family MotivatedByGoal child DefinedAs play UsedFor squirrel AtLocation wood ReceivesAction polish
+go to play UsedFor kid DefinedAs play UsedFor squirrel AtLocation wood ReceivesAction polish UsedFor clean DefinedAs dust AtLocation refrigerator IsA machine UsedFor paint house
+person Desires something AtLocation someone CapableOf this IsA picture frame DefinedAs this IsA duck HasA feather UsedFor dust AtLocation moon UsedFor mystery
+something CapableOf play baseball HasPrerequisite bat IsA animal NotDesires hunger CausesDesire have lunch HasPrerequisite time HasProperty now CapableOf this IsA fan HasProperty weird
+procreate DefinedAs sex RelatedTo wife UsedFor husband UsedFor wife HasProperty female IsA human CapableOf play piano Causes joy IsA dog CapableOf shed
+ribbon AtLocation typewriter DefinedAs this IsA electric fan AtLocation computer AtLocation box MadeOf cardboard AtLocation box HasA something AtLocation website ReceivesAction browse
+paint UsedFor artist Desires paint picture HasPrerequisite canvas UsedFor paint AtLocation someone CapableOf polka IsA dance UsedFor person NotDesires it IsA sunset
+time HasProperty now CapableOf this IsA musician AtLocation orchestra AtLocation concert hall UsedFor classical music IsA music MadeOf note AtLocation box HasA item
+ribbon AtLocation typewriter DefinedAs this IsA something AtLocation someone CapableOf this IsA goldfish CapableOf die HasPrerequisite live Causes love Causes poverty
+egg CreatedBy hen IsA chicken MadeOf corn DefinedAs this DefinedAs i CapableOf program computer HasPrerequisite program AtLocation computer DefinedAs screen PartOf cell phone
+bull HasA horn AtLocation bull HasA horn AtLocation bull IsA team MadeOf person NotDesires it IsA something CapableOf play harp UsedFor angel
+ball AtLocation baseball field AtLocation baseball stadium UsedFor baseball IsA ball UsedFor bowl AtLocation cabinet AtLocation house HasProperty paint HasA lead AtLocation dashboard
+husband UsedFor wife UsedFor husband UsedFor wife UsedFor husband UsedFor wife UsedFor husband UsedFor wife UsedFor husband UsedFor wife UsedFor husband
+church UsedFor wedding HasA bride and groom IsA couple CapableOf watch movie HasPrerequisite time HasProperty now CapableOf this IsA cup AtLocation counter AtLocation diner
+tourist CapableOf visit museum Causes crowd MadeOf person CapableOf ride AtLocation carnival IsA ball UsedFor play football HasPrerequisite ball AtLocation baseball field AtLocation baseball stadium
+blood AtLocation person Desires beer HasA alcohol AtLocation beer HasA alcohol AtLocation beer AtLocation me PartOf we IsA in japan AtLocation japanese person
+king RelatedTo prince AtLocation england HasA queen IsA female IsA human CapableOf use calculator HasPrerequisite time HasProperty now CapableOf this IsA address book
+ice AtLocation refridgerator AtLocation fruit IsA fruit IsA something AtLocation someone CapableOf this IsA typewriter DefinedAs this IsA advertisement CausesDesire watch film
+milk AtLocation cow AtLocation advertisement CausesDesire watch film HasPrerequisite eye IsA organ AtLocation person CapableOf kidney PartOf human body HasProperty water AtLocation hot water heater
+king HasA kingdom HasA king HasA kingdom HasA king HasA kingdom HasA king HasA kingdom AtLocation monarchy IsA government MadeOf political ideology
+now CapableOf this IsA lizard HasA tail PartOf cat HasA kitten DefinedAs cat AtLocation seat IsA something AtLocation pool AtLocation backyard
+mouse AtLocation cat NotCapableOf ride bike HasPrerequisite bike IsA bicycle HasA chain HasA link AtLocation webpage IsA file AtLocation drawer AtLocation dresser
+type HasPrerequisite keyboard RelatedTo mouse IsA rat IsA vermin AtLocation garbage AtLocation garbage can UsedFor compost CapableOf smell bad CausesDesire bathe UsedFor get clean
+time HasProperty now CapableOf this IsA corn DefinedAs this IsA man IsA male IsA boy IsA young person Desires attend rock concert HasPrerequisite hear
+seat UsedFor relax Causes nerve AtLocation body HasA bone AtLocation cow AtLocation hamburger NotHasA ham IsA food AtLocation pizza AtLocation pizza parlor
+sex HasPrerequisite time HasProperty now CapableOf this IsA duck HasA feather UsedFor dust AtLocation air AtLocation jar HasA something AtLocation mat
+window HasA frame PartOf bicycle HasA chain HasA link AtLocation webpage IsA file AtLocation computer AtLocation box HasA something CapableOf sway
+someone CapableOf play baseball CausesDesire score home run UsedFor baseball player IsA human HasA bone AtLocation vertebrate DefinedAs animal HasA eye HasA lens AtLocation microscope
+something AtLocation someone AtLocation bike IsA bicycle HasA seat AtLocation motorcycle InheritsFrom car CapableOf stall UsedFor horse HasA leg PartOf spider
+lynx IsA cat NotCapableOf ride bike UsedFor kid Desires finger paint UsedFor child DefinedAs person Desires goal CausesDesire write program HasPrerequisite think UsedFor creativity
+cake UsedFor wed CausesDesire go to hairdresser HasPrerequisite take shower HasPrerequisite water AtLocation kettle HasA water AtLocation pond HasA water AtLocation ice AtLocation refrigerator
+penguin InheritsFrom emu AtLocation zoo AtLocation lion IsA cat HasA tail PartOf cat HasA kitten DefinedAs cat AtLocation paris AtLocation france
+bird DefinedAs flock MadeOf bird HasPrerequisite food InheritsFrom steak AtLocation plate IsA dish AtLocation dishwasher AtLocation kitchen UsedFor cook CapableOf follow recipe
+paint AtLocation someone CapableOf this IsA fan IsA person DefinedAs dog HasA nose PartOf head HasA brain AtLocation person CapableOf board train
+in kitchen AtLocation knife UsedFor butter AtLocation toast DefinedAs bread MadeOf sugar AtLocation coffee MadeOf water AtLocation thunderstorm IsA storm CapableOf damage
+mammal HasA heart AtLocation person NotDesires microsoft DefinedAs devil CausesDesire lie MotivatedByGoal money CausesDesire create art DefinedAs express yourself HasSubevent speak Causes sound
+man IsA male IsA boy DefinedAs male IsA boy Desires wrestle DefinedAs erection AtLocation man HasProperty right hand PartOf person NotDesires failure
+kitchen AtLocation knife UsedFor butter MadeOf milk AtLocation cow AtLocation advertisement AtLocation mail MadeOf paper MadeOf tree AtLocation backyard UsedFor have party
+pollution AtLocation sky AtLocation paint DefinedAs paint HasPrerequisite brush UsedFor paint AtLocation someone AtLocation air AtLocation balloon HasA water AtLocation canoe
+nut IsA seed AtLocation fruit IsA something AtLocation someone AtLocation olympics SymbolOf medal MadeOf metal AtLocation knife AtLocation fork MadeOf metal
+have party HasSubevent play game DefinedAs compete Causes anger CausesDesire kill person UsedFor murderer IsA criminal IsA person Desires hamburger AtLocation burger king IsA fast food restaurant
+this IsA corn DefinedAs this IsA ax UsedFor kill person HasPrerequisite arm PartOf person NotDesires it IsA medal IsA award AtLocation wall
+skin AtLocation pudding MadeOf egg AtLocation chicken MadeOf corn DefinedAs this IsA corn DefinedAs this IsA fortune cookie HasA fortune AtLocation bank
+projectile IsA something AtLocation mat UsedFor picture frame DefinedAs this IsA corn DefinedAs this IsA pacifier MadeOf plastic PartOf tv HasA channel
+typewriter DefinedAs this IsA great dane IsA dog NotDesires flea AtLocation cat HasA kitten DefinedAs cat Desires mouse AtLocation hole CreatedBy bullet
+plant NotHasA blood AtLocation person NotDesires get divorce HasSubevent unhappiness CausesDesire commit suicide UsedFor hitler IsA dictator IsA politician CapableOf lie NotIsA truth
+rush Causes error IsA something AtLocation handle PartOf pot AtLocation kitchen AtLocation knife AtLocation plate IsA dish IsA something AtLocation beach towel
+vitamin c AtLocation cabinet AtLocation school UsedFor child CapableOf run IsA something CapableOf play baseball HasPrerequisite bat UsedFor baseball DefinedAs ball AtLocation playground
+woman IsA slut IsA person Desires noodle MadeOf flour UsedFor cake MadeOf egg DefinedAs chicken MadeOf corn DefinedAs this IsA turtle
+in sky AtLocation cloud IsA water vapor IsA gas MadeOf oil AtLocation engine PartOf automobile IsA king HasA kingdom HasA king RelatedTo prince
+canvas UsedFor paint AtLocation someone CapableOf this IsA object IsA thing IsA something AtLocation someone CapableOf this IsA singer IsA entertainer
+person IsA human HasA hair AtLocation skin AtLocation pudding MadeOf egg AtLocation chicken HasA feather UsedFor dust AtLocation air HasA oxygen
+pudding MadeOf egg CreatedBy hen IsA chicken MadeOf corn DefinedAs this IsA bono IsA human AtLocation earth HasA gravity AtLocation black hole
+have fun CausesDesire live life HasSubevent sadness CausesDesire take phone call HasSubevent have conversation Causes intimacy AtLocation family IsA person IsA fanatic IsA person Desires orange
+human AtLocation train MotivatedByGoal run in marathon HasPrerequisite practice MotivatedByGoal assertiveness AtLocation person Desires mother CapableOf take bath HasPrerequisite water HasProperty salt AtLocation ocean water
+life form CapableOf reproduce Causes overpopulation CausesDesire gain more land Causes go to war MotivatedByGoal equality for everyone PartOf communism IsA ideology CreatedBy person CapableOf wait in line Causes impatience
+this IsA typewriter DefinedAs this IsA guitar DefinedAs string UsedFor fly kite Causes joy IsA dog HasA nose PartOf head HasA brain
+bedroom DefinedAs house HasProperty paint AtLocation someone AtLocation dog IsA best friend IsA friend AtLocation you CapableOf punch IsA attack CausesDesire fence
+time HasProperty now CapableOf this IsA bill clinton IsA person CapableOf learn language HasSubevent frustration CausesDesire hit bottle Causes alcoholism CausesDesire hit bottle HasPrerequisite buy beer
+program computer MotivatedByGoal paint picture HasPrerequisite canvas UsedFor paint AtLocation someone CapableOf this IsA picture frame AtLocation wall UsedFor privacy AtLocation bed UsedFor make love
+strike match DefinedAs start fire DefinedAs strike match DefinedAs light fire HasPrerequisite strike match HasSubevent start fire HasPrerequisite light match UsedFor start fire HasPrerequisite match Causes fire CapableOf heat room
+mug UsedFor coffee AtLocation mug UsedFor clean HasSubevent dust AtLocation moon IsA satellite AtLocation space AtLocation jar HasA something AtLocation barrel
+it UsedFor woman IsA person CapableOf learn language DefinedAs practice MotivatedByGoal assertiveness AtLocation person Desires tobacco PartOf cigarette HasA nicotine IsA drug
+go fish IsA card game HasProperty fun IsA something AtLocation table AtLocation library AtLocation book HasA paper page AtLocation magazine AtLocation table HasProperty stable
+human AtLocation subway station AtLocation city NotDesires crime HasProperty rush Causes error IsA something AtLocation someone AtLocation there IsA column UsedFor support
+typewriter DefinedAs this IsA picture frame DefinedAs this IsA bow IsA ribbon AtLocation box HasA something CapableOf drill UsedFor drill hole Causes mess
+bird IsA animal HasA bone AtLocation cow AtLocation ranch UsedFor ride horse UsedFor cowboy AtLocation horse NotIsA human CapableOf scheme IsA plot
+box HasA something AtLocation mat UsedFor picture frame DefinedAs this IsA bill clinton NotIsA hero NotDesires slide DefinedAs playground equipment CreatedBy factory CapableOf bottle water
+automobile IsA king HasA kingdom HasA king HasA kingdom HasA king RelatedTo queen DefinedAs female IsA human InheritsFrom person Desires quiet
+male IsA boy AtLocation scout IsA person Desires apply for job Causes employment Causes depression CausesDesire write poem UsedFor express yourself HasPrerequisite think UsedFor discover truth
+this DefinedAs i CapableOf program computer HasPrerequisite program HasPrerequisite take class MotivatedByGoal swim HasSubevent dive UsedFor pearl AtLocation oyster AtLocation ocean IsA salt water
+read HasSubevent listen to music UsedFor dance UsedFor perform UsedFor singer IsA performer HasA long hair CausesDesire have haircut HasPrerequisite hair UsedFor comb UsedFor groom
+hunger CausesDesire begin work Causes sit down HasPrerequisite chair IsA seat IsA something AtLocation someone CapableOf ski HasPrerequisite ski HasPrerequisite ski HasPrerequisite ski
+ride bicycle UsedFor sport UsedFor everyone Desires something AtLocation south pole SymbolOf penguin AtLocation south pole SymbolOf penguin AtLocation south pole SymbolOf penguin AtLocation antarctica
+ball UsedFor play baseball CausesDesire score home run HasPrerequisite ball UsedFor bear IsA animal HasA fur AtLocation cat Desires mouse IsA rat IsA vermin
+sky AtLocation paint AtLocation someone CapableOf knit HasPrerequisite yarn Desires nothing IsA nothing CausesDesire go for jog Causes sweat CausesDesire get clean Causes get wet
+something AtLocation eyeball AtLocation eye socket PartOf skull IsA bone AtLocation cow AtLocation barn AtLocation horse ReceivesAction train MotivatedByGoal run in marathon HasPrerequisite practice
+comb UsedFor hair PartOf head UsedFor hat AtLocation house HasA wire AtLocation computer AtLocation box IsA computer AtLocation box HasA gift
+court AtLocation lawyer IsA person AtLocation space shuttle AtLocation space AtLocation you AtLocation there IsA rabbit Desires lettuce IsA plant HasA root
+arena UsedFor compete HasPrerequisite opponent IsA person NotDesires stupidity AtLocation person NotDesires it HasA wheel PartOf bicycle HasA chain HasA link
+it IsA something AtLocation hat IsA something AtLocation mat UsedFor picture frame DefinedAs this IsA corn DefinedAs this IsA violin IsA fiddle
+time HasProperty now CapableOf this IsA corn DefinedAs this DefinedAs i CapableOf person Desires dog HasA tail PartOf fish HasA fin
+boss IsA person NotDesires tofu MadeOf bean AtLocation soup AtLocation jar HasA something AtLocation sun DefinedAs life AtLocation earth HasA gravity
+automobile IsA king HasA kingdom HasA king HasA kingdom HasA king RelatedTo prince AtLocation castle SymbolOf samurai IsA fighter CapableOf fight
+gun CapableOf jam MadeOf fruit HasA skin AtLocation pudding MadeOf egg DefinedAs chicken MadeOf corn DefinedAs this IsA ball AtLocation baseball field
+frog AtLocation lawn AtLocation front yard UsedFor water AtLocation kettle HasA water AtLocation spring IsA coil AtLocation refridgerator AtLocation fruit AtLocation pizza
+go to restaurant HasSubevent flat tire IsA change AtLocation purse AtLocation handbag UsedFor woman IsA slut IsA person HasA belly button PartOf human AtLocation fairy tale
+person DefinedAs dog Desires go for walk UsedFor fun IsA something AtLocation cliff UsedFor commit suicide UsedFor hitler IsA dictator IsA politician IsA thief
+program HasPrerequisite use computer UsedFor student CapableOf answer question MotivatedByGoal truth AtLocation bible AtLocation in church HasSubevent pray HasPrerequisite belief AtLocation church AtLocation community
+something AtLocation mat UsedFor picture frame DefinedAs this IsA bow IsA ribbon AtLocation typewriter DefinedAs this IsA picture frame DefinedAs this IsA clamp
+penguin AtLocation south pole SymbolOf penguin InheritsFrom emu IsA bird NotHasA arm AtLocation jacket AtLocation person NotDesires wind AtLocation patient AtLocation dentist
+person CapableOf wait in line HasPrerequisite time HasProperty now CapableOf this IsA queen IsA bitch HasA puppy IsA baby HasA hair AtLocation mammal
+eat hamburger HasPrerequisite buy hamburger DefinedAs eat hamburger MotivatedByGoal meat AtLocation plate IsA dish IsA something AtLocation someone CapableOf eat hamburger HasPrerequisite buy hamburger HasLastSubevent smile
+this IsA kitten IsA cat InheritsFrom lynx IsA cat AtLocation trailer CausesDesire see particular program HasSubevent watch HasA second hand PartOf clock CapableOf chime
+this IsA paint UsedFor paint AtLocation someone AtLocation fish market AtLocation ocean DefinedAs fish NotDesires bicycle HasA seat IsA something AtLocation begin
+coffee AtLocation mug UsedFor coffee IsA food InheritsFrom apple HasProperty yellow NotIsA president IsA leader UsedFor lead AtLocation calculator AtLocation wristwatch
+cat HasA hair AtLocation skin PartOf foot AtLocation sock AtLocation bureau UsedFor clothe AtLocation trunk AtLocation car HasProperty wax AtLocation floor
+picture frame DefinedAs this IsA shell PartOf egg CreatedBy hen IsA chicken MadeOf corn DefinedAs this IsA cheese CreatedBy milk AtLocation cereal
+in sky AtLocation sun UsedFor heat IsA energy HasProperty need CausesDesire write program UsedFor use computer UsedFor adult CapableOf sign contract HasPrerequisite pen AtLocation desk drawer
+draw CreatedBy artist CapableOf paint AtLocation someone CapableOf this IsA man HasProperty right hand PartOf person NotDesires it IsA piece AtLocation puzzle
+mouse AtLocation cat InheritsFrom lynx IsA cat NotIsA dog NotDesires flea AtLocation cat AtLocation seat IsA something AtLocation someone AtLocation doorway
+handbag UsedFor woman Desires man DefinedAs love IsA heart AtLocation person Desires goal IsA something AtLocation ranch HasA horse NotHasA toe
+person Desires cookie IsA food InheritsFrom apple HasA stem PartOf apple IsA computer AtLocation box HasA something AtLocation someone AtLocation ferris wheel
+apple HasA stem PartOf flower HasA petal PartOf flower PartOf plant NotHasA blood PartOf blood plasma PartOf blood PartOf blood plasma PartOf blood
+now CapableOf this IsA picture frame DefinedAs this IsA basketball IsA ball UsedFor play football UsedFor have fun Causes laughter IsA sound CreatedBy mind
+go public HasSubevent scandal CausesDesire go public UsedFor gay Desires man CapableOf pray HasPrerequisite god AtLocation cloud IsA water vapor IsA gas MadeOf oil
+relief AtLocation beer DefinedAs water DefinedAs food InheritsFrom steak AtLocation plate IsA dish IsA something AtLocation person NotDesires it HasProperty yellow
+this IsA shell PartOf egg DefinedAs chicken DefinedAs egg DefinedAs chicken MadeOf corn DefinedAs this IsA fan AtLocation winery IsA factory
+religion Causes war CausesDesire fight enemy HasPrerequisite gun UsedFor kill person Causes sadness CausesDesire get drunk HasPrerequisite alcohol AtLocation pub UsedFor socialize MotivatedByGoal make friend
+corn HasA silk IsA fabric PartOf sofa ReceivesAction cushion AtLocation sofa IsA chair AtLocation you CapableOf walk dog HasPrerequisite dog HasA nose
+wet AtLocation water AtLocation alcohol AtLocation wine UsedFor get drunk HasPrerequisite alcohol CausesDesire dance UsedFor perform UsedFor singer IsA person NotDesires arthritis
+fabric MadeOf fiber PartOf yarn UsedFor knit HasPrerequisite yarn Desires nothing CausesDesire go for jog HasSubevent run IsA something AtLocation someone AtLocation lincoln memorial
+husband CapableOf clean house HasSubevent dust AtLocation moon IsA satellite AtLocation space AtLocation you CapableOf walk dog HasSubevent smoke cigarette Causes cancer IsA illness
+penis PartOf male IsA boy IsA man IsA person Desires goal IsA something AtLocation mat UsedFor picture frame DefinedAs this IsA shell
+dog ReceivesAction train AtLocation track AtLocation train station IsA place AtLocation map AtLocation library UsedFor find information HasSubevent go to school HasSubevent make friend HasPrerequisite smell good
+have physical examination HasSubevent go to doctor MotivatedByGoal have checkup HasPrerequisite time HasProperty now CapableOf this IsA typewriter DefinedAs this IsA corn DefinedAs this IsA sail boat
+this IsA stuff IsA thing IsA something AtLocation coral reef AtLocation water AtLocation beer DefinedAs alcohol AtLocation beer AtLocation can MadeOf nickel
+have examination Causes get good grade CausesDesire study for subject UsedFor pass class Causes joy IsA dog NotDesires flea AtLocation cat AtLocation seat IsA something CapableOf fly fish
+go to opera HasPrerequisite time HasProperty now CapableOf this IsA corn DefinedAs this IsA picture frame DefinedAs this IsA corn DefinedAs this IsA hanger
+this IsA shell PartOf egg AtLocation chicken MadeOf corn DefinedAs this IsA lighten IsA electricity CreatedBy generator PartOf car PartOf train
+window HasA frame PartOf bicycle IsA machine UsedFor filter PartOf cigarette DefinedAs tobacco PartOf cigarette DefinedAs tobacco PartOf cigarette HasA nicotine
+competition CausesDesire run after ball HasPrerequisite run IsA something CapableOf play baseball CausesDesire score home run HasPrerequisite play baseball CausesDesire score home run UsedFor success AtLocation business AtLocation skyscraper
+butter AtLocation house MadeOf wood ReceivesAction polish AtLocation shoe AtLocation box HasA something AtLocation concession stand AtLocation movie IsA film RelatedTo popcorn
+something AtLocation south pole SymbolOf penguin AtLocation south pole SymbolOf penguin AtLocation south pole SymbolOf penguin AtLocation south pole SymbolOf penguin SymbolOf linux CreatedBy linus torvalds
+dog IsA thing IsA something AtLocation someone CapableOf this IsA fan IsA person NotDesires lonliness CausesDesire make friend HasPrerequisite go to pub Causes drunkeness
+hot dog IsA sandwich AtLocation delicatessen UsedFor buy food HasFirstSubevent pay by check HasPrerequisite pen UsedFor write story DefinedAs creativity CausesDesire create idea Causes human HasA cancer
+pilot CapableOf stall IsA in bathroom AtLocation toothbrush AtLocation mouth UsedFor kiss HasPrerequisite lip AtLocation human CapableOf commit perjury UsedFor obstruct justice Causes go to jail
+kitten IsA cat HasA kitten DefinedAs cat IsA friend AtLocation you PartOf we IsA in japan AtLocation japanese person AtLocation japan IsA island
+shell PartOf egg DefinedAs chicken AtLocation egg DefinedAs chicken MadeOf corn AtLocation can MadeOf nickel IsA metal ReceivesAction paint IsA latex
+animal CapableOf procreate HasSubevent kiss HasPrerequisite lip UsedFor kiss HasSubevent tongue IsA muscle AtLocation arm PartOf person CapableOf shoot gun HasPrerequisite cock
+person HasA hair AtLocation skin AtLocation pudding MadeOf egg DefinedAs chicken MadeOf corn DefinedAs this IsA eraser AtLocation pencil AtLocation cup
+hat IsA something AtLocation fire AtLocation kitchen AtLocation knife AtLocation plate IsA dish IsA something AtLocation pluto HasA moon UsedFor romance
+tell story HasSubevent express yourself HasSubevent paint AtLocation someone AtLocation disco IsA dance UsedFor perform HasPrerequisite practice PartOf play violin HasPrerequisite practice MotivatedByGoal assertiveness
+motor PartOf robot NotHasA brain DefinedAs person HasA hair AtLocation skin AtLocation pudding MadeOf egg AtLocation chicken IsA animal AtLocation africa
+lion IsA cat HasA flea AtLocation cat Desires food AtLocation plate IsA dish IsA something AtLocation toilet UsedFor waste CapableOf stink
+bug IsA insect AtLocation hole CreatedBy bullet UsedFor projectile IsA something CapableOf sit quietly HasSubevent read book MotivatedByGoal learn about subject UsedFor student CapableOf answer question
+politics Causes ideology CreatedBy person NotDesires it IsA something AtLocation someone CapableOf this IsA duck IsA animal AtLocation africa IsA beautiful place
+go to sleep MotivatedByGoal get up early UsedFor bird NotHasA arm AtLocation jacket AtLocation person NotDesires it HasA button AtLocation shirt HasA button DefinedAs mouse
+think Causes depression CausesDesire write poem HasPrerequisite creativity CausesDesire create idea Causes human AtLocation library UsedFor research HasPrerequisite time HasProperty run HasPrerequisite leg
+mother UsedFor security CausesDesire start family MotivatedByGoal child DefinedAs play UsedFor squirrel AtLocation tree Desires sunshine AtLocation moon RelatedTo star AtLocation universe
+human AtLocation aircraft AtLocation sky AtLocation paint AtLocation someone AtLocation disco IsA dance UsedFor perform UsedFor actor AtLocation television HasA remote control
+child Desires explore HasProperty fun RelatedTo watch movie HasPrerequisite go to cinema MotivatedByGoal enjoy film HasPrerequisite go to movie HasFirstSubevent buy ticket MotivatedByGoal travel CausesDesire fly in airplane UsedFor pilot
+sign contract HasPrerequisite pen MadeOf plastic PartOf dvd HasPrerequisite buy ticket MotivatedByGoal go to play HasPrerequisite time HasProperty now CapableOf this IsA rubber chicken IsA prop
+now CapableOf this IsA pacifier UsedFor baby HasA hair PartOf head PartOf person CapableOf kidney PartOf human body MadeOf molecule PartOf donkey
+ball AtLocation baseball field AtLocation baseball stadium UsedFor baseball DefinedAs ball AtLocation hole CreatedBy bullet UsedFor projectile IsA something AtLocation mantel PartOf fireplace
+arm AtLocation jacket AtLocation person HasA belly button PartOf human InheritsFrom person NotDesires boss IsA person DefinedAs hate CausesDesire fight enemy HasPrerequisite gun
+projectile IsA something AtLocation pool HasA water UsedFor bathe DefinedAs get clean HasPrerequisite take bath HasPrerequisite water HasProperty fluid IsA matter HasA mass
+work Causes hunger CausesDesire fish Desires food InheritsFrom steak MadeOf beef IsA food InheritsFrom apple AtLocation house NotMadeOf glass HasProperty blue
+egg DefinedAs chicken MadeOf corn DefinedAs this IsA picture frame DefinedAs this IsA picture frame DefinedAs this IsA corn DefinedAs this IsA chair
+food AtLocation in restaurant AtLocation rice AtLocation wed CausesDesire go to hairdresser MotivatedByGoal have haircut HasPrerequisite scissor UsedFor ribbon AtLocation typewriter DefinedAs this IsA mountain bike
+go to hairdresser MotivatedByGoal have haircut HasPrerequisite scissor UsedFor ribbon AtLocation typewriter DefinedAs this DefinedAs i Desires horse HasProperty vegetarian NotDesires meat IsA tasty food
+play basketball DefinedAs sweat CausesDesire get clean HasPrerequisite have bath Causes get wet UsedFor bathe HasPrerequisite go to bathroom MotivatedByGoal have pee Causes yellow snow IsA snow AtLocation alaska
+doll InheritsFrom person IsA fanatic IsA person NotDesires it IsA something AtLocation post office AtLocation city DefinedAs crowd MadeOf person Desires achieve enlightenment
+sign AtLocation freeway UsedFor drive HasSubevent order food AtLocation restaurant UsedFor socialize HasLastSubevent say goodbye HasSubevent kiss HasPrerequisite lip UsedFor kiss HasSubevent sexual arousal
+magazine HasA article AtLocation newspaper UsedFor start fire HasSubevent strike match DefinedAs light fire HasPrerequisite strike match DefinedAs light fire HasPrerequisite strike match DefinedAs light fire UsedFor get warm
+shell PartOf egg AtLocation chicken MadeOf corn DefinedAs this IsA nut and bolt DefinedAs metal ReceivesAction paint AtLocation someone CapableOf walk dog HasPrerequisite get dog
+locker PartOf door HasA handle DefinedAs wood DefinedAs tree HasA root DefinedAs tree HasA sap AtLocation tree Desires sunshine AtLocation beach
+cross street UsedFor chicken MadeOf corn DefinedAs this IsA pen AtLocation drawer HasA thing IsA something AtLocation ranch HasA horse AtLocation horse box
+brain DefinedAs person NotDesires boss IsA person Desires goal IsA something CapableOf bathe UsedFor bubble bath CausesDesire bathe HasPrerequisite go to bathroom MotivatedByGoal have pee
+electricity CapableOf kill person UsedFor murderer IsA criminal IsA person NotDesires feel ill CausesDesire have physical examination HasSubevent go to doctor MotivatedByGoal have physical examination HasSubevent go to doctor MotivatedByGoal have checkup
+cat HasA kitten DefinedAs cat AtLocation seat AtLocation airplane IsA machine UsedFor seal IsA mammal HasA fur AtLocation cat Desires milk
+cartoon AtLocation television HasA screen DefinedAs monitor IsA tv MadeOf metal ReceivesAction paint IsA picture AtLocation frame PartOf couch DefinedAs den
+this IsA typewriter DefinedAs this IsA corn DefinedAs this IsA great dane IsA dog IsA best friend IsA friend IsA human HasA pet
+seat PartOf bicycle HasA seat IsA something AtLocation someone AtLocation blanket MadeOf fabric PartOf sofa MadeOf leather UsedFor shoe AtLocation front door
+time HasProperty now CapableOf this IsA hot dog MadeOf cow CapableOf fart Causes stink CausesDesire have shower HasFirstSubevent get wet DefinedAs cool off HasPrerequisite go for swim
+hockey HasProperty ice PartOf cake MadeOf egg DefinedAs chicken MadeOf corn UsedFor corn on cob HasProperty yellow NotIsA president IsA leader UsedFor lead
+pride CausesDesire paint house HasPrerequisite paint IsA latex IsA paint AtLocation someone CapableOf watch movie HasPrerequisite time HasProperty now CapableOf this IsA stuff
+thin UsedFor paint AtLocation someone AtLocation bike IsA bicycle NotHasA motor PartOf robot IsA worker CapableOf drive to work Causes boredom CausesDesire surf net
+picture frame DefinedAs this IsA corn DefinedAs this IsA skink IsA lizard AtLocation leaf PartOf plant Desires water AtLocation refrigerator IsA electronic appliance
+knit HasPrerequisite yarn UsedFor knit HasPrerequisite yarn UsedFor knit HasPrerequisite yarn Desires nothing IsA nothing CausesDesire go to opera Causes boredom CausesDesire read letter
+this DefinedAs eiffel tower UsedFor tourist CapableOf visit museum Causes see art HasPrerequisite visit art gallery DefinedAs see art HasPrerequisite visit art gallery UsedFor learn IsA joy IsA emotion
+take bus HasSubevent read newspaper MotivatedByGoal news AtLocation tv AtLocation family room UsedFor play game Causes frustration CausesDesire take break UsedFor everyone Desires something AtLocation sewer
+filament PartOf lightbulb HasA filament PartOf lightbulb HasA filament PartOf light bulb AtLocation lamp IsA light source AtLocation light bulb MadeOf glass MadeOf silicon
+credit card IsA card UsedFor christmas IsA holiday HasSubevent take break UsedFor everyone HasA parent IsA person NotDesires boss IsA person CapableOf lie in bed
+girl AtLocation gym UsedFor get fit HasSubevent run HasProperty walk HasPrerequisite leg UsedFor run IsA something AtLocation you CapableOf walk dog HasSubevent smoke cigarette
+pear IsA edible fruit IsA fruit IsA something AtLocation person IsA fanatic IsA human InheritsFrom person Desires company Desires employee DefinedAs company
+dog DefinedAs flea AtLocation dog NotDesires flea AtLocation cat HasA hair IsA fur PartOf frog HasA bone AtLocation person NotDesires noise
+classical music HasProperty sing HasLastSubevent bow IsA ribbon AtLocation typewriter DefinedAs this IsA pitcher HasA handle PartOf coffee mug AtLocation kitchen HasA stove
+fly kite HasSubevent run UsedFor get exercise UsedFor stay fit Causes problem CausesDesire find information DefinedAs research HasPrerequisite time HasProperty now CapableOf this IsA steam locomotive
+ax AtLocation garage DefinedAs car UsedFor go to work Causes boredom CausesDesire watch tv show UsedFor boredom CausesDesire read letter HasSubevent anger CausesDesire kill HasPrerequisite hatred
+mouse AtLocation cheese AtLocation plate IsA dish IsA something AtLocation someone CapableOf weed garden HasPrerequisite knowledge AtLocation book UsedFor have fun Causes be happy
+dog CapableOf urinate DefinedAs go to toilet MotivatedByGoal urinate HasPrerequisite go to toilet MotivatedByGoal urinate HasPrerequisite dick AtLocation mall UsedFor shop HasPrerequisite go to store MotivatedByGoal buy shirt
+run HasPrerequisite run IsA something AtLocation dance UsedFor person DefinedAs human HasA hair AtLocation brush UsedFor paint AtLocation someone AtLocation lamb
+piggy bank AtLocation money CausesDesire create art HasPrerequisite creativity CausesDesire create art HasSubevent inspiration CausesDesire write story MotivatedByGoal express information Causes confusion AtLocation opera IsA sing
+cat Desires tuna fish AtLocation ocean MadeOf water AtLocation thunderstorm IsA storm AtLocation america PartOf world IsA reality CausesDesire pretend HasSubevent religion
+human AtLocation aircraft AtLocation sky AtLocation paint AtLocation someone CapableOf this IsA picture frame DefinedAs this IsA clothe AtLocation person DefinedAs eat pussy
+hole CreatedBy bullet UsedFor projectile IsA something AtLocation mat UsedFor picture frame DefinedAs this IsA typewriter DefinedAs this IsA chalkboard MadeOf slate
+box MadeOf cardboard IsA paper HasProperty thin UsedFor paint DefinedAs paint AtLocation someone DefinedAs read book MotivatedByGoal learn about subject UsedFor student Desires get good grade
+take exam MotivatedByGoal pass course Causes joy IsA dog ReceivesAction train MotivatedByGoal run in marathon HasPrerequisite practice MotivatedByGoal assertiveness AtLocation person CapableOf joke Causes laughter
+cat NotIsA dog IsA best friend IsA friend CapableOf die HasPrerequisite live Causes love AtLocation marriage Causes child AtLocation kindergarten UsedFor small child
+ice PartOf cake MadeOf egg DefinedAs chicken MadeOf corn DefinedAs this IsA mammal HasA fur AtLocation cat HasA bone AtLocation boat
+goal IsA something CapableOf start fire HasSubevent strike match DefinedAs light fire HasPrerequisite strike match DefinedAs start fire DefinedAs light match HasPrerequisite strike match HasSubevent light fire HasFirstSubevent light match
+skate UsedFor play hockey MotivatedByGoal exercise UsedFor train MotivatedByGoal run in marathon UsedFor athlete IsA person NotDesires it IsA something AtLocation someone AtLocation opera
+ribbon AtLocation typewriter DefinedAs this IsA advertisement CausesDesire go to film UsedFor date CausesDesire go to film HasPrerequisite ticket UsedFor one person IsA person DefinedAs parent
+surface AtLocation lake AtLocation dead body AtLocation trunk PartOf automobile IsA king HasA kingdom HasA king HasA kingdom AtLocation europe IsA continent
+team MadeOf person HasA belly button PartOf human AtLocation atheist AtLocation classroom UsedFor learn HasPrerequisite go to school UsedFor train MotivatedByGoal run in marathon UsedFor win prize
+wait in line HasPrerequisite time HasProperty now CapableOf this IsA corn DefinedAs this IsA great dane IsA dog DefinedAs flea IsA insect AtLocation pond
+muscle AtLocation restaurant AtLocation rice AtLocation wed CausesDesire go to hairdresser MotivatedByGoal have haircut HasPrerequisite scissor UsedFor ribbon AtLocation typewriter DefinedAs this IsA umbrella
+bird NotHasA arm AtLocation jacket AtLocation person DefinedAs human InheritsFrom person NotDesires terrorism CausesDesire fight war HasPrerequisite soldier IsA person CapableOf shoot gun
+have physical examination HasPrerequisite time HasProperty now CapableOf this IsA hot dog MadeOf cow HasA sex RelatedTo wife HasProperty female IsA human DefinedAs bone
+dog DefinedAs flea AtLocation dog HasA nose PartOf head PartOf person NotDesires get divorce HasPrerequisite marriage SymbolOf love Causes child NotDesires spank
+shore UsedFor meditation HasProperty relax Causes nerve AtLocation brain IsA organ AtLocation human body DefinedAs water AtLocation shower AtLocation bathroom AtLocation apartment
+ocean SymbolOf your mother AtLocation in kitchen AtLocation knife AtLocation plate IsA dish IsA something AtLocation someone CapableOf pay bill HasSubevent use calculator UsedFor dummy
+pride CausesDesire paint house HasPrerequisite paint AtLocation someone CapableOf this IsA lizard IsA animal CapableOf copulate UsedFor procreate HasSubevent hump PartOf camel
+kitten IsA cat HasA kitten IsA cat Desires mouse AtLocation cat InheritsFrom lynx IsA cat HasA flea AtLocation dog CapableOf bite
+get up early UsedFor bird AtLocation in sky AtLocation cloud IsA water vapor IsA gas AtLocation space AtLocation you IsA computer RelatedTo mouse DefinedAs computer
+water AtLocation apple HasA stem PartOf apple NotIsA vegetable AtLocation vegetable garden AtLocation ranch UsedFor cattle IsA animal NotDesires hunger CausesDesire begin work
+paper UsedFor write UsedFor tell story HasPrerequisite time HasProperty now CapableOf this IsA corn DefinedAs this IsA bill clinton IsA person CapableOf here
+religion IsA ideology CreatedBy person CapableOf kidney PartOf body PartOf automobile IsA king RelatedTo queen IsA bitch HasA puppy IsA small dog
+eat hamburger HasPrerequisite buy hamburger Causes eat hamburger HasPrerequisite buy hamburger DefinedAs eat hamburger HasPrerequisite buy hamburger DefinedAs be hungry CausesDesire go to restaurant HasPrerequisite credit card IsA card AtLocation card game
+hair PartOf head PartOf person Desires dog CausesDesire take walk UsedFor travel CausesDesire learn about world HasPrerequisite read book MotivatedByGoal learn about subject UsedFor student CapableOf listen music
+something CapableOf climb mountain UsedFor exercise MotivatedByGoal stay fit DefinedAs exercise MotivatedByGoal stay fit HasSubevent play tennis UsedFor fun IsA something AtLocation someone CapableOf gymnastics
+write UsedFor tell story HasPrerequisite time HasProperty now CapableOf this IsA picture frame DefinedAs this IsA typewriter DefinedAs this IsA pacifier MadeOf plastic
+hamburger IsA meat AtLocation plate IsA dish IsA something AtLocation someone CapableOf go for drive UsedFor scenery AtLocation paint AtLocation someone AtLocation birthday party
+document IsA paper DefinedAs draw CreatedBy artist CapableOf paint AtLocation someone AtLocation door MadeOf wood DefinedAs tree Desires water AtLocation soft drink
+metal AtLocation knife AtLocation plate IsA dish IsA something AtLocation someone CapableOf type Causes text HasA word PartOf dictionary UsedFor fulcrum
+sister AtLocation house HasProperty paint AtLocation someone CapableOf this IsA rubber chicken IsA prop AtLocation stage UsedFor performance UsedFor business IsA business
+thing IsA something AtLocation someone CapableOf read newspaper Causes learn about world UsedFor student DefinedAs take exam UsedFor pass class HasSubevent take exam UsedFor get good grade HasSubevent cheat
+bowl UsedFor play football HasPrerequisite ball AtLocation soccer field UsedFor play soccer HasPrerequisite ball IsA dance UsedFor perform MotivatedByGoal fame CausesDesire act in play UsedFor entertainment
+someone CapableOf this IsA corn DefinedAs this IsA kitten IsA cat HasA flea AtLocation dog IsA thing IsA something AtLocation movie theatre
+typewriter DefinedAs this IsA bow IsA ribbon AtLocation typewriter DefinedAs this IsA typewriter DefinedAs this IsA typewriter HasA ribbon UsedFor fashion
+human AtLocation atheist IsA person DefinedAs time HasProperty now CapableOf this DefinedAs i CapableOf person DefinedAs parent IsA person NotDesires moldy food
+polish UsedFor clean HasSubevent dust AtLocation loft AtLocation city NotDesires crime HasProperty rush Causes error IsA something AtLocation someone CapableOf go to bed
+metal ReceivesAction paint DefinedAs artist CapableOf paint AtLocation someone AtLocation border IsA edge PartOf sword IsA weapon UsedFor kill someone HasPrerequisite weapon
+weapon UsedFor kill someone HasSubevent smoke Causes pollution AtLocation air AtLocation tree HasA root PartOf plant PartOf nature DefinedAs environment AtLocation ecology
+kiss UsedFor adult IsA person Desires goal IsA something AtLocation someone CapableOf paint picture HasPrerequisite canvas UsedFor paint AtLocation someone AtLocation carnival
+something AtLocation crosswalk UsedFor cross street UsedFor chicken AtLocation egg CreatedBy hen IsA chicken DefinedAs egg UsedFor food InheritsFrom steak HasProperty sour
+this IsA robot IsA worker AtLocation work Causes hunger CausesDesire have lunch UsedFor take break HasPrerequisite time HasProperty now CapableOf this IsA backgammon
+cabinet AtLocation kitchen AtLocation knife AtLocation purse AtLocation handbag UsedFor woman Desires man DesireOf woman IsA slut IsA person Desires cookie
+person Desires something AtLocation someone AtLocation friend CapableOf make wine HasSubevent have lunch HasPrerequisite time HasProperty now CapableOf this IsA pushpin HasA sharp point
+god AtLocation cloud AtLocation air AtLocation lung PartOf whale CapableOf dive UsedFor fun IsA something AtLocation hat UsedFor shade IsA sunglass
+fruit AtLocation pizza IsA food AtLocation can MadeOf nickel IsA metal ReceivesAction paint AtLocation someone CapableOf this IsA plane AtLocation taxiway
+mug UsedFor coffee AtLocation mug UsedFor coffee AtLocation mug UsedFor coffee MadeOf bean AtLocation soup PartOf menu AtLocation restaurant HasA waiter
+human InheritsFrom person IsA fanatic IsA person NotDesires it IsA purse AtLocation handbag UsedFor woman Desires man IsA person Desires communicate
+human CapableOf laugh at joke UsedFor make friend HasPrerequisite go to pub DefinedAs get drunk HasPrerequisite alcohol CausesDesire sleep at night HasPrerequisite get into bed HasSubevent go to sleep MotivatedByGoal get up early UsedFor go to work
+there IsA column AtLocation magazine MadeOf paper AtLocation printer AtLocation computer ReceivesAction program HasPrerequisite use computer UsedFor student AtLocation earth IsA globe
+plate AtLocation home RelatedTo sister IsA girl CapableOf play frisbee UsedFor get exercise HasSubevent erection AtLocation man AtLocation bedroom AtLocation house UsedFor sale
+fortune AtLocation cookie AtLocation plate IsA dish IsA something CapableOf start fire HasPrerequisite spark Causes fire HasPrerequisite oxygen MadeOf proton PartOf nucleus
+hat IsA something AtLocation you CapableOf walk dog HasPrerequisite dog NotDesires cat HasA kitten IsA cat AtLocation couch IsA sofa ReceivesAction cushion
+time HasProperty now CapableOf this IsA basketball UsedFor play game HasSubevent compete HasPrerequisite opponent IsA person NotDesires it IsA something AtLocation cuba
+this IsA great dane IsA dog HasA feel AtLocation hat IsA something AtLocation university IsA school UsedFor make friend HasPrerequisite go to pub HasSubevent drink beer
+data AtLocation internet IsA net UsedFor hockey HasProperty ice PartOf cake MadeOf egg AtLocation chicken MadeOf corn DefinedAs this IsA push pin
+kid Desires finger paint UsedFor child CapableOf read newspaper Causes learn about world UsedFor student CapableOf find information HasSubevent take course UsedFor college student IsA student NotDesires teacher
+take walk HasPrerequisite leg PartOf chair AtLocation study room AtLocation house NotMadeOf glass PartOf window HasA frame PartOf paint AtLocation someone AtLocation hill
+shoot gun HasPrerequisite cock HasProperty penis AtLocation vagina AtLocation skirt IsA dress AtLocation refrigerator IsA machine UsedFor bottle wine AtLocation boat IsA vehicle
+sex RelatedTo wife UsedFor husband IsA male IsA boy CapableOf paint picture HasPrerequisite paint AtLocation someone CapableOf skate DefinedAs skate UsedFor skate
+towel AtLocation locker room CapableOf smell bad CausesDesire become more clean Causes stay healthy UsedFor everyone Desires something AtLocation hat IsA something CapableOf sex CausesDesire have shower
+laughter HasProperty good AtLocation supermarket AtLocation city DefinedAs crowd MadeOf person Desires music MadeOf note DefinedAs music MadeOf note DefinedAs music
+person NotDesires it IsA something AtLocation someone AtLocation race HasProperty time HasProperty now CapableOf this IsA jug HasA handle PartOf shovel
+this IsA duck IsA bird AtLocation birdbath AtLocation lawn AtLocation front yard UsedFor water AtLocation beer DefinedAs water AtLocation fog AtLocation valley
+this IsA piggy bank HasA coin AtLocation jar HasA something CapableOf play baseball CausesDesire score home run HasSubevent run IsA something AtLocation someone AtLocation resort
+typewriter DefinedAs this IsA shell PartOf egg AtLocation chicken MadeOf corn DefinedAs this IsA bill clinton IsA person Desires fresh fruit HasProperty sweet
+something AtLocation mat UsedFor picture frame DefinedAs this IsA swiss cheese NotHasA hole CreatedBy bullet UsedFor projectile IsA something AtLocation dentist office UsedFor read magazine
+foot AtLocation sock MadeOf cotton IsA fabric UsedFor curtain AtLocation window HasA frame PartOf bicycle HasA seat IsA something AtLocation nightclub
+penguin AtLocation south pole SymbolOf penguin AtLocation zoo AtLocation lion IsA cat HasA kitten AtLocation cardboard box AtLocation trash AtLocation trash IsA waste
+flea AtLocation cat AtLocation sit on chair HasPrerequisite chair AtLocation submarine CapableOf dive Causes go somewhere HasPrerequisite car AtLocation driveway AtLocation city NotDesires crime
+commit suicide UsedFor hitler IsA dictator IsA politician IsA thief IsA criminal IsA person Desires play UsedFor squirrel Desires nut PartOf bolt
+this IsA kitten IsA cat HasA kitten AtLocation zoo AtLocation lion IsA cat Desires milk AtLocation cow AtLocation ranch UsedFor cattle
+human CapableOf advance into battle HasPrerequisite ball UsedFor play game HasPrerequisite time HasProperty now CapableOf this IsA wed CausesDesire go to hairdresser HasPrerequisite hair AtLocation brush
+democracy Causes equality for everyone AtLocation america HasA president AtLocation government MadeOf political ideology UsedFor person CapableOf play sport HasLastSubevent shower UsedFor bathe HasPrerequisite bathtub
+wool AtLocation shirt HasA button DefinedAs mouse AtLocation keyboard HasA key IsA machine UsedFor paint house HasPrerequisite paint AtLocation someone AtLocation baltimore
+projectile IsA something AtLocation someone AtLocation resort HasA pool UsedFor dive UsedFor fun IsA something AtLocation someone AtLocation water AtLocation soda
+smell HasSubevent take bath HasPrerequisite time HasProperty now CapableOf this DefinedAs eiffel tower UsedFor tourist CapableOf visit museum Causes crowd MadeOf person NotDesires feel ill
+picture frame DefinedAs this IsA shell PartOf egg DefinedAs chicken MadeOf corn DefinedAs this DefinedAs i CapableOf person AtLocation society AtLocation population
+track AtLocation snow IsA water AtLocation bathtub UsedFor get clean Causes get wet MotivatedByGoal sex HasPrerequisite time HasProperty now CapableOf this IsA lawn chair
+eat dinner HasPrerequisite food InheritsFrom steak AtLocation house HasProperty paint IsA latex IsA paint AtLocation someone CapableOf skate Causes slip HasSubevent fall down
+paint AtLocation someone CapableOf this IsA picture frame DefinedAs this IsA ear IsA organ UsedFor music MadeOf sound AtLocation song AtLocation cd
+food AtLocation plate IsA dish IsA something AtLocation you AtLocation there IsA rabbit Desires carrot AtLocation cellar IsA house HasA storey
+head PartOf person NotDesires hatred CausesDesire wage war UsedFor hitler IsA dictator IsA politician AtLocation whorehouse UsedFor prostitution HasPrerequisite money AtLocation vault
+water AtLocation ice PartOf cake MadeOf egg CreatedBy hen IsA chicken MadeOf corn DefinedAs this IsA picture frame DefinedAs this IsA air pump
+pay by check HasPrerequisite checkbook HasA check AtLocation checkbook AtLocation draw HasSubevent express yourself HasSubevent paint AtLocation shelf AtLocation bathroom HasA plumb IsA system
+inspiration CausesDesire create art MotivatedByGoal express yourself HasSubevent paint AtLocation someone AtLocation home RelatedTo sister IsA girl IsA kid Desires finger paint UsedFor child
+earth NotIsA ball AtLocation baseball field AtLocation baseball stadium UsedFor play baseball CausesDesire score home run UsedFor baseball player IsA human CapableOf procreate Causes overpopulation CausesDesire gain more land
+paint UsedFor artist CapableOf paint AtLocation someone CapableOf this IsA picture frame DefinedAs this IsA picture frame DefinedAs this IsA life preserver IsA flotation device
+something CapableOf fly kite HasPrerequisite string PartOf harpsichord AtLocation concert hall UsedFor classical music HasProperty sing CreatedBy musician AtLocation symphony IsA music AtLocation radio
+passage AtLocation bible AtLocation in church HasSubevent pray HasPrerequisite god DefinedAs church UsedFor sing HasLastSubevent bow PartOf sailboat PartOf regatta IsA boat race
+pudding MadeOf egg DefinedAs chicken MadeOf corn DefinedAs this DefinedAs i Desires horse IsA horse NotHasA toe AtLocation sock AtLocation foot
+home RelatedTo sister IsA girl AtLocation gym UsedFor get fit HasSubevent run IsA something AtLocation someone CapableOf play basketball HasPrerequisite practice PartOf play violin
+mat UsedFor picture frame DefinedAs this IsA something AtLocation someone CapableOf eat hamburger HasPrerequisite buy hamburger HasPrerequisite be hungry CausesDesire fish HasPrerequisite water DefinedAs cleanse
+typewriter DefinedAs this IsA typewriter HasA ribbon AtLocation typewriter HasA key AtLocation lock AtLocation locker room CapableOf smell bad CausesDesire bathe UsedFor bubble bath
+wed CausesDesire go to hairdresser MotivatedByGoal have haircut HasPrerequisite scissor UsedFor ribbon AtLocation typewriter HasA key IsA machine UsedFor play chess HasPrerequisite chess board UsedFor display
+ticket UsedFor one person IsA person CapableOf play basketball UsedFor get exercise DefinedAs get in shape MotivatedByGoal sex AtLocation porn AtLocation internet IsA net UsedFor hockey
+use computer UsedFor adult IsA person HasA hair AtLocation skin AtLocation pudding MadeOf egg UsedFor food InheritsFrom steak IsA meat AtLocation stew
+love IsA heart IsA organ AtLocation person NotDesires it IsA purse AtLocation handbag UsedFor woman IsA person NotDesires flu IsA virus
+hand PartOf clock AtLocation house HasA wire PartOf tv DefinedAs watch IsA clock AtLocation table NotCapableOf run marathon Causes have heart attack Causes be dead
+chicken MadeOf corn DefinedAs this IsA pen RelatedTo pencil UsedFor write story UsedFor fun IsA something AtLocation someone CapableOf this IsA fan
+security CausesDesire start family HasPrerequisite spouse AtLocation you PartOf we HasA retriever IsA dog NotDesires flea AtLocation cat HasA flea IsA parasite
+tail PartOf cat InheritsFrom lynx IsA cat Desires mouse AtLocation cat IsA friend IsA human CapableOf advance into battle HasPrerequisite ball UsedFor tennis
+seat IsA something AtLocation someone CapableOf read newspaper Causes learn about world HasSubevent use computer UsedFor student DefinedAs take exam Causes get job DefinedAs work UsedFor produce
+child DefinedAs love Causes child IsA young person Desires attend rock concert HasPrerequisite ticket UsedFor one person IsA person IsA fanatic IsA human AtLocation move car
+jar HasA something AtLocation mat UsedFor picture frame DefinedAs this IsA photograph IsA picture AtLocation frame PartOf paint AtLocation someone CapableOf kayak
+this IsA paint DefinedAs paint AtLocation someone CapableOf play piano DefinedAs music MadeOf note AtLocation screen IsA computer RelatedTo mouse IsA rat
+athlete IsA person Desires goal CausesDesire write program UsedFor programmer CapableOf write program UsedFor use computer UsedFor adult IsA person DefinedAs human CapableOf share
+grape AtLocation bowl UsedFor soup MadeOf water AtLocation refridgerator PartOf kitchen AtLocation knife UsedFor slice PartOf orange NotIsA president AtLocation board room
+chicken MadeOf corn DefinedAs this DefinedAs i PartOf alphabet IsA letter PartOf book HasA paper page AtLocation magazine IsA book HasProperty interest
+play football HasPrerequisite ball AtLocation playroom UsedFor child IsA person HasA hair PartOf head HasA brain AtLocation person NotDesires error CausesDesire post message
+coffee AtLocation mug IsA container AtLocation kitchen AtLocation knife AtLocation fork AtLocation home RelatedTo sister IsA girl CapableOf play frisbee HasPrerequisite go to beach
+this IsA swiss cheese NotHasA hole CreatedBy bullet UsedFor projectile IsA something AtLocation someone AtLocation there IsA rabbit Desires lettuce PartOf salad
+great dane IsA dog DefinedAs go for walk UsedFor stay fit HasSubevent jog HasSubevent run IsA something AtLocation hole CreatedBy bullet UsedFor projectile AtLocation space
+someone CapableOf this IsA chair AtLocation you AtLocation there IsA rabbit SymbolOf moon RelatedTo star MadeOf hydrogen IsA gas DefinedAs gasoline
+someone CapableOf this IsA shell AtLocation ocean UsedFor relax Causes nerve AtLocation brain AtLocation person Desires noodle MadeOf wheat RelatedTo white rice
+sock MadeOf cotton IsA fabric MadeOf fiber PartOf yarn IsA textile IsA cloth MadeOf fiber PartOf yarn UsedFor knit HasPrerequisite yarn
+this IsA dog HasA bone AtLocation person Desires cake MadeOf egg DefinedAs chicken MadeOf corn DefinedAs this DefinedAs i CapableOf use television
+data AtLocation internet IsA net UsedFor hockey HasProperty ice AtLocation refridgerator AtLocation fruit IsA something AtLocation pluto HasA moon AtLocation sky
+food InheritsFrom steak MadeOf beef AtLocation plate IsA dish AtLocation table RelatedTo chair IsA seat IsA something AtLocation risk IsA board game
+sex RelatedTo wife UsedFor husband UsedFor wife UsedFor sex HasPrerequisite time HasProperty now CapableOf this IsA typewriter DefinedAs this IsA jug
+automobile IsA king HasA kingdom HasA king HasA kingdom HasA king RelatedTo queen IsA bitch HasA puppy IsA baby CapableOf urinate
+number AtLocation calculator AtLocation office AtLocation skyscraper CreatedBy person Desires reproduce HasPrerequisite copulate UsedFor procreate HasSubevent sex HasPrerequisite time DefinedAs fourth dimension
+create art MotivatedByGoal express yourself HasSubevent paint IsA latex IsA paint AtLocation someone AtLocation horse HasA fur PartOf frog DefinedAs water AtLocation tidal wave
+thin UsedFor paint IsA latex IsA paint AtLocation someone CapableOf this DefinedAs i CapableOf use television UsedFor knowledge AtLocation encyclopedia IsA reference book
+bathroom AtLocation mall HasProperty crowd MadeOf person Desires companion AtLocation you PartOf we HasA retriever IsA dog NotDesires cat AtLocation paris
+speed Causes ticket UsedFor one person IsA person NotDesires air pollution IsA pollution AtLocation air AtLocation balloon HasA water AtLocation grape HasA seed
+time HasProperty now CapableOf this IsA typewriter DefinedAs this IsA shell PartOf egg DefinedAs chicken MadeOf corn DefinedAs this IsA rubber stamp
+vineyard CapableOf bottle wine UsedFor eat meal Causes take break HasPrerequisite time DefinedAs fourth dimension IsA time HasProperty now CapableOf this IsA bird IsA dinosaur
+go to hairdresser MotivatedByGoal have haircut HasPrerequisite hair IsA fur AtLocation cat AtLocation seat IsA something AtLocation someone CapableOf this IsA backgammon IsA game of chance
+primate IsA mammal HasA hair AtLocation moustache AtLocation face PartOf clock IsA machine UsedFor cook MotivatedByGoal need food CausesDesire go to market HasPrerequisite have money
+baby PartOf family HasA child IsA person NotDesires it UsedFor kid Desires finger paint UsedFor child IsA person NotDesires get divorce HasPrerequisite marriage
+this IsA duck HasA bone AtLocation beach HasA sand MadeOf gravel MadeOf small stone MadeOf limestone MadeOf lime IsA fruit HasA vitamin c
+student DefinedAs take exam UsedFor pass class HasSubevent take exam Causes stupidity AtLocation person NotDesires traffic congestion IsA problem CausesDesire find information HasSubevent take course UsedFor high school student
+human AtLocation aircraft AtLocation sky AtLocation paint HasPrerequisite brush UsedFor paint AtLocation someone AtLocation emotion PartOf mind PartOf human AtLocation subway station
+grind AtLocation tree AtLocation in park AtLocation flower Desires woman Desires man CapableOf love IsA heart IsA organ AtLocation person CapableOf need to relax
+crustacean AtLocation ocean SymbolOf your mother AtLocation in kitchen AtLocation knife AtLocation fork MadeOf metal AtLocation knife UsedFor kill person Causes murder IsA evil
+glass MadeOf sand MadeOf gravel MadeOf small stone MadeOf limestone MadeOf lime IsA fruit HasA sugar AtLocation bag AtLocation trash AtLocation dustbin
+grain UsedFor make bread Causes bread UsedFor butter AtLocation bread UsedFor butter MadeOf milk HasA water AtLocation apple IsA company Desires employee
+projectile IsA something AtLocation someone CapableOf this IsA horse AtLocation a HasA coke AtLocation movie CausesDesire stand in queue HasPrerequisite get in line Causes long line
+hat IsA something AtLocation cinema UsedFor watch movie HasPrerequisite time HasProperty now CapableOf this IsA typewriter DefinedAs this IsA bell CapableOf ring
+person DefinedAs dog AtLocation backyard AtLocation house HasA foyer DefinedAs entrance hall AtLocation school UsedFor make friend HasSubevent fall in love Causes pain CausesDesire have physical examination
+time HasProperty now CapableOf this IsA coat hanger IsA triangle IsA figure IsA electric fan AtLocation computer AtLocation vehicle UsedFor drive Causes movement
+politician AtLocation government MadeOf political ideology UsedFor person NotDesires horn AtLocation bull HasA horn AtLocation bull HasA horn AtLocation bull IsA team
+dance UsedFor perform UsedFor actor IsA person DefinedAs human AtLocation atheist IsA human AtLocation chair AtLocation table AtLocation library AtLocation college
+this IsA basketball AtLocation basketball court HasA net UsedFor hockey HasProperty ice MadeOf water AtLocation grape AtLocation paint AtLocation someone AtLocation iraq
+projectile IsA something AtLocation someone CapableOf go for drive UsedFor scenery AtLocation paint AtLocation someone CapableOf this IsA typewriter DefinedAs this IsA bicyclist
+this IsA robot IsA worker CapableOf drive to work HasPrerequisite buy car HasPrerequisite get job HasPrerequisite go to school HasSubevent read book MotivatedByGoal learn about subject UsedFor student NotDesires take exam
+have fun HasPrerequisite relax Causes nerve PartOf human body HasProperty water AtLocation beer AtLocation me PartOf we HasA retriever IsA dog IsA wolf
+love Causes child HasA parent IsA person Desires sunlight IsA energy AtLocation coal AtLocation fire HasPrerequisite oxygen MadeOf neutron PartOf atom
+zoo AtLocation lion IsA cat HasA flea AtLocation cat AtLocation chair IsA seat IsA something AtLocation someone CapableOf go for drive UsedFor solitude
+car HasA wheel UsedFor car UsedFor go to work Causes boredom CausesDesire watch television show Causes boredom CausesDesire watch tv Causes entertainment AtLocation show UsedFor audience
+student DefinedAs take exam MotivatedByGoal pass course Causes joy IsA dog IsA dog CausesDesire take walk UsedFor commute HasSubevent board train HasFirstSubevent buy ticket MotivatedByGoal go to film
+typewriter DefinedAs this IsA corn DefinedAs this IsA something AtLocation person InheritsFrom child Desires candy DefinedAs sugar AtLocation coffee AtLocation coffee cup
+bread UsedFor butter AtLocation toast IsA bread PartOf sandwich AtLocation delicatessen UsedFor eat lunch MotivatedByGoal be hungry CausesDesire eat hamburger HasPrerequisite buy hamburger MotivatedByGoal fast food
+sister IsA girl IsA woman IsA mayor AtLocation city hall UsedFor court AtLocation lawyer IsA person NotDesires it IsA medal IsA award
+food InheritsFrom apple NotIsA pear IsA edible fruit IsA fruit HasA sugar AtLocation coffee AtLocation mug UsedFor coffee AtLocation coffee cup AtLocation kitchen
+home RelatedTo sister IsA girl IsA kid NotDesires study RelatedTo exam PartOf take course UsedFor college student IsA student NotDesires take exam Causes stupidity
+wrestle HasPrerequisite helmet IsA hat IsA something AtLocation south pole SymbolOf penguin AtLocation south pole SymbolOf penguin AtLocation south pole SymbolOf penguin InheritsFrom emu
+sister IsA girl AtLocation hospital DefinedAs patient IsA person NotDesires feel ill CausesDesire have physical examination HasPrerequisite have bath HasPrerequisite soap AtLocation bathroom HasA plumb
+film IsA movie IsA film IsA movie IsA film CreatedBy person Desires mother HasA child CapableOf listen to music CausesDesire see band HasPrerequisite go to concert
+chicken AtLocation egg AtLocation chicken MadeOf corn DefinedAs this DefinedAs globe IsA ball AtLocation hole HasProperty one CapableOf run marathon Causes have heart attack
+this IsA typewriter DefinedAs this IsA something CapableOf eat lunch HasPrerequisite food MadeOf meat IsA food InheritsFrom steak DefinedAs eat HasPrerequisite make food
+pride CausesDesire paint house HasPrerequisite paint AtLocation someone CapableOf this IsA picture frame DefinedAs this IsA car Causes pollution AtLocation sky AtLocation rainbow
+this IsA shell PartOf egg CreatedBy hen IsA chicken MadeOf corn DefinedAs this IsA corn HasA water AtLocation beer AtLocation refrigerator freezer
+this IsA corn DefinedAs this IsA man CapableOf need money CausesDesire work Causes hunger CausesDesire fish HasPrerequisite water AtLocation apple NotIsA pear
+start fire HasPrerequisite light match UsedFor start fire DefinedAs strike match HasSubevent light fire HasPrerequisite strike match DefinedAs start fire HasSubevent strike match DefinedAs start fire HasSubevent strike match HasSubevent light fire
+see art HasPrerequisite visit art gallery MotivatedByGoal see art HasPrerequisite visit art gallery UsedFor inspiration CausesDesire write story MotivatedByGoal express information DefinedAs speak Causes sound AtLocation song AtLocation jukebox
+computer RelatedTo screen PartOf tv UsedFor watch UsedFor time HasProperty now CapableOf this IsA picture frame DefinedAs this IsA wrench IsA lever
+south pole SymbolOf penguin DefinedAs animal CapableOf copulate MotivatedByGoal child DefinedAs young person Desires attend rock concert HasPrerequisite ticket UsedFor one person IsA person NotDesires injustice
+plate IsA dish IsA plate IsA dish IsA something AtLocation soccer field UsedFor play soccer HasPrerequisite ball AtLocation soccer field UsedFor play soccer MotivatedByGoal victory
+hair PartOf head PartOf person UsedFor labor AtLocation work Causes hunger CausesDesire cook curry HasFirstSubevent go to store HasPrerequisite drive car UsedFor go somewhere Causes get there
+egg CreatedBy hen IsA chicken MadeOf corn DefinedAs this IsA singer IsA person NotDesires it IsA something AtLocation someone AtLocation food court
+person Desires science AtLocation library HasA door UsedFor passage IsA hallway AtLocation build HasA window AtLocation church UsedFor sing AtLocation church
+listen to radio HasPrerequisite use computer UsedFor student AtLocation earth IsA object IsA thing IsA something AtLocation basement DefinedAs house MadeOf brick MadeOf clay
+penis PartOf male IsA boy IsA child AtLocation bicycle HasA seat IsA something AtLocation mat UsedFor picture frame DefinedAs this IsA pipe
+family HasA child IsA person Desires noodle MadeOf flour MadeOf wheat UsedFor flour UsedFor make bread HasPrerequisite flour MadeOf wheat AtLocation mill
+apply for job Causes employment Causes depression CausesDesire stay in bed HasSubevent read book MotivatedByGoal learn about subject UsedFor student NotDesires exam PartOf take course UsedFor high school student NotDesires homework
+female IsA human CapableOf advance into battle HasPrerequisite ball UsedFor bear AtLocation zoo AtLocation lion IsA cat DefinedAs dog HasA hair DefinedAs comb
+have checkup HasPrerequisite time HasProperty now CapableOf this IsA typewriter DefinedAs this IsA picture frame DefinedAs this IsA picture frame DefinedAs this IsA pitcher
+knife UsedFor kill Causes guilt PartOf crime HasProperty rush Causes error IsA something AtLocation eiffel tower UsedFor tourist CapableOf visit museum Causes see art
+crosswalk UsedFor cross street UsedFor pedestrian CapableOf cross street UsedFor pedestrian CapableOf cross street UsedFor chicken MadeOf corn DefinedAs this IsA hot water bottle HasProperty hot
+something AtLocation someone CapableOf this IsA picture frame DefinedAs this DefinedAs i CapableOf tire AtLocation trunk PartOf tree NotHasA brain MadeOf neuron
+right hand PartOf person AtLocation water bottle AtLocation drawer AtLocation dresser AtLocation in bedroom AtLocation clothe AtLocation person HasProperty strange AtLocation bus station HasA bench
+polish AtLocation shoe UsedFor run IsA something AtLocation beach towel AtLocation beach HasA sand MadeOf gravel MadeOf small stone MadeOf limestone MadeOf lime

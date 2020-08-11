@@ -1,0 +1,2400 @@
+baseball <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> evolotionia nationalis
+yo-yo <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> callgraveyard
+dog <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call tombavores
+pen <MASK> <MASK> used for <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+something that be very good <MASK> <MASK> has property <MASK> ifull <MASK> <MASK> dead
+dog <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has property <MASK> consider status symbol
+polo <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verbesina
+bottle <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> destroyant
+book <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+sex <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> consider dirty
+gold <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> ai
+sushi <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> raw fish
+telephone <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> phone
+sleep <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> sleep disorder
+soccer <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> aolophis olivacea
+fish <MASK> <MASK> at location <MASK>  <MASK> <MASK> in ocean
+rose <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> a'hangra
+cloud <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> symbol of <MASK> conservation of energy
+linux <MASK> <MASK> is a <MASK> hedron <MASK> <MASK> defined as <MASK> aythocarcasmus
+child <MASK> <MASK> at location <MASK> hed comb <MASK> <MASK> at location <MASK> apropane
+fly <MASK> <MASK> is a <MASK>  <MASK> <MASK> has property <MASK> pretty
+computer <MASK> <MASK> at location <MASK>  <MASK> <MASK> in observatory
+apple <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+clothe <MASK> <MASK> at location <MASK>  <MASK> <MASK> used for <MASK> hang belt
+book <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+violin <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> aol
+bottle <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> plastic
+coat <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> reptile
+computer <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> program language
+key <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> please to hear
+cat <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> very soft
+camera <MASK> <MASK> used for <MASK>  photography <MASK> <MASK> is a <MASK> hobby
+basketball player <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> tall than average man
+bass <MASK> <MASK> is a <MASK>  frog <MASK> <MASK> defined as <MASK> drepanoptila holosericella
+spoon <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dog
+paper clip <MASK> <MASK> at location <MASK>  <MASK> <MASK> book
+keyboard <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> computer
+paper <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+computer <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+shark <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> zoo
+chicken <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+hammer <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dog
+word <MASK> <MASK> at location <MASK>  <MASK> <MASK> a <MASK> aria
+keyboard <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> accomodations
+animal <MASK> <MASK> at location <MASK> hed zoo <MASK> <MASK> zoo
+water <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+window <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+net <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dre
+dog <MASK> <MASK> at location <MASK>  <MASK> <MASK> porch
+dog <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> plastic
+attend school <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> fall down
+librarian <MASK> <MASK> at location <MASK>  <MASK> <MASK> atlas
+football <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> activity
+water <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> waterfall
+car <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+sky <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> low than land
+football <MASK> <MASK> is a <MASK>  <MASK> <MASK> has property <MASK> round
+love <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes <MASK> hoarse
+knife <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> cut tool
+music <MASK> <MASK> has property <MASK>  <MASK> <MASK> receives action <MASK> relate to as flower
+ball <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> alive before it fall
+see <MASK> <MASK> is a <MASK> hed beak whale <MASK> <MASK> is a <MASK> whale
+do housework <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> have broom
+dog <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> use toilet plunger
+tennis <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acrocephalus tennesseensis
+lion <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apodemia mocinnatensis
+statue of liberty <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> exist
+bird <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> one measure of intelligence
+teacher <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> yellow
+pool <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> consider status symbol
+wing <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>leaf
+shoe <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> porch
+sleep <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> dna
+human <MASK> <MASK> capable of <MASK>  <MASK> <MASK> at location <MASK> roof
+have checkup <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have checkup
+have haircut <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> visit your doctor
+bus stop <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> noisy place
+book <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+chair <MASK> <MASK> at location <MASK>  <MASK> <MASK> porch
+see <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes desire <MASK> go for walk
+plant <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> flower
+book <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> book
+pilot <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> engineer department
+person <MASK> <MASK> not capable of <MASK>  <MASK> mean that person have to
+doctor <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> constatistic
+see exhibit <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> go to museum
+cup <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+food <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+car <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+trout <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> douncebus pygathus
+cheese <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> milk
+sunset <MASK> <MASK> has property <MASK>  <MASK> alive
+see band <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> buy ticket to their concert
+car <MASK> <MASK> has a <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+boy <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> hodgepodge
+penguin <MASK> <MASK> not capable of <MASK>  fly but cannot fly
+read <MASK> <MASK> causes <MASK> hed butterfly <MASK> <MASK> defined as <MASK> icarioides radiateum
+do housework <MASK> <MASK> causes <MASK>  <MASK> <MASK> has subevent <MASK> clean floor
+bed <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> decorative
+turtle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> podarcus pityus
+match <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> please to hear
+carpet <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> floor cover
+knife <MASK> <MASK> at location <MASK>  <MASK> <MASK> museum
+eat <MASK> <MASK> has subevent <MASK> ys <MASK> <MASK> is a <MASK> whale
+sex <MASK> <MASK> is a <MASK>  <MASK> <MASK> used for <MASK> have close
+vegetable <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> aol
+toe <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> pair of dice
+book <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+pilot <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> coach
+statue of liberty <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of freedom
+maintain muscle strength <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> not get sick
+guitar <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> verbesina flava
+magician <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+listen to music <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> put your foot to hear
+doll <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> podarcadona dallas
+ocean <MASK> <MASK> has a <MASK>  <MASK> <MASK> 1960s vintage
+commit perjury <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> think of it
+cloth <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> decorative item
+key <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> bird
+cloth <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> decorative item
+smoke <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes <MASK> death
+buy something <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has subevent <MASK> compare and contrast
+sleep <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> sleep disorder
+pen <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+rock <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> violence
+pan <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> gullible fruit
+exercise <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes <MASK> illness
+student <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> lot of pressure to conform
+car <MASK> <MASK> at location <MASK> hed <MASK> <MASK> at location <MASK> in a
+bird <MASK> <MASK> at location <MASK>  <MASK> <MASK> in winter
+book <MASK> <MASK> at location <MASK>  <MASK> <MASK> has property <MASK> expensive
+venus <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> herbacea la modea
+swiss cheese <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> romania mucilla
+fruit <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> important part of life
+boat <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> whale
+seven day <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> wednesday
+have physical exam <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have physical examination
+rain <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> birth
+host <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> chair
+key <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> bird
+saddle <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>addle canoe
+love <MASK> <MASK> causes desire <MASK>  <MASK> <MASK> defined as <MASK> oxylophone
+tickle <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> form of comedy
+bookshelf <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK>lfnobylus bookcase
+carpet <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> rugon florida
+glass <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> milk in kitchen
+shirt <MASK> <MASK> at location <MASK> hedron of <MASK> <MASK> at location <MASK> at my desk
+apple <MASK> <MASK> has property <MASK>  <MASK> <MASK> alive
+peach <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acinonyx conradilla
+book <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+silver <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> anodorantus olivacea
+finch <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apodemia mucleus
+cat <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+tree <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> plant
+horse <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> dog
+seven continent <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> our president
+corn <MASK> <MASK> is a <MASK>  <MASK> <MASK> a <MASK> plant
+murder <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> illegal act
+shingle <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> mushroom
+diminish your own hunger <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> eat food
+someone <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> in dresden
+start family <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> unhappiness
+fruit <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> vitamin rich
+have checkup <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> take off your clothe
+bicycle <MASK> <MASK> at location <MASK>  <MASK> <MASK> in route
+money <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> a
+cat <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> dog
+water <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> water
+golden retriever <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> loyal dog
+blue <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araenicophilus apicalis
+chicken <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+bed <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> call rubber band
+iron <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> talk
+java <MASK> <MASK> is a <MASK>  <MASK> <MASK> a <MASK> program language
+ostrich <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> antechicola
+ant <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> biouri bladderpod
+house <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> destroy ai
+car <MASK> <MASK> has a <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+jellyfish <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> anodorantus japonensis
+dog <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> tail
+boat <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> atlas
+earth <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> 4,095
+bicycle <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> cynocephalus
+go to sport event <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> put on shoe
+dream <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> conservation of energy
+music <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of a <MASK> life
+saxophone <MASK> <MASK> is a <MASK>  <MASK> <MASK> consider woodwind instrument
+light match <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+dealer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call rubber chicken
+go to bed <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> sleep under cover
+chicken <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> oxypithecus golandi
+voice <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> gag
+computer <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+earth <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> popular child of all country
+elephant <MASK> <MASK> at location <MASK>  <MASK> <MASK> zoo
+prisoner <MASK> <MASK> at location <MASK>  <MASK> <MASK> in albania
+key <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> unlock
+apple <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> plant
+airplane <MASK> <MASK> at location <MASK>  <MASK> <MASK> at airport
+child <MASK> <MASK> desires <MASK>  <MASK> <MASK> has property <MASK> quick than most adult humansite
+go to get haircut <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> hair
+play <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> has subevent <MASK> lose your balance
+man <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> cosmetic
+biology <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> atypewriter
+exercise <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> part of <MASK> flower
+dog <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call tombavigate
+tile <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> defined as <MASK> verbesina jonii
+telephone <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> aol
+plate <MASK> <MASK> at location <MASK> hed comb <MASK> <MASK> at location <MASK> dine room
+fruit <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> plant
+mastercard <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> california
+fall <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+stop your bicycle <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> use your brake
+mushroom <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>grim skilledround island
+read newspaper <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> is a <MASK> puzzle
+clock <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call castle
+run <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult
+cat <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+pistol <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> beenodactylus townsendii
+glass <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+play sport <MASK> <MASK> used for <MASK>  <MASK> <MASK> has prerequisite <MASK> skill
+human <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in space
+literature <MASK> <MASK> at location <MASK>  <MASK> <MASK> museum
+glass <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> milk in bottle
+cat <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> dog
+jump rope <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> you fall
+play <MASK> <MASK> causes <MASK> hed have <MASK> <MASK> receives action <MASK> treat with rubber ducky
+poodle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> cynocephalus
+dolphin <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> antechicis
+nurse <MASK> <MASK> at location <MASK>  <MASK> <MASK> at 4:50 aire
+pineapple <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verbesina fuscipes
+kill <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> banshee in celtic lore
+finger <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> sell separately
+page <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> chess piece
+star <MASK> <MASK> at location <MASK>  <MASK> <MASK> in sky
+bury cat <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> must be move to cat
+goldfish <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> anolis rotell jokeus
+dice <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> plant
+light fire <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> blow out
+wash your car <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> wipe out water
+chimney <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> capromys meadow
+bicycle <MASK> <MASK> at location <MASK>  <MASK> <MASK> in florida
+lawn mower <MASK> <MASK> at location <MASK>  <MASK> <MASK> yard
+go on vacation <MASK> <MASK> causes <MASK>  <MASK> <MASK> has property <MASK> yellow
+circle <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> consider lucky charm
+tablecloth <MASK> <MASK> at location <MASK>  <MASK> <MASK> table
+pray <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has property <MASK> alive
+sex <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> illegal in america
+pilot <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+galaxy <MASK> <MASK> at location <MASK>  <MASK> <MASK> space station
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+cat <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> windowsillifer diana
+find lose item <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> search for it
+use computer <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> editpad
+cat <MASK> <MASK> at location <MASK>  <MASK> <MASK> has property <MASK> use as guide
+bride <MASK> <MASK> at location <MASK>  <MASK> <MASK> museum
+water <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+watch movie <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have eye
+needle <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes desire <MASK> have checkup
+pilot <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+go to opera <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> opera ticket to opera
+doctor <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> refer to as herbacea
+bicycle storage area <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> place
+computer <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> program language
+star <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> sky
+bread <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> in a <MASK> in dresden
+dresser <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> home
+toilet <MASK> <MASK> at location <MASK>  <MASK> <MASK> bathroom
+window <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> defined as <MASK> vermontanawindow curtain
+tuba <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> cynomys araus
+orchid <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> herbacea la ovatensis
+kettle <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> probarbus galeritus galeritus
+water <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> chemical
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+badminton <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has property <MASK> good
+golf <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verbesina
+canada <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vermochelys imbricata
+home <MASK> <MASK> related to <MASK>  <MASK> <MASK> defined as <MASK> home row
+sex <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> often
+read <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+gardener <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+neighbour <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> neoseps nevadensis
+parakeet <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> couch potatoica
+have haircut <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> hair
+go for drive <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> conservation of energy
+fish <MASK> <MASK> not capable of <MASK>  pet fish <MASK> <MASK> eat itselg
+dog <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> red
+pickle <MASK> <MASK> at location <MASK>  <MASK> <MASK> jar
+opera singer <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK>chair
+something <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+bottle <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> oxypolis olivacea
+tickle <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+go to bed <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has property <MASK> brush and paint
+stop your car <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> press brake
+bird <MASK> <MASK> at location <MASK>  <MASK> <MASK> in winter
+plate <MASK> <MASK> at location <MASK> hed comb <MASK> <MASK> used for <MASK> hair
+saw <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> decorative
+girl <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call tomboy
+pretend <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+table <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+bomb <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> engineer masterwork
+yoyo <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> hemodynamic disorder
+chicken <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> egg
+commit perjury <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> lie while under oath
+key <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> defined as <MASK> lasiurus aestivalis
+jellyfish <MASK> <MASK> at location <MASK>  <MASK> <MASK> atlantic ocean
+potato <MASK> <MASK> at location <MASK>  <MASK> <MASK> windowsill
+sink <MASK> <MASK> at location <MASK>  <MASK> <MASK> in florida
+wallet <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> defined as <MASK> ana ara
+money <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+horn <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araigeonii ara
+build <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> has property <MASK> pretty
+snowman <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> chemical reaction
+tree <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> birth
+book <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+smoke <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes <MASK> birth defect
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+weapon <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>weapon
+tire <MASK> <MASK> part of <MASK>  <MASK> <MASK> at location <MASK> child
+baseball <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> evolotionia aolotioniculata
+horse <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> consider exotic animal
+cat <MASK> <MASK> has a <MASK>  <MASK> <MASK> has property <MASK> similar to adrenaline
+glue <MASK> <MASK> has property <MASK>  <MASK> <MASK> dead
+world <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> popular story
+make person laugh <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have humor
+human <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> porch
+gather energy for tomorrow <MASK> <MASK> has subevent <MASK> icle <MASK> <MASK> feel lively
+car <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in florida
+read <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> learn as chore
+guitar <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> please to look at
+frisbee <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> flower
+read newspaper <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> buy it
+wheel <MASK> <MASK> has property <MASK>  <MASK> <MASK> alive withwheelchair
+go for haircut <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> have hair
+breathe <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> feeleral
+comb <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> many tooth
+eiffel tower <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of paris france
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+stapler <MASK> <MASK> at location <MASK>  <MASK> <MASK> in office
+sex <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> illegal in america
+sushi <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> raw fish prepare for eat
+paper <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> book
+ping pong <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> jack eurycea
+double edge razor <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> unlit bulb
+rest <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> dre
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+go to sleep <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> you dream
+chess board <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> chess board
+park area <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK>goalie californiana
+student <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+human <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> porch
+human <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> space shuttle
+potato <MASK> <MASK> at location <MASK>  <MASK> <MASK> windowsill
+state <MASK> <MASK> at location <MASK>  <MASK> <MASK> in village
+stapler <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> library
+book <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> sell separately
+gravity <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes <MASK> bo to fall down
+woodwind <MASK> <MASK> is a <MASK>  <MASK> <MASK> instrument
+piano <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apropane of macdonalds
+guitar <MASK> <MASK> is a <MASK>  <MASK> <MASK> not is a <MASK> easy to take care of
+anger <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes desire <MASK> have physical examination
+food <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> couch potato
+cat <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+toilet paper <MASK> <MASK> at location <MASK>  <MASK> <MASK> used for <MASK> wipe nose and bum
+giraffe <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> mammal
+china <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vyra lhuacrosse
+day <MASK> <MASK> has property <MASK> hed <MASK> <MASK> part of <MASK> dental drill
+banana <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vinsonii ara
+pillow <MASK> <MASK> at location <MASK>  <MASK> <MASK> bottle
+horse <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> consider space for horse
+christianity <MASK> <MASK> is a <MASK>  <MASK> <MASK> monotheism
+food <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> any major city
+eiffel tower <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> in france
+food <MASK> <MASK> at location <MASK> hed belt <MASK> <MASK> part of <MASK> san francisco
+grass <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> lawn
+earth <MASK> <MASK> not is a <MASK>  but it <MASK> <MASK> not
+milk <MASK> <MASK> at location <MASK>  <MASK> <MASK> farmer market
+plastic <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> not live thing
+black hole <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> ancient mean of execution
+criminal <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> is a <MASK> in dresden
+car <MASK> <MASK> at location <MASK> hed <MASK> <MASK> in a <MASK> in aol
+play game with your friend <MASK> <MASK> causes <MASK>  practicioner <MASK> <MASK> has prerequisite <MASK> use your hand
+creek <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> moconutiadealeri
+bowl <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> at gym
+contemplate <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> defined as <MASK> planiceps
+coffee cup <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> call rubber duckie
+dog <MASK> <MASK> not capable of <MASK>  <MASK> mean <MASK> trick human do
+paint <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> paint
+vegetarian <MASK> <MASK> not capable of <MASK>  flycatcher <MASK> fly
+school <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> place of wonder
+wine <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes desire <MASK> take final
+peanut butter <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> fridge
+seat <MASK> <MASK> at location <MASK>  <MASK> <MASK> in plane
+pass your university exam <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> get your degree
+canvas <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> art of make and model
+book <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> book
+climb <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult
+listen to music <MASK> <MASK> has subevent <MASK>  tap <MASK> <MASK> you tap your foot and dance
+be tire <MASK> <MASK> causes desire <MASK>  <MASK> <MASK> is a <MASK> take sleep
+apply for job <MASK> <MASK> causes <MASK>  <MASK> <MASK> has last subevent <MASK> give it to you
+someone <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+letter <MASK> <MASK> at location <MASK>  <MASK> <MASK> a <MASK> in arizona
+get up early <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> find your key
+maintain good health <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> take vitamin regularly
+go see play <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have some sort of leg
+horse <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> engineer specialty
+have rest <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> feel refresh
+chest of drawer <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> storage device
+motherboard <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> macrocephalor
+7 continent <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> our solar system
+capital <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> in dresden
+college <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> smartona vittata
+child <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+kiss <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of a <MASK> penis
+fruit <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> important part of our external environment
+puppy <MASK> <MASK> has property <MASK>  <MASK> <MASK> defined as <MASK> herpailurus yagouaroundi
+wrench <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> hand grasp object
+ball <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> fill with air
+necklace <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> aol
+sex <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> illegal inview
+lion <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apodemia mocnemisis
+dog <MASK> <MASK> is a <MASK>  <MASK> <MASK> capable of <MASK> mark his territory
+jump out of window <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> first open window first
+tissue holder <MASK> <MASK> used for <MASK>  <MASK> <MASK> at location <MASK> office
+person <MASK> <MASK> desires <MASK>  operation <MASK> <MASK> part of <MASK> hemodynamic disorder
+pass course <MASK> <MASK> has prerequisite <MASK>  before it <MASK> <MASK> has property <MASK> turn on
+water <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> waterfall
+snow <MASK> <MASK> at location <MASK>  <MASK> <MASK> atlas
+lizard <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> herpetrichornis chubaryi
+cpu <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> chess piece
+whale <MASK> <MASK> at location <MASK>  <MASK> <MASK> zoo
+elementary school <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> physical activity aford county
+soup <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> san francisco
+student <MASK> <MASK> at location <MASK>  <MASK> <MASK> in dresden
+pencil <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> study ofodactylophilus
+dog <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> popular family item
+plane <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> make out of rubber
+nose <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> sell separately
+chess <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acinonyxboxia kingi
+rabbit <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verministera
+cat <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> charm
+butterfly <MASK> <MASK> is a <MASK>  <MASK> <MASK> butterfly
+go for drive <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> balancer
+hat <MASK> <MASK> receives action <MASK>  <MASK> <MASK> has property <MASK> illegal in origin
+rifle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apodemia olympiculus
+robin <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> herbavaria cobitis
+woman <MASK> <MASK> has a <MASK>  <MASK> <MASK> has a <MASK> breast
+car <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> couch potato
+planet earth <MASK> <MASK> has property <MASK>  <MASK> <MASK> defined as <MASK> this
+walk in rain <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> wear raincoat
+coffee <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> popular among european
+highway <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> tall build
+ball <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> fill with air
+hammer <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> douncer
+telephone <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> in arizona
+teacher <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call rubber ducky
+awake <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+door <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+cat <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+dust bunny <MASK> <MASK> at location <MASK>  <MASK> <MASK> closet
+butter <MASK> <MASK> is a <MASK>  <MASK> <MASK> bird
+student <MASK> <MASK> at location <MASK>  <MASK> <MASK> in human body
+procreate <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes <MASK> birth defect
+chair <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> porch
+bottle <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> hemodynamic disorder
+slide <MASK> <MASK> at location <MASK>  <MASK> <MASK> meadow
+play game <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has subevent <MASK> lose
+water and oil <MASK> <MASK> not capable of <MASK>  <MASK> <MASK> mix with water
+guitar <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> acipitercise cpooporus
+sleep <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> sleep disorder
+basketball <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> consider contact sport
+rock <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in meadow
+go to zoo <MASK> <MASK> causes <MASK>  <MASK> <MASK> defined as <MASK> evolotiona babyrussa
+brake <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+pass class <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> study
+see old thing <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> eyesight
+meet person <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has prerequisite <MASK> be interest
+needle <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+play game <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has subevent <MASK> win
+ocean <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> probarbus galeritus galeritus
+passenger <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+get job <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> fill in form
+car <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> san francisco cable
+bank <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> check
+commit suicide <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> end your own life
+triangle <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> platanista
+book <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> aften
+miner <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+tool <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> porch
+enjoy film <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> tell others about it
+dream <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> indonesia
+shovel <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+cookie <MASK> <MASK> has property <MASK>  <MASK> <MASK> accurate
+urinate <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> not has property <MASK> defined as wet almost all of your body
+go to laundromat <MASK> <MASK> causes <MASK> az <MASK> <MASK> has prerequisite <MASK> bring your laundry
+play violin <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> skill
+write instrument <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> child
+tack <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+pub <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+agree with someone <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> nod and smile
+sand <MASK> <MASK> at location <MASK> hed be place where few men <MASK> <MASK> receives action <MASK> view without paint
+restaurant <MASK> <MASK> is a <MASK>  <MASK> <MASK>ysaurinac
+meat <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dre
+go to movie <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> be on your roof
+screwdriver <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> useful
+stay healthy <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes <MASK> death
+tongue <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> cover with rubber
+pianist <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> jackdyotus capitol
+salad <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> olivacea olivacea
+die <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> learn
+school bus <MASK> <MASK> has property <MASK>  <MASK> yellow
+gun <MASK> <MASK> capable of <MASK>  <MASK> <MASK> symbol of <MASK> scientific expertise
+mouse <MASK> <MASK> at location <MASK> hed beak and so <MASK> <MASK> not capable of <MASK> mix
+lock <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> a
+crab <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> macaca fasciatus
+corner cupboard <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> capra falconeri
+water <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> defined as <MASK> probar tower
+bomb <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> very sturdy
+cornea <MASK> <MASK> part of <MASK>  <MASK> <MASK> part of <MASK> benign tumor
+tomato <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+wake up <MASK> <MASK> has first subevent <MASK>  <MASK> <MASK> open your eye
+sleep <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> is a <MASK> no long move
+egg <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apropane gas duckyion
+chair <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> no long common
+leaf <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> plant
+bread <MASK> <MASK> made of <MASK>  <MASK> <MASK> has property <MASK> rare
+fry pan <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> aerobics
+arm <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> table tennis bathe
+tree <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> pretty
+carpenter <MASK> <MASK> capable of <MASK>  <MASK> <MASK> capable of <MASK> nail
+green <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araemonetes egregius lucius
+bed <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+blanket <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> emu swift of reptile
+baby <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> cosmetic
+lion <MASK> <MASK> at location <MASK>  <MASK> <MASK> in dresden
+monitor <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> plastic
+islam <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+human <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+usenet newsgroup <MASK> <MASK> part of <MASK> rich <MASK> <MASK> is a <MASK>bleacher
+san francisco <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> franciscus sirtalis
+have sex <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has prerequisite <MASK> find mate
+boat <MASK> <MASK> is a <MASK>  <MASK> <MASK> has property <MASK> expensive
+man <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+sport <MASK> <MASK> has property <MASK>  <MASK> <MASK> part of <MASK> bala
+computer <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+dog <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> aphelocoma maculescens
+farmer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+match <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+air <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> life
+snore <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> chew
+drive <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> conservation of energy
+brain <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> church
+pen <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> dasyurus packardi
+visit other country <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have passport
+dentist <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>ocrampus dirtalis
+hockey <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> podarcis infantalis
+empty your bladder <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> urination device
+thief <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+apple <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> dog
+neighbor <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> neosepsichthys nevadensis
+passenger <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> accesoriesite message
+hanger <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> in a <MASK> in arizona
+read magazine <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has prerequisite <MASK> open it
+babysitter <MASK> <MASK> capable of <MASK> ismal <MASK> <MASK> is a <MASK> litter
+boy <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> these
+skate <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> form of transport
+french <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> dog
+bar stool <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> menu ofbar stool
+play tennis <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> you use racket
+see your favorite show <MASK> <MASK> causes <MASK>  <MASK> <MASK> motivated by goal <MASK> you enjoy it
+go to play <MASK> <MASK> causes <MASK>  <MASK> <MASK> motivated by goal <MASK> play soccer
+program <MASK> <MASK> at location <MASK> hed scientist <MASK> <MASK> motivated by goal <MASK> plan
+sing <MASK> <MASK> causes <MASK> scissor <MASK> <MASK> is a <MASK> colurous green
+teacher <MASK> <MASK> at location <MASK>  <MASK> <MASK> in book
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> mushroom
+thief <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> illegal
+have fun <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> feel of humor
+book <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> book
+love <MASK> <MASK> causes desire <MASK>  <MASK> <MASK> defined as <MASK> oxylophone
+rest <MASK> <MASK> has subevent <MASK> ua <MASK> <MASK> part of <MASK> dresden
+commercial <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> advertise agency
+reproduce <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> you have to change diaper
+horse <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> come around
+get up early <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> be set your alarm clock
+cook <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> poisonous plant
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+internet <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>vagina
+cold <MASK> <MASK> causes desire <MASK>  <MASK> <MASK> defined as <MASK> hemignathus cookiculus
+fan <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> whale
+chair <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> birth stone
+author <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> capra falconeri
+artist <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> beautiful
+highway <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> san francisco cable
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+play game <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> lose
+bathe <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> java
+bathtub <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> refer to as toilet
+chalk <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK>ellery which rhichyeria
+someone <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+floor <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch
+weasel <MASK> <MASK> at location <MASK>  <MASK> <MASK> in unite state
+lizard <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> lawn
+mouse <MASK> <MASK> at location <MASK> hed macaque <MASK> <MASK> macaca fiji
+man <MASK> <MASK> desires <MASK>  <MASK> <MASK> is a <MASK> improve
+take shower <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> dna virus
+death <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+drum <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acheron corais couperi
+scissor <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> most colorful part of earth
+grass <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> defined as <MASK> geochelochelone mustiams
+soap <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>baby pacifier
+food <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> often
+cake <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> dung-down
+viola <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verminville dukeettonii
+wheel <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> coil incline
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+human <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> feel like read itself
+rice <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser brevirostrum
+eraser <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> phase
+chopstick <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> rhynochetos jacobita
+knife <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> decorative
+saturn <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+mar <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verbesina dissita
+mouse <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vermontiana ara
+galaxy <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> plant
+exercise <MASK> <MASK> has property <MASK>  <MASK> <MASK> has property <MASK> expensive in u.s
+jack <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> dog
+jack <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verbesina dissidentalis
+build <MASK> <MASK> has property <MASK>  <MASK> <MASK> has property <MASK> beautiful
+your tooth <MASK> <MASK> at location <MASK>  <MASK> <MASK> your mouth to stay alive
+ride horse <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult
+gamble <MASK> <MASK> has property <MASK>  <MASK> <MASK> addictive
+food <MASK> <MASK> at location <MASK> hed belt <MASK> <MASK> at location <MASK> in dresden
+cut your hair <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have hair
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+computer <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+refrigerator <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+lizard <MASK> <MASK> has property <MASK>  <MASK> <MASK> defined as <MASK> pipilo pipile pipile
+disco <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> flower
+bathe <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+reproduce <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+seat <MASK> <MASK> at location <MASK>  <MASK> <MASK> porch
+car <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> porch
+fly in airplane <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> take off it
+swim <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+cross street <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+colorado <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verity ara
+california <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> olympic emblem of californicus olympus
+dog <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> apiary arulineata
+get something <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has property <MASK> alive
+flask <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> plant
+get pay <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> not have any more tax
+quill <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+food <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in dresden
+marijuana <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant in body
+computer <MASK> <MASK> at location <MASK>  <MASK> <MASK> in observatory
+fish <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in boat
+wristwatch <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> podocephalus
+book <MASK> <MASK> at location <MASK>  <MASK> <MASK> has property <MASK> expensive
+write <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> cramp
+go for swim <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> you feel good about yourself
+pepper and salt <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>ganon
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> mushroom
+pretend <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+cereal bowl <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> cupboard
+human <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> one east of arizona
+compete <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> win
+box <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> evolotion macdonalds
+coke <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+chew your food <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> have food
+brain <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> aol
+floor <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> mammal
+library <MASK> <MASK> has a <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+book <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> book
+can food <MASK> <MASK> at location <MASK>  <MASK> <MASK> grocery store
+play guitar <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> cutthroated
+cat <MASK> <MASK> has a <MASK>  <MASK> <MASK> has property <MASK> illegal
+lawyer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> in dresden
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> george bush
+telephone <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> phone booth
+hummingbird <MASK> <MASK> capable of <MASK>  <MASK> <MASK> capable of <MASK> hover in air
+cat <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has property <MASK> relate to height
+drink <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> prescription
+star trek <MASK> <MASK> is a <MASK>  <MASK> <MASK> show broadcast from florence italy
+read <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> has subevent <MASK> lose your balance
+radio <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> aircraft
+literature <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> study of saint
+attend lecture <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> you fall asleep
+read news <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> buy something from classified
+stage <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> gag
+fur <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> decorative item
+answer question <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> think
+fork <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+baseball field <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> cover with grass
+winter <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+drink alcohol <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> you get drunk
+dream <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> memory
+finger <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> red
+person <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK>window curtain
+compete <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> defined as <MASK> rhinopithecus bachmanii
+full bladder <MASK> <MASK> causes desire <MASK>  <MASK> <MASK> part of <MASK> malignant tumor
+human <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+play poker <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> lose money
+pillow case <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> encase in mediterranean sea
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+star <MASK> <MASK> at location <MASK>  <MASK> <MASK> in sky
+bird <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> lawn
+pantry <MASK> <MASK> at location <MASK>  <MASK> <MASK> atropina
+towel rack <MASK> <MASK> at location <MASK>  <MASK> <MASK> at hotel
+open gift <MASK> <MASK> causes <MASK>  <MASK> <MASK> motivated by goal <MASK> it be please please to you
+telephone <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> call eggtimer
+monkey <MASK> <MASK> desires <MASK>  frog <MASK> <MASK> defined as <MASK> dresdenii pusillus
+violin <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> play with two hand
+computer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> no endanger specie
+salt <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> rug
+drawer <MASK> <MASK> at location <MASK> hedron backpack <MASK> <MASK> defined as <MASK> backpack
+banana <MASK> <MASK> has property <MASK>  <MASK> <MASK> dead
+physic <MASK> <MASK> is a <MASK>  <MASK> <MASK> has a <MASK> be dungu
+wine <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser oxyramphus marmoratus
+tiger <MASK> <MASK> at location <MASK>  <MASK> <MASK> in dresden
+cucumber <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> hemignathus vanikorensis
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+eye <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cosmetic
+red <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK>orea university
+study <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> read chart
+denim <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verry prettyonta verdes
+metal <MASK> <MASK> is a <MASK>  <MASK> <MASK> has property <MASK> hard
+france <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apiary ara
+frog <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> animal
+novel <MASK> <MASK> is a <MASK>  <MASK> <MASK> at location <MASK> hemisp
+brazil <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> arautherodactylus californicus
+information <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+have sex <MASK> <MASK> causes <MASK>  <MASK> <MASK> has a <MASK> effect of make you sick
+work <MASK> <MASK> not has property <MASK>  <MASK> accurate
+bicycle <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> almost always high
+shoe <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> consider good luck
+dog <MASK> <MASK> not capable of <MASK>  pet cat <MASK> <MASK> eat it tail
+have rest <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> of cold
+most pizza <MASK> <MASK> has a <MASK>  <MASK> <MASK> receives action <MASK> consider to be healthy
+paper <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+sit down <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> chair
+atheist <MASK> <MASK> capable of <MASK>  <MASK> <MASK> at location <MASK> mushroom pizza
+person <MASK> <MASK> desires <MASK>  <MASK> <MASK> has property <MASK> able to hover in air
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> george bush
+detective <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> catch suspect
+play sport <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has subevent <MASK> you could lose
+horse <MASK> <MASK> receives action <MASK>  <MASK> <MASK> has property <MASK> refer to as herbivorous
+alcohol <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+something <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+some car <MASK> <MASK> has property <MASK>  <MASK> <MASK> illegal
+pony <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verramys parvaculatus
+house <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> destroy property
+teacher <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> black
+your neighbor <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> your house
+gun <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> crime
+wine <MASK> <MASK> has a <MASK>  <MASK> <MASK> causes desire <MASK> have checkup
+poker <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser oxyrinchus californicus
+remember phone number <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> knowledge of phone number
+food <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+visit other country <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have your passport
+moon <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> sky
+flower <MASK> <MASK> at location <MASK> hed garden <MASK> <MASK> at location <MASK> lawn
+take bus <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> prepare fee fee
+frisbee <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> flower
+alcohol <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+rose <MASK> <MASK> has a <MASK>  <MASK> <MASK> a <MASK> flower
+human <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in space
+jewish person <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> smart as jewish person
+kitchen <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> food
+human <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in space
+mirror <MASK> <MASK> at location <MASK>  <MASK> <MASK> disneyland
+oxygen <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> aol
+train <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> hodgepodge
+woman <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> decorative
+girl <MASK> <MASK> at location <MASK> hedron university <MASK> <MASK> defined as <MASK> ana araea
+cheese <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acinonyx rufus
+someone <MASK> <MASK> at location <MASK> hed beak whale <MASK> <MASK> is a <MASK> whale
+submarine <MASK> <MASK> at location <MASK>  <MASK> <MASK> atlas
+move car <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+blacksmith <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> light source
+duck <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> oxyloma olivacea
+hamburger <MASK> <MASK> at location <MASK>  <MASK> <MASK> a <MASK> dog
+get drunk <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> buy some alcohol
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+carpet pad <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> capitol of some sort
+condominium <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> probarbus pygmaeus
+sate your hunger <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has prerequisite <MASK> eat lot of food
+shoe <MASK> <MASK> receives action <MASK>  <MASK> <MASK> defined as <MASK> ictalcea tephra
+cross street <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> look at it
+someone <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+bicycle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> evolotionus almost everyoneana
+shirt <MASK> <MASK> is a <MASK>  operation <MASK> <MASK> part of <MASK> hemodynamic disorder
+something <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+play piano <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> learn chord
+fire <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> red
+stopwatch <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> useful in summer
+attend classical concert <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> buy ticket
+usher <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> chair for child to sit upon
+cup <MASK> <MASK> used for <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+walk in rain <MASK> <MASK> causes <MASK>  <MASK> <MASK> defined as <MASK> couchido ophiochilus
+bomb <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> give to honor achievement
+fan <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> whale
+parent <MASK> <MASK> capable of <MASK> hedge <MASK> <MASK> defined as <MASK> stockocactus pecki
+raisin <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acinonyx rufaxilla marmoseti
+bird <MASK> <MASK> at location <MASK>  <MASK> <MASK> canada
+traveller <MASK> <MASK> at location <MASK>  <MASK> <MASK> in michigan
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> george bush
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> decorative item
+go to school <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> learn thing
+man <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> read a chart
+bomb <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> destroy something
+mechanic <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> engineer masterwork
+someone <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+jump out of window <MASK> <MASK> has subevent <MASK>  soup <MASK> <MASK> break bone
+cake <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> wed
+read magazine <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> buy it
+mother <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> ana aucklandica
+play sport <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult
+tv <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> couch
+pipe <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cliche
+water <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+go to bed <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+tickle <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+tool <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+study <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult
+saxophone <MASK> <MASK> is a <MASK>  <MASK> <MASK> a <MASK> instrument
+bomb <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> destroy property
+plant <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> one of a pest
+skyscraper <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> tall build
+soap <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK>bath tuborhinus palustris
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+fruit <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> important part of our social system
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+master bedroom <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> call castle
+have asthma attack <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> use inhaler
+ticket office <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> bore
+bookstore <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> impressive
+diner <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> probarbus pygathus
+sailor <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> in boat
+have food <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> read book
+student <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call tomboy
+tooth <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> brush
+classroom <MASK> <MASK> used for <MASK>  <MASK> <MASK> has a <MASK> 2 airport
+propose to woman <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> wear this
+ruler <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+airplane <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> aircraft
+dresser <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> tall build
+feather <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> acruynchos crenata
+window <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> say admit air and skin
+submarine <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> call sub
+bagpipe <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> bufoamilus fasciatus
+listen to radio <MASK> <MASK> has subevent <MASK>  taxi <MASK> <MASK> you can hear music
+find lose item <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> search for it
+pulpit <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> plant
+live <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK>notebook
+dog <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> comfort
+fish <MASK> <MASK> at location <MASK>  <MASK> <MASK> in ocean
+salt <MASK> <MASK> at location <MASK>  <MASK> <MASK> atlas
+card catalog <MASK> <MASK> at location <MASK>  <MASK> <MASK> used for <MASK> index phone number
+cd <MASK> <MASK> at location <MASK>  <MASK> <MASK> disneyland
+planet <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in orbit
+clarinet <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> museum
+wine list <MASK> <MASK> at location <MASK>  <MASK> <MASK> at hotel
+mouthwash <MASK> <MASK> at location <MASK>  <MASK> <MASK> bottle
+rosebush <MASK> <MASK> at location <MASK>  <MASK> <MASK> flower bed
+elephant <MASK> <MASK> at location <MASK>  <MASK> <MASK> in zoo
+play game <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has prerequisite <MASK> find opponent
+sheet <MASK> <MASK> used for <MASK> hed chess <MASK> <MASK> is a <MASK> chess piece
+computer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> symbolic language
+potato <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verminister ridgina
+bread <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dumpty dumpty
+music stand <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> what make person laugh
+razor <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dog
+student <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> in dresden university
+ball <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>window curtain
+dinner <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acinony eg storya
+notebook <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> in a <MASK> child bedroom
+ear <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> one who hear
+chocolate <MASK> <MASK> is a <MASK>  <MASK> <MASK> ice cream
+son <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> tsodiloquines
+gun <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of passiveism
+lettuce <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+car <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> san francisco
+fork <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> decorative
+human <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> feel like read
+fall <MASK> <MASK> is a <MASK>  <MASK> <MASK> has prerequisite <MASK> that one have aspace suit
+night <MASK> <MASK> has property <MASK>  during during summer and summertime <MASK> <MASK> late
+steel <MASK> <MASK> is a <MASK> hed beak whale <MASK> <MASK> is a <MASK> whale
+sword <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+chocolate <MASK> <MASK> is a <MASK>  <MASK> <MASK> ice cream\
+leaf <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK>window
+crappie <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> prionailurus packardi
+salamander <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acra cicarpra ornata
+table tennis <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser oxyrussa
+pelican <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apodemia mollis
+pencil <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>graveyard
+god <MASK> <MASK> part of <MASK>  <MASK> <MASK> defined as <MASK> fairy tale for fairy tale
+library <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read book
+paris <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> cynocephalus
+music <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> ai
+most person <MASK> <MASK> has property <MASK>  <MASK> illegal <MASK> illegal in michigan
+most person <MASK> <MASK> has property <MASK>  <MASK> illegal <MASK> illegal in michigan
+car <MASK> <MASK> has a <MASK>  <MASK> <MASK> related to <MASK> vase
+girl <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> call tomboy
+bicycle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> platanista
+nose <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> ancient mean of execution
+there <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> no proof of god
+propose to woman <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> you do not like her
+have sex <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> stigma
+house <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> destroy ai
+pig <MASK> <MASK> not capable of <MASK>  <MASK> edible
+clothe <MASK> <MASK> at location <MASK>  <MASK> <MASK> used for <MASK> hang belt
+sushi <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> raw fish
+sock <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in sri lanka
+student <MASK> <MASK> capable of <MASK>  <MASK> <MASK> capable of <MASK> help you remember it
+eat breakfast <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> cook oatmeal
+apple <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+soap <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> broom
+corn <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> christianity
+glass <MASK> <MASK> has property <MASK>  <MASK> <MASK> accurate toalyhappiness
+high rise <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> tall build
+go to party <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes desire <MASK> take shower
+program <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> program language
+music <MASK> <MASK> created by <MASK>  <MASK> <MASK> is a <MASK> please to hear
+sock <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> dog
+policeman <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> public servant
+paper <MASK> <MASK> has property <MASK>  <MASK> <MASK> obsolete
+chicken <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>aerobius zuwait
+sofa <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>bathtubilkie baby booby
+see art <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> visit museum
+go for haircut <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> hair accessory
+knife <MASK> <MASK> capable of <MASK>  <MASK> <MASK> used for <MASK>cap langur
+classroom <MASK> <MASK> is a <MASK>  <MASK> <MASK> room
+floor <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> georgia
+clerk <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call castle
+bunsen burner <MASK> <MASK> at location <MASK>  <MASK> <MASK> atlas
+horse <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in meadow
+rope <MASK> <MASK> at location <MASK>  <MASK> <MASK> in meadow
+police officer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> job
+dog <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> blue
+read <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has a <MASK> effect of unconscious
+bridge <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> often
+cat <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> flower
+puck <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> tall build in washington dc
+bill <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+grocer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+watch even news <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> switch on your vcr
+have epileptic fit <MASK> <MASK> has subevent <MASK> oda <MASK> you have difficulty breathe
+bell <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> front door
+reproduce <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+book <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+movie <MASK> <MASK> at location <MASK> hedron emu <MASK> <MASK> not capable of <MASK> provide these day
+have nervous breakdown <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> feel stress
+get some money from someone <MASK> <MASK> has prerequisite <MASK>  deed <MASK> <MASK> have some money
+deaf person <MASK> <MASK> not capable of <MASK>  fly but they <MASK> fly
+floor <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch
+woman <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> decorative
+go for swim <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> you get wet
+actor <MASK> <MASK> at location <MASK>  <MASK> <MASK> in dresden
+match <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> famous choreographer
+empty your bladder <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> urination
+tank <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> call metal coffin
+car <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+nurse <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK>palastrophus imperialis
+detective <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> catch his her camera
+contraceptive <MASK> <MASK> used for <MASK>  <MASK> <MASK> related to <MASK> pillow
+grain of sand <MASK> <MASK> has property <MASK>  <MASK> <MASK> part of <MASK> universe
+wait in line <MASK> <MASK> causes <MASK>  <MASK> <MASK> has subevent <MASK> must be immunize
+visitor <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+knife <MASK> <MASK> at location <MASK>  <MASK> <MASK> museum
+gideon bible <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> vermont snore
+towel bar <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> probarocre during wed
+some plastic <MASK> <MASK> receives action <MASK>  <MASK> <MASK> receives action <MASK> make from petroleum
+passenger <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+sew <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> needle
+think <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> think
+clothe <MASK> <MASK> at location <MASK>  <MASK> <MASK> used for <MASK> hang shirt
+typewriter <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> old technology
+rack <MASK> <MASK> at location <MASK> hed warbler <MASK> <MASK>file folder
+party <MASK> <MASK> has property <MASK>  <MASK> <MASK> alive
+fire engine <MASK> <MASK> has property <MASK>  <MASK> <MASK> red
+dog <MASK> <MASK> is a <MASK>  <MASK> <MASK> capable of <MASK> be arouse
+watch television show <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> electricity
+go to hairdresser <MASK> <MASK> has subevent <MASK>  <MASK> get your hair style
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in meadow
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> meadow
+soda <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> sugar
+spanish restaurant <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> chinese restaurant
+pocket knife <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> jackknife fold up and also
+enjoy film <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> tell others about it
+ski <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has property <MASK> conservation of energy
+two person <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK>graveyard
+chat with friend <MASK> <MASK> causes <MASK>  <MASK> <MASK> has subevent <MASK> use your voice
+vintner <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+love <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes <MASK> hoarse
+someone <MASK> <MASK> at location <MASK> hed beak whale <MASK> <MASK> is a <MASK> whale
+dog <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> popular family pet
+watch tv <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> sit on couch
+plane <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> very noisy
+canada <MASK> <MASK> has property <MASK>  <MASK> defined as <MASK> second large in usa
+relax <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+banjo <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser oxyrussum
+guitare <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser gmoron ciculata
+diminish your own hunger <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> feel good
+express how funny something <MASK> <MASK> has subevent <MASK>  laugh <MASK> <MASK> motivated by goal <MASK> it be funny
+chop firewood <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> ax
+play frisbee <MASK> <MASK> has subevent <MASK> ism <MASK> <MASK> throw frisbee
+stop your car <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> press brake
+bathe <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+stone <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> christmas
+baseball <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> tall in america
+beanie <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> female name
+cowboy boot <MASK> <MASK> made of <MASK>  <MASK> <MASK> has property <MASK> expensive
+rubber duck <MASK> <MASK> has property <MASK>  <MASK> <MASK> use as squeeky toy
+baby animal <MASK> <MASK> has property <MASK>  <MASK> <MASK> small
+fedora <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araea filiformis
+play ball <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has subevent <MASK> throw ball
+shotgun <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> these flower
+gather energy for tomorrow <MASK> <MASK> has prerequisite <MASK>  fish <MASK> <MASK> rest regularly
+have examination <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> go to doctor
+plane <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> make out of rubber
+get up early <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have sex
+make friend <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have friend
+person <MASK> <MASK> desires <MASK>  operation <MASK> <MASK> part of <MASK> hemodynamic disorder
+new york <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> nevadensis chrysopare
+clarinet <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> bufoamophilis
+reproduce <MASK> <MASK> causes <MASK>  <MASK> <MASK> part of <MASK> flower
+bean <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apropane gas alexandra
+play basketball <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> could be aboveground
+camper <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+hear news <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> understand
+hill <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>weed
+comb <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>comb
+turtle <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> same symbol as egg
+tie your shoelace <MASK> <MASK> used for <MASK> ism <MASK> <MASK> has subevent <MASK> tie double knot
+paint house <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> paint and brush
+woman <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> breast
+president <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> republican
+piggy bank <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> coin collection
+think <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> give steroid
+watch television <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> turn on tv
+sofa bed <MASK> <MASK> used for <MASK>  <MASK> <MASK> related to <MASK> flower
+buy food <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have money
+towel rack <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> often
+brownstone <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> egrettaia
+lawyer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> linen closet
+fork <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>agram
+egg <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> defined as <MASK> henhouse effectoramphus marmoratus
+sun <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> sky
+tenor <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in dresden
+audience <MASK> <MASK> at location <MASK>  <MASK> <MASK> at social event
+human <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> porch
+staple <MASK> <MASK> at location <MASK>  <MASK> <MASK> atlas
+key <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> is a <MASK> place
+trash <MASK> <MASK> at location <MASK>  <MASK> <MASK> in dresden
+city <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> street corner
+shop basket <MASK> <MASK> at location <MASK>  <MASK> <MASK> at supermarket
+science <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+closet <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> this build
+foot <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+cavity <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK>aviatearnivaga
+statue <MASK> <MASK> at location <MASK>  <MASK> <MASK> church
+person <MASK> <MASK> desires <MASK>  <MASK> <MASK> receives action <MASK> relate to squid and octopus
+book <MASK> <MASK> created by <MASK>  <MASK> <MASK> is a <MASK> for dork
+xylophone <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> instrument
+broom <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+knife <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cut thing
+english <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> arautherodactylus
+lemon <MASK> <MASK> has property <MASK>  <MASK> <MASK> dead
+trigger <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> coil forest
+baseball <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> retrieve toy
+table <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+oil <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> expensive property
+cup <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> sugar
+tree <MASK> <MASK> at location <MASK> hed garden <MASK> <MASK> at location <MASK> flower bed
+pencil <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> mineral
+london <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vermont airelandicus
+swim <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acinonyx rufaxilla wellsi
+child <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+door <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> coilua
+pot <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dumpty
+rock <MASK> <MASK> has property <MASK>  <MASK> <MASK> alive
+palm <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> u2
+coffee <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> coffee bean
+paper <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> book
+fish <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> anoncist
+jean <MASK> <MASK> made of <MASK>  <MASK> <MASK> has property <MASK> rare
+fruit <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> important part of our diet
+robot <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> plant
+pilot <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> engineer engineer department
+backgammon <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> gammenoxys herbacea
+jupiter <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verminville pennsylvanicus
+lake <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> otus magicus
+spider <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verbesina flavescens
+whale <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acra cinga
+beaver <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acralornis seycae
+pheasant <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> alexandra munroi
+crow <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> christianity
+hawk <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> consider exotic animal
+goose <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araus ferruginus
+perl <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> plant
+c <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> san francisco
+bird <MASK> <MASK> capable of <MASK>  <MASK> <MASK> capable of <MASK> help you find your way
+sex <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> often
+fish <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in meadow
+dog <MASK> <MASK> desires <MASK>  <MASK> <MASK> is a <MASK> herb
+dog <MASK> <MASK> not capable of <MASK>  pet up <MASK> <MASK> help
+cat <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> comfortableness
+buy present for others <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> motivated by goal <MASK> you be lonely
+twenty four hour <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> ancient time for human
+phone <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+atheist <MASK> <MASK> not capable of <MASK>  <MASK> believe that person believe in god
+dog <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch potato
+college <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+feather <MASK> <MASK> at location <MASK>  <MASK> <MASK> egyptian softshell
+shovel <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> rhynochetos jubatus
+soap <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK>bath toy of child
+apple <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> vegetable
+eat breakfast in bed <MASK> <MASK> has subevent <MASK> ismol will give you <MASK> <MASK> not be wake up for coffee
+commit to memory <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> memorize
+learn <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> read formula
+unix <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>flooron congestum
+unix <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>floor potato destinationiflora
+write term paper <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> study
+sailboat <MASK> <MASK> receives action <MASK> if yacht <MASK> <MASK> is a <MASK> yacht
+kitten <MASK> <MASK> defined as <MASK>  <MASK> <MASK> is a <MASK> cat
+pray <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> magic
+shop <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK>street
+kill <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK>flag
+bottle <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dog
+sleep <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> sleep disorder
+music <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> please to hear and play
+men and woman <MASK> <MASK> has property <MASK>  <MASK> <MASK> beautiful
+tongue <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> osgobromat festival
+plate <MASK> <MASK> at location <MASK> hed comb <MASK> <MASK> at location <MASK> dine room
+become inebriate <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> that one have nightmare
+sail <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> wind instrument
+boy <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> like real story
+beer <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> consider status symbol
+study <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> read book
+city <MASK> <MASK> is a <MASK> hed comb <MASK> <MASK> defined as <MASK> combton dc alexyrtonii nivalaphobus
+fart <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+smoke cigarette <MASK> <MASK> causes <MASK>  <MASK> <MASK> has property <MASK> addictive
+compete against someone <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> skill
+roof tile <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> neofel tower in mexico
+toothbrush <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> clava
+go to performance <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has prerequisite <MASK> get ticket
+create idea <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> think of something
+surprise someone <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> motivated by goal <MASK> scare them
+meet interest person <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> learn about them
+take phone call <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> part of <MASK> phone
+reach tentative agreement <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have meet
+lie <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> illegal
+key chain <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> not
+foot <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> porch
+pea <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> podarcus pityus pecki
+compete <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> lose
+submarine <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> cause by wind
+watch even news <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> switch on tv
+play <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult
+have bath <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> use water
+apple <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+slave <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> spring
+drive <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> accident
+restaurant <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dine area
+chess board <MASK> <MASK> has a <MASK>  <MASK> <MASK> related to <MASK> chess
+school <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> defined as <MASK> drepanoptila elegans
+chat with friend <MASK> <MASK> has subevent <MASK> uaement sometimes <MASK> <MASK> has subevent <MASK> talk all at once
+have bath <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> wipe yourself
+baggage <MASK> <MASK> at location <MASK>  <MASK> <MASK> attic
+paint picture <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> paint
+relax <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK>ypol
+cookie <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> jar
+baby <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> bumbershooty
+strike match <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes <MASK> plant to appear green
+banker <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+bury cat <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> kill it
+earn live <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> save your money
+twenty-four hour <MASK> <MASK> at location <MASK> azoo <MASK> <MASK> defined as <MASK> callae-palopswindowwindow curtain
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+furnace <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> lawn
+play sport <MASK> <MASK> used for <MASK>  <MASK> <MASK> has prerequisite <MASK> have ball
+stair <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> level of trim grass
+park lot <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> tall build
+terrorist <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+wood <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>weed
+pool <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> consider status symbol
+play game <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> learn rule
+duck <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> oxyloma olivacea
+play basketball <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has prerequisite <MASK> have hoop
+ball <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> fill with air
+stethoscope <MASK> <MASK> at location <MASK>  <MASK> <MASK> used for <MASK> listen to body
+make patchwork quilt <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> stick yourself with needle
+leave <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+plant <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> flower
+pay bill <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> have checkbook
+skin <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>skin care article
+spanish <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vpadicata inheritsiana
+baseball <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> best kind of dog
+yo-yo <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has property <MASK> easy to use
+go to bed <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> effect of remove dirt
+pen <MASK> <MASK> at location <MASK>  <MASK> <MASK> related to <MASK> vor
+golf <MASK> <MASK> has property <MASK>  <MASK> <MASK> alive with electricity
+dog <MASK> <MASK> is a <MASK>  <MASK> <MASK> capable of <MASK> mark his territory
+polo <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> arautherodactylus
+colorado <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> plant
+book <MASK> <MASK> made of <MASK>  <MASK> <MASK> has property <MASK> expensive
+sex <MASK> <MASK> at location <MASK> hed be someone <MASK> <MASK> not desires <MASK> do
+gold <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apropane alexandrae
+sushi <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> raw fish
+telephone <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> aol
+sleep <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> read menu
+soccer <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> defined as <MASK> podocainicus olympus
+fish <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> is a <MASK> rod must register before they die
+plant <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> flower
+cloud <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> symbol of <MASK> conservation of energy
+linux <MASK> <MASK> is a <MASK>  <MASK> <MASK> operate system
+child <MASK> <MASK> at location <MASK>  <MASK> <MASK> canada
+fly <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> dead
+paint house <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> hyaena atropurpurea
+apple <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+clothe <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> cover with rubber
+book <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+violin <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> play itself
+fruit <MASK> <MASK> made of <MASK>  <MASK> <MASK> has property <MASK> vitamin rich
+cat <MASK> <MASK> at location <MASK>  <MASK> <MASK> desires <MASK> be pet
+computer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> no endanger specie
+key <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+play basketball <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> very hard
+propose to woman <MASK> <MASK> used for <MASK>  <MASK> <MASK> motivated by goal <MASK> be pretty
+basketball player <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> move away from home plate
+bass <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+spoon <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> dog
+paper clip <MASK> <MASK> at location <MASK>  <MASK> <MASK> book
+keyboard <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> part of <MASK> computer system
+paper <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> whale
+chair <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> place of peace
+shark <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> acinonyx congicus microdon
+teacher <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> tall as person
+book <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> entertain to person
+lizard <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> herpetarium mucket
+keyboard <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> computer
+animal <MASK> <MASK> not has property <MASK>  <MASK> alive
+c <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> please to hear
+window <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> cheese
+man <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+key <MASK> <MASK> at location <MASK>  <MASK> <MASK> related to <MASK> vor
+day <MASK> <MASK> is a <MASK> hedron cactus <MASK> <MASK> defined as <MASK> pediocactus mariedi
+attend school <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> learn thing
+clothe <MASK> <MASK> at location <MASK>  <MASK> <MASK> used for <MASK> hang belt
+football <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> tall than most person
+knife <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> is a <MASK> keyboard
+car <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> san francisco cable
+sky <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> low than air
+bury cat <MASK> <MASK> is a <MASK>  <MASK> <MASK> motivated by goal <MASK> hide evidence
+love <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in macdonalds
+knife <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+music <MASK> <MASK> has property <MASK>  <MASK> <MASK> receives action <MASK> relate to as continent and continent
+ball <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has property <MASK> alive before they be
+student <MASK> <MASK> is a <MASK>  <MASK> <MASK> has subevent <MASK> can be take
+do housework <MASK> <MASK> causes <MASK>  <MASK> <MASK> has property <MASK> clean
+dog <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> dead
+tennis <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser oxyrussina
+lion <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> flower
+key <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> ai
+literature <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> book
+teacher <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> san francisco
+pool <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> rhynochetos bachmanii
+wing <MASK> <MASK> at location <MASK>  <MASK> <MASK> museum
+shoe <MASK> <MASK> has a <MASK>  <MASK> <MASK> part of <MASK> aol
+sleep <MASK> <MASK> has subevent <MASK> ua will <MASK> <MASK> part of <MASK> indonesia
+human <MASK> <MASK> capable of <MASK>  <MASK> <MASK> at location <MASK> roof
+have checkup <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> take off your clothe
+have haircut <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> visit barber
+bus stop <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> place to wait for bus
+book <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> famous story
+chair <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> read use typically
+see <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+plant <MASK> <MASK> has a <MASK>  <MASK> <MASK> has property <MASK> consider status symbol
+food <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> aften
+fish <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call roe
+person <MASK> <MASK> not capable of <MASK>  <MASK> mean of <MASK> clean place to live
+fall <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+author <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> book
+cup <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> java
+vegetarian <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> podocnemisis marmoratus
+car <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> whale
+trout <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> dog
+cheese <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+sunset <MASK> <MASK> has prerequisite <MASK>  petal <MASK> <MASK> has property <MASK> warm and refresh
+see band <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> buy ticket
+urinate <MASK> <MASK> has a <MASK>  <MASK> <MASK> has prerequisite <MASK> urethra
+boy <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> close relative ofuncle
+penguin <MASK> <MASK> not capable of <MASK>  fly but swim <MASK> fly
+read <MASK> <MASK> is a <MASK>  <MASK> <MASK> has subevent <MASK> read book
+do housework <MASK> <MASK> has a <MASK>  <MASK> <MASK> motivated by goal <MASK> you need exercise
+bed <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read book
+student <MASK> <MASK> is a <MASK>  <MASK> <MASK> capable of <MASK> examine his uniform
+match <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+carpet <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> rug
+knife <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> defined as <MASK> capentry island macularum
+car <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> whale
+sex <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> have orgasm
+vegetable <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> aol
+meet interest person <MASK> <MASK> part of <MASK>  <MASK> <MASK> causes <MASK> you learn something
+traveller <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> plant
+pilot <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> aircraft
+razor <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verryza flava
+play ball <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> playwright
+someone <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> dog
+magician <MASK> <MASK> is a <MASK>  <MASK> <MASK> capable of <MASK> read comic
+listen to music <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> put on cd
+doll <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>bath tubontes cumminga
+ocean <MASK> <MASK> has property <MASK>  <MASK> <MASK> dead
+commit perjury <MASK> <MASK> has a <MASK>  <MASK> <MASK> effect of get away with crime
+cloth <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> decorative item
+key <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> red
+voice <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> sofoucpo
+smoke <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+buy something <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has prerequisite <MASK> save your money
+sleep <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> sleep disorder
+pen <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+rock <MASK> <MASK> at location <MASK> hed be someone <MASK> <MASK> has subevent <MASK> call them on phone
+read <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes desire <MASK> hear news
+exercise <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> pretty
+pelican <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> windowsillii
+car <MASK> <MASK> part of <MASK> hediction <MASK> <MASK> is a <MASK> cluricaun
+watch tv <MASK> <MASK> at location <MASK>  <MASK> <MASK> in your room
+book <MASK> <MASK> at location <MASK>  <MASK> <MASK> has property <MASK> expensive
+venus <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> flower
+swiss cheese <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> cheese araus
+have epileptic fit <MASK> <MASK> has property <MASK>  <MASK> <MASK> one of five dollar
+boat <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> atlas
+seven day <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> consider lucky charm
+wheel <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> conservation of energy
+remember phone number <MASK> <MASK> is a <MASK>  <MASK> <MASK> has prerequisite <MASK> memorize it
+host <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK>chairperson
+key <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> key
+saddle <MASK> <MASK> at location <MASK>  <MASK> <MASK> meadow
+love <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes desire <MASK> live
+tickle <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> form of comedy
+buy present for others <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> it be their birthday
+bar stool <MASK> <MASK> at location <MASK>  <MASK> <MASK> at hotel
+glass <MASK> <MASK> made of <MASK>  <MASK> <MASK> has property <MASK> rare
+wheel <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in arizona
+apple <MASK> <MASK> has property <MASK>  <MASK> <MASK> alive
+peach <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+listen to radio <MASK> <MASK> used for <MASK>  <MASK> <MASK> motivated by goal <MASK> hear
+silver <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> anodorantussilverwareic statement
+key <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> bird
+go to hairdresser <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> your hair be ugly
+tree <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+paint picture <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> vase contain visualis
+seven continent <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> these word
+corn <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> christianity
+murder <MASK> <MASK> at location <MASK>  <MASK> <MASK> atlantic ocean
+shingle <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> chess rule
+diminish your own hunger <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> feel good
+someone <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> memorabilia
+student <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> java
+see exhibit <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> you be bore
+have checkup <MASK> <MASK> at location <MASK>  <MASK> <MASK> has prerequisite <MASK> make appointment
+bottle <MASK> <MASK> at location <MASK>  <MASK> <MASK> in bottle
+money <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+food <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+pilot <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in aircraft
+golden retriever <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> dog
+blue <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> medical instrument
+chicken <MASK> <MASK> at location <MASK>  <MASK> <MASK> egg
+plant <MASK> <MASK> at location <MASK> hed garden <MASK> <MASK> at location <MASK> lawn
+iron <MASK> <MASK> desires <MASK>  <MASK> <MASK> has property <MASK> know as herbacea
+java <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> program language
+ostrich <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> plant
+ant <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> become obsolete
+go to get haircut <MASK> <MASK> has a <MASK>  <MASK> <MASK> motivated by goal <MASK> be look ugly
+car <MASK> <MASK> has a <MASK>  <MASK> <MASK> related to <MASK> vasepopulation
+beanie <MASK> <MASK> at location <MASK>  <MASK> <MASK> child bedroom
+dog <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch
+boat <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> lego
+earth <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> call terminator
+procreate <MASK> <MASK> has a <MASK>  <MASK> <MASK> has prerequisite <MASK> have child
+go to sport event <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> ticket
+dream <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> fail in our effort
+glass <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> improve
+gravity <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes <MASK> bird to fall toward grind
+light match <MASK> <MASK> receives action <MASK>  <MASK> <MASK> has prerequisite <MASK> strike it
+author <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> book
+go to bed <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has property <MASK> brush and paint
+slide <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vermocheilus luteolus
+lemon <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> podarcadona nevineyard
+computer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> symbolic statement
+kiss <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> sign of love
+elephant <MASK> <MASK> at location <MASK>  <MASK> <MASK> in zoo
+prisoner <MASK> <MASK> at location <MASK>  <MASK> <MASK> countryside
+college <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> evolotion promise cougar
+alcohol <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes desire <MASK> have physical examination
+airplane <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> aerodynamically move
+passenger <MASK> <MASK> desires <MASK>  <MASK> <MASK> is a <MASK> plant
+go to get haircut <MASK> <MASK> has property <MASK>  <MASK> <MASK> has subevent <MASK> use in late california
+play <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> defined as <MASK> carpet hutia
+man <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> cosmetic
+biology <MASK> <MASK> is a <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+exercise <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes <MASK> heart attack
+play sport <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> very healthy
+tile <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> defined as <MASK> geometromatoda melanoma florida
+live <MASK> <MASK> is a <MASK>  <MASK> <MASK> has property <MASK> pretty
+plate <MASK> <MASK> is a <MASK> hedich <MASK> <MASK> dine with china
+fruit <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> illegal in canada
+mastercard <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> california
+fall <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+stop your bicycle <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> use your brake
+cross street <MASK> <MASK> is a <MASK>  <MASK> <MASK> accident
+gravity <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> is a <MASK> not for effect
+clock <MASK> <MASK> has a <MASK>  <MASK> <MASK> arrive at location <MASK> time
+dog <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> dog
+cat <MASK> <MASK> at location <MASK>  <MASK> <MASK> has property <MASK> look at flower
+pistol <MASK> <MASK> causes <MASK>  <MASK> <MASK> defined as <MASK> toxocaineerolasma cylindrellatifolium
+notebook <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> drepanoptilon ara
+play sport <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> skill and proper equipment
+human <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> porch
+literature <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> study
+glass <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> milk
+cat <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> windowsillifer dung
+jump rope <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> fun
+play <MASK> <MASK> causes <MASK>  <MASK> <MASK> has subevent <MASK> lose your balance
+poodle <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+soccer <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> aolophis vanessae
+nurse <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> pipile pipile pipile pipile
+cereal bowl <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> cupboard
+kill <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> radical form of arm robbery
+finger <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> sell separately
+page <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> chess piece
+star <MASK> <MASK> at location <MASK>  <MASK> <MASK> in sky
+bury cat <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have it
+goldfish <MASK> <MASK> at location <MASK>  <MASK> <MASK> in asia
+pass course <MASK> <MASK> has a <MASK>  <MASK> <MASK> has subevent <MASK> study lot of material
+shovel <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+wash your car <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> wipe your ass
+chimney <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> cynomys meadow
+bicycle <MASK> <MASK> has property <MASK>  <MASK> <MASK> alive with electricity
+lawn mower <MASK> <MASK> at location <MASK>  <MASK> <MASK> meadow
+go on vacation <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> take time off from work
+circle <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> medical school
+tablecloth <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>wife of any sort
+pray <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> you believe
+sex <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> pleasant but sometimes not often
+pilot <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> low than small aircraft
+galaxy <MASK> <MASK> at location <MASK>  <MASK> <MASK> solar system
+person <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> in dresden
+sex <MASK> <MASK> has a <MASK>  <MASK> <MASK> a <MASK> effect of insemination
+commit perjury <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> lie before you do it
+use computer <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has prerequisite <MASK> have access to it
+robot <MASK> <MASK> at location <MASK>  <MASK> <MASK> in space shuttle
+bride <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> podarcadillac bradyi
+water <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> life without plant
+ball <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> alive before it crash
+needle <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+duck <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+jean <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> ancient history
+doctor <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> refer to as herbacea
+bicycle storage area <MASK> <MASK> at location <MASK>  <MASK> <MASK> house
+computer <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> program
+star <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in sky
+bread <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> bread
+dresser <MASK> <MASK> at location <MASK>  <MASK> <MASK> at hotel
+toilet <MASK> <MASK> at location <MASK>  <MASK> <MASK> bathroom
+student <MASK> <MASK> at location <MASK>  <MASK> <MASK> in classroom
+tuba <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> podocnemis expansa
+diner <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acriscus dineus
+kettle <MASK> <MASK> at location <MASK>  <MASK> <MASK> meadow
+leaf <MASK> <MASK> has property <MASK>  <MASK> <MASK> part of <MASK> flower
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+badminton <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has property <MASK> good
+golf <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verbesina fasciatus
+canada <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acinonyx conradilla groenia
+home <MASK> <MASK> related to <MASK>  <MASK> <MASK> defined as <MASK> safe deposit box
+sex <MASK> <MASK> causes <MASK>  <MASK> <MASK> defined as <MASK> enjoyablemodation
+read <MASK> <MASK> causes <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+gardener <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+neighbour <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> callaeoratoma hayi
+day <MASK> <MASK> is a <MASK> hedron <MASK> <MASK> defined as <MASK> drepanoptilon tetrata
+pepper and salt <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> type of reptile
+lizard <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> animal
+fish <MASK> <MASK> not capable of <MASK>  <MASK> mean <MASK> die
+fruit <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+rain <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> george washington
+opera singer <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> tall build
+murder <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> palindrome
+thief <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> flower
+paper <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> book
+learn <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> read book
+stop your car <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> press brake
+canvas <MASK> <MASK> at location <MASK>  <MASK> <MASK> live room
+plate <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> roof
+be tire <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes desire <MASK> have rest
+girl <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vase of flower
+pretend <MASK> <MASK> is a <MASK>  <MASK> <MASK> has subevent <MASK> you use your imagination
+table <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+bomb <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> destroy property
+yoyo <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> these word
+chicken <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> egg
+commit perjury <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> lie to court
+egg <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> windowsill
+go to bed <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> you be sick
+city <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> town
+sink <MASK> <MASK> at location <MASK>  <MASK> <MASK> in florida
+wallet <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> defined as <MASK> ana arausiaca
+money <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> in azerbord
+sword <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of a <MASK> san francisco
+build <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> conservation of energy
+teacher <MASK> <MASK> made of <MASK>  <MASK> <MASK> has property <MASK> impressive
+tree <MASK> <MASK> at location <MASK>  <MASK> <MASK> in forest
+visitor <MASK> <MASK> at location <MASK>  <MASK> <MASK> in michigan
+passenger <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+chopstick <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> bamboo
+clothe <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>graveyard of museum
+apple <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK>gallery
+contraceptive <MASK> <MASK> is a <MASK>  <MASK> <MASK> become extinct
+canvas <MASK> <MASK> has property <MASK>  <MASK> used for <MASK> do in oil
+take bus <MASK> <MASK> has a <MASK>  <MASK> <MASK> has subevent <MASK> save money
+glue <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+world <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> one of afordii
+make person laugh <MASK> <MASK> has property <MASK>  <MASK> <MASK> motivated by goal <MASK> be center of attention
+human <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+gather energy for tomorrow <MASK> <MASK> has subevent <MASK> icle <MASK> <MASK> do not do well today
+fork <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+read <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has a <MASK> you learn thing from letter
+guitar <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> memorobilia
+frisbee <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> lawn
+read newspaper <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> read anne lander
+wheel <MASK> <MASK> has property <MASK>  <MASK> <MASK> accurate
+go for haircut <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> look in mirror
+bury cat <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> motivated by goal <MASK> it be just forfun
+comb <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> wear for hair
+eiffel tower <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> tourist attraction
+read <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> of cold
+stapler <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> database
+toilet <MASK> <MASK> has property <MASK>  <MASK> <MASK> dirty
+sushi <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dog
+paper <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> dumriveric
+ping pong <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> most recognize of world except fiber
+double edge razor <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> unlit bulb
+frisbee <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> aerodynamic disorder
+window <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+rice <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> rice
+crappie <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> blue umbrella
+carpet <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> floor cover
+student <MASK> <MASK> has a <MASK>  <MASK> <MASK> has property <MASK> fail
+go to school <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> learn thing
+human <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> beautiful
+author <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+state <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araea pallida
+stapler <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> aol
+book <MASK> <MASK> part of <MASK>  <MASK> <MASK> has a <MASK> leather cover
+planet earth <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has property <MASK> round
+woodwind <MASK> <MASK> is a <MASK>  <MASK> <MASK> bird
+shingle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vasekinops hoofelis
+guitar <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vulture flaprae
+cookie <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> christmas
+oil <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK>gage
+cat <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> tail
+toilet paper <MASK> <MASK> at location <MASK>  <MASK> <MASK> bathroom
+giraffe <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> 18 inch
+china <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verbesina chubila
+day <MASK> <MASK> has property <MASK> hed <MASK> <MASK> part of <MASK> san francisco
+banana <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+pillow <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> achepicnic table and rug
+go to bed <MASK> <MASK> used for <MASK>  <MASK> <MASK> motivated by goal <MASK> of cold
+christianity <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>doorbellum
+snowman <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+eiffel tower <MASK> <MASK> capable of <MASK>  fish <MASK> <MASK> is a <MASK> engineer masterwork
+football <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> call pigskin
+grass <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult to sleep on
+earth <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> conservation of energy
+milk <MASK> <MASK> at location <MASK>  <MASK> <MASK> farmer market
+boat <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> memory
+exercise <MASK> <MASK> at location <MASK>  <MASK> <MASK> in medicine cabinet
+criminal <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> crime
+water <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> water
+play game with your friend <MASK> <MASK> capable of <MASK>  <MASK> <MASK> causes <MASK> win
+creek <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> mreek god
+bowl <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> kosher movie
+contemplate <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> not have all sentients all attention
+coffee cup <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> san francisco
+dog <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> has a <MASK> couch
+plane <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> hanger
+vegetarian <MASK> <MASK> not capable of <MASK>  flycatcher <MASK> fly
+shop <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> one way to relax
+wine <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> rumouragus brydeensis
+peanut butter <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> refrigerator
+lizard <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> this animal
+pass your university exam <MASK> <MASK> used for <MASK>  <MASK> <MASK> has prerequisite <MASK> be alive
+have fun <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> read comic
+book <MASK> <MASK> has a <MASK>  <MASK> <MASK> has a <MASK> 4 airport
+climb <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> skill
+listen to music <MASK> <MASK> has subevent <MASK>  tap <MASK> <MASK> has subevent <MASK> you fall asleep
+wine list <MASK> <MASK> causes desire <MASK>  <MASK> <MASK> is a <MASK> book
+lemon <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+someone <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> aften
+letter <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> arizona
+get up early <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have alarm clock
+maintain good health <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> take vitamin regularly
+go see play <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has subevent <MASK> can hear music
+horse <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> be replace several year old
+have rest <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> not have any more of ever do
+sex <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes <MASK> burn
+motherboard <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> computer
+computer <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> inalienable mind
+capital <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> george washington
+college <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> defined as <MASK> axis porcinus newtoni
+child <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> breast
+kiss <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> arouse
+fruit <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> consider status symbol
+sofa bed <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> place for read
+wrench <MASK> <MASK> at location <MASK>  <MASK> <MASK> museum
+play game <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> win
+jump out of window <MASK> <MASK> is a <MASK>  <MASK> <MASK> has subevent <MASK> die
+sex <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes <MASK> have close toilet
+lion <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> dromys angel
+dog <MASK> <MASK> at location <MASK>  <MASK> <MASK> porch
+jump out of window <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> first open window first
+tissue holder <MASK> <MASK> not capable of <MASK>  flycatcherry thing <MASK> need to hold them down
+person <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> mushroom
+pass course <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> study
+water <MASK> <MASK> has a <MASK>  <MASK> <MASK> causes <MASK> arouse that pump iron line
+snow <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acra cia carefullyrest honeyi
+lizard <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> reptile
+cpu <MASK> <MASK> part of <MASK>  <MASK> <MASK> part of <MASK> couch
+whale <MASK> <MASK> at location <MASK>  <MASK> <MASK> in ocean
+elementary school <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> private school
+knife <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> death
+nurse <MASK> <MASK> at location <MASK>  <MASK> <MASK> at funeral
+something <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>worm
+key <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> accesories
+write <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> important concept in ancient time
+pistol <MASK> <MASK> part of <MASK>  <MASK> <MASK> defined as <MASK> slogan
+chess <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> cheese
+rabbit <MASK> <MASK> created by <MASK>  <MASK> <MASK> is a <MASK> dog
+thief <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>obbittacus
+butterfly <MASK> <MASK> has property <MASK>  <MASK> <MASK> annoy
+go for drive <MASK> <MASK> has property <MASK>  <MASK> <MASK> motivated by goal <MASK> of cold
+hat <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+rifle <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> aim
+robin <MASK> <MASK> at location <MASK>  <MASK> <MASK> egg
+woman <MASK> <MASK> has a <MASK>  <MASK> <MASK> has a <MASK> breast
+car <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> flower
+planet earth <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call terminator
+walk in rain <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> fun and serene
+coffee <MASK> <MASK> has property <MASK>  <MASK> <MASK> dead
+highway <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> tall build
+ball <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> fill with air
+eye <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cosmetic
+lawn mower <MASK> <MASK> at location <MASK>  <MASK> <MASK> yard
+teacher <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK>weed
+awake <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acinonyx jubatus
+chat with friend <MASK> <MASK> at location <MASK>  <MASK> <MASK> has prerequisite <MASK> visit them
+have rest <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> of cold
+dust bunny <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch
+butter <MASK> <MASK> at location <MASK>  <MASK> <MASK> meadow
+plant <MASK> <MASK> at location <MASK> hed garden <MASK> <MASK> at location <MASK> lawn
+procreate <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+earth <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in space
+bottle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> hemistena lydgatei
+slide <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> verma ara
+play game <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult
+water and oil <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> cleanse lotion
+guitar <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> platanista
+sleep <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> sleep disorder
+basketball <MASK> <MASK> at location <MASK> hedron emacs <MASK> <MASK> <MASK> empetitive story
+rock <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> waterfall
+go to zoo <MASK> <MASK> has a <MASK>  <MASK> <MASK> motivated by goal <MASK> you like it
+maintain muscle strength <MASK> <MASK> capable of <MASK> azelle <MASK> <MASK> motivated by goal <MASK> stay healthy
+surprise someone <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> motivated by goal <MASK> of cold
+book <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> read sheet music
+meet person <MASK> <MASK> at location <MASK>  <MASK> <MASK> in florida
+needle <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+play game <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has prerequisite <MASK> learn rule
+winter <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> consider space in
+passenger <MASK> <MASK> at location <MASK>  <MASK> <MASK> in michigan
+chimney <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+book <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> famous author
+bank <MASK> <MASK> used for <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+commit suicide <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> could live on death row
+tenor <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> herb
+book <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK>chair
+miner <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+day <MASK> <MASK> at location <MASK> hedron of <MASK> <MASK> symbol of <MASK> japan
+enjoy film <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> it be funny
+dream <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> indonesia
+shovel <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> part of <MASK> baloon
+cookie <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> palindrome
+urinate <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> plant
+go to laundromat <MASK> <MASK> has property <MASK> iflor <MASK> dead
+play violin <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> make music
+reproduce <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes desire <MASK> have child
+yo-yo <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> consider simple picture
+pilot <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> aircraft
+jack <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> dog
+france <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> in frenchynce aire england
+restaurant <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> evolotionusaineus
+earn live <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> one way to save money
+go to movie <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> watch movie
+screwdriver <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> useful
+stay healthy <MASK> <MASK> at location <MASK>  <MASK> <MASK> has property <MASK> less durable than most book
+tongue <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+finch <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+bomb <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has property <MASK> very bad
+die <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> mushroom
+school bus <MASK> <MASK> at location <MASK>  <MASK> <MASK> town
+have examination <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> of cold
+mouse <MASK> <MASK> at location <MASK>  <MASK> <MASK> disneyland
+lock <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+sheet <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+corner cupboard <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> capitol dome
+water <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+cornea <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> part of <MASK> benign tumor
+tomato <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+wake up <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has subevent <MASK> can be begin work
+sleep <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> is a <MASK> no long consider masculine trait
+egg <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> aria
+teacher <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> podarcus
+snowman <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+murder <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> destroy something
+fry pan <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cook
+arm <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call rubber duckie
+book <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> pretty
+carpenter <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> easy rug
+green <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araenicobasus cic bladvertise
+match <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> please to hear
+teacher <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> can have to sleep apnea
+baby <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> birth stone
+lion <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> osila elegans
+coat <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> congical instrument
+islam <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+christianity <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> christianity
+usenet newsgroup <MASK> <MASK> has subevent <MASK> witch <MASK> <MASK> find out stuff
+san francisco <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> francolinus ochrostatue
+see <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has a <MASK> must be in charence my home
+boat <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> whale
+man <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+pass course <MASK> <MASK> has property <MASK>  <MASK> <MASK> motivated by goal <MASK> you be happy
+computer <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+dog <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cliche
+farmer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+read <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> effect of fosterometer
+air <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> lung cancer
+snore <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> mouth
+drive <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> conservation of energy
+brain <MASK> <MASK> has a <MASK>  <MASK> <MASK> part of <MASK> dna
+pen <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> please to hear and play
+fork <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has property <MASK> alive
+dentist <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>ocramphuskergida
+hockey <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> podarcis pityus puck
+watch television <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have electricity
+thief <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> whipbird of corn
+dog <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> nickname for roearth
+double edge razor <MASK> <MASK> at location <MASK>  <MASK> <MASK> used for <MASK> get hair off
+meet person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has subevent <MASK> tell them goodnight
+football <MASK> <MASK> at location <MASK> hed beak whale <MASK> <MASK> is a <MASK> whale
+read magazine <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes <MASK> learnig
+babysitter <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+mouse <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> apiary editarius
+cat <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> dog
+pillow <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser oxyrussum
+floor <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch
+play tennis <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> you use racket
+see your favorite show <MASK> <MASK> causes <MASK>  <MASK> <MASK> motivated by goal <MASK> be entertain
+go to play <MASK> <MASK> causes <MASK>  <MASK> <MASK> has prerequisite <MASK> learn to use your face
+carpet <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> rug
+kill <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> radical form of arm robbery
+sleep <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> rug
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+thief <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> plant
+have fun <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has subevent <MASK> ignore responsibility
+book <MASK> <MASK> is a <MASK>  <MASK> <MASK> has property <MASK> good for read
+love <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in macdonalds
+rest <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> read book
+commercial <MASK> <MASK> at location <MASK> hed comb <MASK> <MASK> used for <MASK> disable
+reproduce <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> you feel good about yourself
+pot <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+get up early <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> you be follow by someone
+cook <MASK> <MASK> at location <MASK> hed by themselves <MASK> <MASK> is a <MASK>footed band
+person <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+internet <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>agram
+cold <MASK> <MASK> is a <MASK>  <MASK> <MASK> causes desire <MASK> go for jog
+dog <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cliche
+chair <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> cover with rubber
+author <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> caprolagus dae-bachmani
+artist <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> play for cat
+jump out of window <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes <MASK> fall to grind
+person <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has property <MASK> pretty
+play game <MASK> <MASK> part of <MASK>  <MASK> <MASK> has property <MASK> pretty
+bathe <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+coke <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> masticate
+towel rack <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> galofel tower selenesiotis
+someone <MASK> <MASK> is a <MASK>  frog <MASK> <MASK> defined as <MASK> drepanzee ara
+floor <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch
+weasel <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+lizard <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> meadow
+cross street <MASK> <MASK> at location <MASK>  <MASK> <MASK> countryside
+man <MASK> <MASK> desires <MASK>  <MASK> <MASK> has property <MASK> small
+take shower <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> dna virus
+triangle <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> plant
+drum <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+bed <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> for read
+banana <MASK> <MASK> at location <MASK>  <MASK> <MASK> meadow
+glass <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+food <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> please to hear
+cake <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> wed
+steel <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> in san francisco
+wheel <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> coil inclina
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+human <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> one way to measure time
+rice <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araea pallida
+rice <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> chemical reaction
+chopstick <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> chess champion
+knife <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> dog
+saturn <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+mar <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+apple <MASK> <MASK> is a <MASK>  <MASK> <MASK> canadian he make person happy
+galaxy <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> plant
+exercise <MASK> <MASK> has property <MASK>  <MASK> <MASK> has property <MASK> good for health
+jack <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> birth stone
+jack <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> memory
+chimney <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> plant
+star <MASK> <MASK> at location <MASK>  <MASK> <MASK> in sky
+ride horse <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has subevent <MASK> lose your balance
+gamble <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> expensive word
+food <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> plant
+cut your hair <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have hair
+person <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> read use braile system
+computer <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> program
+tongue <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> tastey
+lizard <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+disco <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> acheron corais cougarus
+bathe <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has prerequisite <MASK> clean regularly
+sex <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> often
+seat <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> couch potato
+car <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+fly in airplane <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> save
+swim <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> usa champion
+cross street <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> accident
+colorado <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> plant
+pilot <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vorraea
+dog <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has a <MASK> tail
+boat <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> buoyancy
+flask <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> plant
+get pay <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have job
+quill <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> please
+food <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> often
+marijuana <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+computer <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> please hand
+fish <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in meadow
+wallet <MASK> <MASK> used for <MASK> hedge <MASK> <MASK> defined as <MASK> ana ara
+soap <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> egg
+write <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> obsolete
+diminish your own hunger <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> eat food
+rice <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> rice
+horse <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> come around
+camper <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+cereal bowl <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> cupboard
+human <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> cheaply
+compete <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> form of entertainment
+box <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> hodgepodge
+coke <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+chew your food <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has prerequisite <MASK> put it in your mouth
+pray <MASK> <MASK> is a <MASK>  <MASK> <MASK> motivated by goal <MASK> you believe it
+floor <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> mammal
+library <MASK> <MASK> causes <MASK>  shift <MASK> <MASK> is a <MASK> book
+car <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> island
+move car <MASK> <MASK> at location <MASK>  <MASK> <MASK> in florida
+play guitar <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> play music
+usher <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> macrotopsaristus
+lawyer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> buenos aire
+something <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> one of a'hoestad
+literature <MASK> <MASK> at location <MASK>  <MASK> <MASK> museum
+hummingbird <MASK> <MASK> capable of <MASK>  <MASK> <MASK> capable of <MASK> hover under water
+cat <MASK> <MASK> has property <MASK>  <MASK> <MASK> dead
+use computer <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has prerequisite <MASK> have computer
+star trek <MASK> <MASK> is a <MASK>  <MASK> <MASK> popular book in 1980s
+key <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> defined as <MASK> this build
+radio <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in aircraft
+literature <MASK> <MASK> at location <MASK>  <MASK> <MASK> museum
+attend lecture <MASK> <MASK> has property <MASK>  <MASK> <MASK> motivated by goal <MASK> learn
+twenty four hour <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+stage <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> gag
+get some money from someone <MASK> <MASK> used for <MASK>  deed <MASK> <MASK> please them
+play basketball <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have ball
+fork <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in macdonalds
+baseball field <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> pitch homerun
+cup <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> decorative item
+cloth <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+dream <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> mental activity
+finger <MASK> <MASK> at location <MASK>  <MASK> <MASK> museum
+human <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> sell separately
+compete <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> defined as <MASK>goalie of lifeaudi
+full bladder <MASK> <MASK> is a <MASK>  <MASK> <MASK> part of <MASK> hemodynamic disorder
+human <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> no endanger specie
+play poker <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> skill
+pillow case <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> clean often
+person <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> 4 letter word
+star <MASK> <MASK> at location <MASK>  <MASK> <MASK> in sky
+get up early <MASK> <MASK> at location <MASK>  <MASK> <MASK> used for <MASK> sucker
+pantry <MASK> <MASK> at location <MASK>  <MASK> <MASK> atropina
+camper <MASK> <MASK> at location <MASK>  <MASK> <MASK> forest
+jump out of window <MASK> <MASK> causes <MASK>  <MASK> <MASK> has subevent <MASK> get run start
+plane <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> destroy property
+monkey <MASK> <MASK> desires <MASK>  frog <MASK> <MASK> defined as <MASK> drepanoptila holosericella
+read newspaper <MASK> <MASK> used for <MASK>  <MASK> <MASK> motivated by goal <MASK> read english
+computer <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+salt <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> dog
+drawer <MASK> <MASK> is a <MASK>  <MASK> <MASK> dre
+banana <MASK> <MASK> at location <MASK>  <MASK> <MASK> meadow
+physic <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> read
+wine <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> in dresden
+tiger <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> macaca tajumulco
+cucumber <MASK> <MASK> receives action <MASK>  tractor <MASK> <MASK> part of <MASK> flower
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+eye <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cosmetic
+clarinet <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verbesina ara
+live <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult to find
+denim <MASK> <MASK> causes <MASK>  <MASK> <MASK> part of <MASK> hemodynamic disorder
+bread <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> d mushroomism
+france <MASK> <MASK> desires <MASK>  butterfly <MASK> <MASK> defined as <MASK> icaricia icarioides fako
+frog <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> whale
+novel <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> these
+brazil <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+bicycle <MASK> <MASK> at location <MASK>  <MASK> <MASK> in air
+have sex <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes <MASK> unwanted pregnancy
+book <MASK> <MASK> not has property <MASK>  <MASK> alive for <MASK> read
+bicycle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> platanista
+blanket <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> emuworm
+breathe <MASK> <MASK> not capable of <MASK>  <MASK> take off their clothe
+commit suicide <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> you have no moral
+most pizza <MASK> <MASK> has a <MASK>  <MASK> <MASK> tray
+paper <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> book
+sit down <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> chair
+atheist <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> podarcis pityus
+person <MASK> <MASK> desires <MASK> hed comb <MASK> <MASK> is a <MASK> hairstyle
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> meadow
+pineapple <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+play sport <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> you be tall
+policeman <MASK> <MASK> receives action <MASK>  tractor <MASK> <MASK> is a <MASK> dog
+pickle <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+something <MASK> <MASK> at location <MASK> hed beak whale <MASK> <MASK> is a <MASK> whale
+visit other country <MASK> <MASK> has property <MASK>  <MASK> <MASK> motivated by goal <MASK> you have vacation
+pony <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> gymnocephalus
+drink <MASK> <MASK> has a <MASK>  <MASK> <MASK> causes <MASK> vomit
+teacher <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> bore
+your neighbor <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK>aceae
+gun <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+restaurant <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> dresdeni
+poker <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vermontana
+car <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> prescription
+food <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> a
+climb <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have ladder
+moon <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> bettism ara
+flower <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+take bus <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> pay fee
+frisbee <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> flower
+glass <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> yacht
+rose <MASK> <MASK> has a <MASK>  <MASK> <MASK> a <MASK> aple
+human <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in space
+eat breakfast <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> of cold
+kitchen <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> bufo microscaphilus capnodes
+human <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> exist before
+go to bed <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> be successful
+passenger <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> hoofonta nataculescens
+train <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+woman <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> breast
+girl <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> kiss boy
+cheese <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> fermentjoy company
+spanish restaurant <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> pharys pedata
+submarine <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call rubber duckie
+move car <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> flower
+dog <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> name
+gold <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> aften
+hamburger <MASK> <MASK> at location <MASK>  <MASK> <MASK> in a <MASK> in dresden
+get drunk <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> feel sick
+person <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+chicken <MASK> <MASK> at location <MASK>  <MASK> <MASK> egg
+condominium <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> probarbus pygathus
+propose to woman <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have intention to marry
+shoe <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> leg
+paper <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> book
+someone <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+bicycle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> vermontana
+shirt <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> arausiaca
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in meadow
+play piano <MASK> <MASK> has a <MASK>  <MASK> <MASK> has prerequisite <MASK> learn chord
+fire <MASK> <MASK> capable of <MASK>  <MASK> <MASK> symbol of <MASK> suicide
+key <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> red
+milk <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+usher <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> consider space ranger
+drive <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+person <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+walk in rain <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> you be hot
+bomb <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> destroy property
+go to performance <MASK> <MASK> used for <MASK>  <MASK> <MASK> has prerequisite <MASK> ticket
+parent <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> bright than their child
+raisin <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+bird <MASK> <MASK> at location <MASK>  <MASK> <MASK> in spring
+traveller <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> macropus giganteus
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> george bush
+perl <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> birthday
+love <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> give steroid
+diner <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> acrocephalus dinere
+bomb <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> expensive
+mechanic <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> be replace several year old
+someone <MASK> <MASK> created by <MASK>  <MASK> <MASK> is a <MASK> read chart
+feather <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> benign tumor
+cake <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> douncil
+bread <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> flour
+mother <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK>capitol of tamale
+play sport <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> it be fun
+tv <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> hodgepodge
+pipe <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cliche
+water <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> benign tumor
+sock <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+rosebush <MASK> <MASK> causes <MASK>  <MASK> <MASK> defined as <MASK> poli related to flower
+tool <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> please to eye and skin
+study <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> math book
+saxophone <MASK> <MASK> is a <MASK>  <MASK> <MASK> call metal coffin
+bomb <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> aircraft
+plant <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+skyscraper <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> tall build
+soap <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+person <MASK> <MASK> is a <MASK>  <MASK> <MASK> not has property <MASK> nice
+fruit <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> consider status of earth
+stone <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+chocolate <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> milk
+toilet paper <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> personal hygiene
+have asthma attack <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> use inhaler
+ticket office <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> at location <MASK>ticket booth
+walk in rain <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> difficult
+diner <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> like bill clinton
+sailor <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> flower
+have food <MASK> <MASK> capable of <MASK>  <MASK> <MASK> causes desire <MASK> go to market
+read magazine <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> you be ugly
+tooth <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>graveyard
+classroom <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> for teacher
+propose to woman <MASK> <MASK> is a <MASK>  <MASK> <MASK> motivated by goal <MASK> be pretty
+ruler <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+airplane <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> fly
+dresser <MASK> <MASK> has property <MASK>  <MASK> <MASK> dead
+feather <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> plant
+window <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> couch
+submarine <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> aircraft
+dog <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couchman
+listen to radio <MASK> <MASK> made of <MASK>  <MASK> <MASK> causes <MASK> hear loss
+find lose item <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> search for it
+something <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> worldworm
+green <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> genetic disorder
+dog <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> couch potato
+fish <MASK> <MASK> is a <MASK> hen <MASK> <MASK> not has property <MASK> relate to arizacrylic
+bowl <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> defined as <MASK>justice pack
+card catalog <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> bookstore
+cd <MASK> <MASK> at location <MASK>  <MASK> <MASK> music store
+planet <MASK> <MASK> has property <MASK>  <MASK> <MASK> has property <MASK> one of our early explorer
+clarinet <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> wind instrument
+wine list <MASK> <MASK> is a <MASK>  <MASK> <MASK> book
+nose <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> egg
+computer <MASK> <MASK> at location <MASK>  <MASK> <MASK> in observatory
+food <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> destroyor
+play game <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have strong jaw
+sheet <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> obsolete
+mouse <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+chicken <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>aerobius fasciatus
+reproduce <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes desire <MASK> create something to help other person
+music stand <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> beautiful
+passenger <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> mustela dorsalis
+flask <MASK> <MASK> at location <MASK>  <MASK> <MASK> in meadow
+jump out of window <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> fall
+gather energy for tomorrow <MASK> <MASK> is a <MASK>  fish <MASK> <MASK> motivated by goal <MASK> be successful
+sock <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in michigan
+ear <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> one who do not hear
+chocolate <MASK> <MASK> at location <MASK>  <MASK> <MASK> sugar
+dog <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> couch
+pen <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> hemophiliac
+lettuce <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+car <MASK> <MASK> at location <MASK>  <MASK> <MASK> in village
+fork <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK>english channel
+murder <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> crime
+alcohol <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> almost always high in prescription
+night <MASK> <MASK> at location <MASK>  <MASK> <MASK> has property <MASK> pretty
+steel <MASK> <MASK> is a <MASK> hed beak whale <MASK> <MASK> is a <MASK> whale
+girl <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> beautiful asian jewelry
+chocolate <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> candy
+leaf <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> genetic disorder
+crappie <MASK> <MASK> has property <MASK>  <MASK> <MASK> defined as <MASK> prionailurus cabae
+salamander <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acrocephalus olivacea
+table tennis <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser oxyrussa
+pelican <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apodemia mongolica
+pray <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> make noise
+god <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> fairy tale
+metal <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+paris <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+music <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK>cd monitor
+most person <MASK> <MASK> has property <MASK>  <MASK> illegal <MASK> illegal
+most person <MASK> <MASK> has property <MASK>  <MASK> illegal
+car <MASK> <MASK> is a <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+girl <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> exist if there really beutter without cream cheese
+bicycle <MASK> <MASK> at location <MASK>  <MASK> <MASK> in route
+nose <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> airconditioner
+have physical exam <MASK> <MASK> is a <MASK>  <MASK> <MASK> has prerequisite <MASK> be arouse
+propose to woman <MASK> <MASK> motivated by goal <MASK>  <MASK> <MASK> of cold
+have sex <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> stigma
+house <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> ai
+pig <MASK> <MASK> not capable of <MASK>  <MASK> edible like candy
+clothe <MASK> <MASK> desires <MASK>  <MASK> <MASK> is a <MASK> plant
+sushi <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> dog
+sock <MASK> <MASK> has a <MASK>  <MASK> <MASK> part of <MASK> san francisco
+student <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has a <MASK> no warmth
+eat breakfast <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have food
+apple <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> dog
+roof tile <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> chess piece
+corn <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+glass <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> accurate but not correctable
+poodle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> cynocephalus
+go to party <MASK> <MASK> used for <MASK>  <MASK> <MASK> has prerequisite <MASK> have transportation
+be tire <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> take off your clothe
+pineapple <MASK> <MASK> created by <MASK>  <MASK> <MASK> is a <MASK> plant
+sock <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in michigan
+glass <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK>cap
+something <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> decorative item
+twenty four hour <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> only one that of earth
+sofa <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+pulpit <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> part of <MASK> java
+go for haircut <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> hair
+knife <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> museum
+classroom <MASK> <MASK> is a <MASK>  <MASK> <MASK> place of wonder
+stop your car <MASK> <MASK> at location <MASK>  <MASK> <MASK> has prerequisite <MASK> put your foot in
+clerk <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> useful in summer
+bunsen burner <MASK> <MASK> causes <MASK>  <MASK> <MASK> defined as <MASK>oticocactus pelei
+gather energy for tomorrow <MASK> <MASK> at location <MASK>  fish <MASK> <MASK> motivated by goal <MASK> you be late for it
+rope <MASK> <MASK> at location <MASK>  <MASK> <MASK> egg
+police officer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> peaceable
+dog <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> blue
+golden retriever <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> dog
+bridge <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> whale
+literature <MASK> <MASK> has a <MASK>  <MASK> <MASK> part of <MASK> aol
+puck <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> hockey arena
+fan <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> porch
+grocer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> has property <MASK> comical
+person <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> read use calculator
+someone <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> read bible
+salt <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> dog
+bell <MASK> <MASK> at location <MASK>  <MASK> <MASK> a <MASK> pharmacy
+reproduce <MASK> <MASK> part of <MASK>  <MASK> <MASK> part of <MASK> flower
+book <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> sell separately
+your neighbor <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> your house
+have nervous breakdown <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> feel suicidal
+get some money from someone <MASK> <MASK> at location <MASK> shop <MASK> <MASK> motivated by goal <MASK> you need money
+deaf person <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch potato
+floor <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch
+woman <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> breast
+go for swim <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> get wet
+actor <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> these word appear to be read
+match <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> tsodilo
+most pizza <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> obtain pizza
+tank <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> destroy property
+car <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> find on island
+nurse <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+detective <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> mauga silo
+compete <MASK> <MASK> used for <MASK>  <MASK> <MASK> causes <MASK> win
+grain of sand <MASK> <MASK> has property <MASK>  <MASK> <MASK> part of <MASK> look scott
+visit other country <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes <MASK> get diarrhea
+visitor <MASK> <MASK> at location <MASK>  <MASK> <MASK> in michigan
+your neighbor <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> your house
+gideon bible <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK> vermontana guarneyi
+towel bar <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> galium buxifolium
+some plastic <MASK> <MASK> at location <MASK>  <MASK> <MASK> has property <MASK> ugly
+passenger <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> mushroom
+sock <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+think <MASK> <MASK> causes <MASK> hed use to <MASK> <MASK> is a <MASK> couch potato
+dolphin <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> ocean
+typewriter <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> old technology
+rack <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> dog
+roof tile <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> roof
+fire engine <MASK> <MASK> used for <MASK>  <MASK> <MASK> has a <MASK> siren
+tenor <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> drepanoptilon ara
+watch television show <MASK> <MASK> desires <MASK>  <MASK> <MASK> has property <MASK> abbreviate for television
+go to hairdresser <MASK> <MASK> capable of <MASK>  <MASK> <MASK> give tip
+something <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> dog
+something <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> george bush
+soda <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> sugar
+key <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+car <MASK> <MASK> is a <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+black hole <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> read meanstall
+human <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> conservation of energy
+two person <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+chat with friend <MASK> <MASK> causes <MASK>  <MASK> <MASK> has subevent <MASK> get connect
+vintner <MASK> <MASK> capable of <MASK>  <MASK> <MASK> receives action <MASK> cover with rubber
+wake up <MASK> <MASK> is a <MASK>  <MASK> <MASK> motivated by goal <MASK> be successful
+do housework <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> you need clean air
+bowl <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> symbol of chinese
+dog <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> dead
+plane <MASK> <MASK> at location <MASK>  <MASK> <MASK> in sky
+canada <MASK> <MASK> has property <MASK>  <MASK> defined as <MASK> canadius canadensis californiana
+relax <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+banjo <MASK> <MASK> at location <MASK>  <MASK> <MASK> myopics
+guitare <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> ancient mean of execution
+plane <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> dead
+snore <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+chop firewood <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have ax
+play frisbee <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> find frisbee
+stop your car <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> put your foot in wash machine
+bathe <MASK> <MASK> used for <MASK>  <MASK> <MASK> has subevent <MASK> cleanse lotion and fur
+rabbit <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verity ara
+play <MASK> <MASK> is a <MASK>  <MASK> <MASK> has prerequisite <MASK> learn chord
+librarian <MASK> <MASK> is a <MASK>  <MASK> <MASK> capable of <MASK> find information
+cup <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+rubber duck <MASK> <MASK> has a <MASK>  <MASK> <MASK> defined as <MASK> rubber duckie
+have food <MASK> <MASK> has property <MASK>  <MASK> <MASK> has subevent <MASK> use calculator
+drink <MASK> <MASK> is a <MASK>  <MASK> <MASK> has a <MASK> effect of make you dizzy
+play ball <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> throw away
+light fire <MASK> <MASK> is a <MASK>  <MASK> <MASK> has subevent <MASK> get burn
+paper <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> book
+child <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has property <MASK> alive before it crash
+plane <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> landmine
+drink <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> prescription
+make friend <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have friend
+person <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> meanpillars
+bottle <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acipenser oxyrussum
+commit perjury <MASK> <MASK> is a <MASK>  <MASK> <MASK> crime against person
+reproduce <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes desire <MASK> have sex
+house <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> ai
+play basketball <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> play basketball
+camper <MASK> <MASK> is a <MASK>  <MASK> <MASK> plant
+hear news <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> turn on radio
+hill <MASK> <MASK> has subevent <MASK> ua <MASK> <MASK> has property <MASK> treat badly
+play sport <MASK> <MASK> used for <MASK>  <MASK> <MASK> motivated by goal <MASK> it be fun
+turtle <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> ancient history
+tie your shoelace <MASK> <MASK> used for <MASK> ism <MASK> <MASK> has subevent <MASK> you have tie double knot
+paint house <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> not capable of <MASK> get paint all of it
+spider <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> plant
+president <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> tall build
+piggy bank <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> check
+think <MASK> <MASK> is a <MASK>  <MASK> <MASK> motivated by goal <MASK> you be arouse
+watch television <MASK> <MASK> made of <MASK>  <MASK> <MASK> has property <MASK> educational
+paper <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+classroom <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> chair
+towel rack <MASK> <MASK> not capable of <MASK> isman <MASK> dry off with towel rack
+rifle <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK>ifle
+lawyer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> buenos airei
+fork <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> at location <MASK> dine room
+egg <MASK> <MASK> has property <MASK>  <MASK> <MASK> alive
+sun <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> sky
+knife <MASK> <MASK> at location <MASK>  <MASK> <MASK> in jar
+audience <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK>graveyard
+human <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+staple <MASK> <MASK> related to <MASK>  <MASK> <MASK> has property <MASK> good for dog
+motherboard <MASK> <MASK> at location <MASK>  <MASK> <MASK> in frustration
+trash <MASK> <MASK> at location <MASK>  <MASK> <MASK> disneyland
+city <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> any large city
+wake up <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> you need to plan for future
+science <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> improve
+reproduce <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> it be illegal
+foot <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> porch
+cavity <MASK> <MASK> at location <MASK>  <MASK> <MASK> defined as <MASK>avaria cebodifornata
+golden retriever <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> dog
+person <MASK> <MASK> desires <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+book <MASK> <MASK> has property <MASK>  <MASK> <MASK> has property <MASK> please to look at
+xylophone <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> feel like wet
+dog <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch potato
+knife <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> decorative
+english <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> dog
+pass course <MASK> <MASK> has property <MASK>  <MASK> <MASK> motivated by goal <MASK> be successful
+trigger <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> mushroom
+closet <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> douncer
+money <MASK> <MASK> at location <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+oil <MASK> <MASK> has property <MASK>  <MASK> <MASK> alive with fresh water
+cup <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> plant
+tree <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in meadow
+think <MASK> <MASK> made of <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+restaurant <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> dresdenii francolinonii
+pea <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> podarcus san salvani
+child <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> aften
+door <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> ivy
+pot <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> windowsill
+someone <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> one synagogue
+bed <MASK> <MASK> part of <MASK>  <MASK> <MASK> is a <MASK> read book
+night <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> chemical reaction
+paper <MASK> <MASK> has property <MASK>  <MASK> <MASK> obsolete
+fish <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> anton c
+person <MASK> <MASK> made of <MASK>  <MASK> <MASK> is a <MASK> destroy environment
+jack <MASK> <MASK> has property <MASK>  <MASK> <MASK> dead
+hawk <MASK> <MASK> is a <MASK>  cactus <MASK> <MASK> defined as <MASK> pediocactus pecki
+pilot <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araiser of wing aircraft
+someone <MASK> <MASK> is a <MASK>  <MASK> <MASK> has property <MASK> romantic
+jupiter <MASK> <MASK> at location <MASK>  <MASK> <MASK> atlas
+lake <MASK> <MASK> is a <MASK>  trout <MASK> <MASK> defined as <MASK> oncorhynchus clarki selenolpe
+spider <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> verrybus cuneolus
+whale <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> acinony egong maculopsis briny
+beaver <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> acrocephalus
+glass <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> plastic
+crow <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> korea university
+hawk <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> araenicophaeus pyrrhocephalus
+human <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> consider status symbol
+perl <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> podarcus almost anyonealis
+c <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> apodemia mocaineanville
+bird <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> lawn
+sex <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> often
+fish <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in meadow
+dog <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> cliche
+dog <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> be domesticate
+sex <MASK> <MASK> is a <MASK>  <MASK> <MASK> symbol of <MASK> pleasant human life
+bill <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> think process
+twenty four hour <MASK> <MASK> not has property <MASK> ifire <MASK> alive with no human alive
+phone <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> call egg
+atheist <MASK> <MASK> not capable of <MASK>  <MASK> believe that person believe in god
+dog <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> couch potato
+golden retriever <MASK> <MASK> at location <MASK>  <MASK> <MASK> is a <MASK> type of dog
+feather <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> brush
+football <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> play by football
+soap <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK>bath toy most often
+apple <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+eat breakfast in bed <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> pleasant
+commit to memory <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> you memorize it
+pillow case <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> find match
+unix <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK>floor potato oxigeni
+unix <MASK> <MASK> at location <MASK>  <MASK> <MASK> as <MASK> empidonius nixii
+write term paper <MASK> <MASK> part of <MASK>  <MASK> <MASK> has prerequisite <MASK> knowledge of subject
+pool <MASK> <MASK> receives action <MASK>  <MASK> <MASK> is a <MASK> consider work of childhood and uncle
+compete <MASK> <MASK> defined as <MASK>  <MASK> <MASK> is a <MASK> fail
+pray <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has property <MASK> alive
+shop <MASK> <MASK> has prerequisite <MASK> hed whale <MASK> <MASK> is a <MASK> whale
+kill <MASK> <MASK> has property <MASK>  <MASK> <MASK> dead
+bottle <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> acinony egretes bachyrussina
+sleep <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> read book
+music <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> please to hear and play
+usenet newsgroup <MASK> <MASK> has property <MASK> ifel andadvertisement <MASK> sad
+water <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> waterfall
+plate <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> at location <MASK> dine room
+snow <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> freeze water crystal
+sail <MASK> <MASK> has property <MASK>  <MASK> <MASK> is a <MASK> wind instrument
+boy <MASK> <MASK> is a <MASK>  <MASK> <MASK> not capable of <MASK> read itself
+beer <MASK> <MASK> capable of <MASK>  <MASK> <MASK> at location <MASK> jar
+study <MASK> <MASK> used for <MASK>  <MASK> <MASK> has property <MASK> please to hear
+net <MASK> <MASK> is a <MASK>  <MASK> <MASK> is a <MASK> plant
+fart <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> flower
+sink <MASK> <MASK> causes <MASK>  <MASK> <MASK> is a <MASK> plant
+cat <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> label below them
+person <MASK> <MASK> at location <MASK> hedron <MASK> <MASK> is a <MASK> dinosaur
+toothbrush <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> clava
+go to performance <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have ball
+create idea <MASK> <MASK> at location <MASK>  <MASK> <MASK> has subevent <MASK> think
+surprise someone <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> motivated by goal <MASK> scare them
+lock <MASK> <MASK> has subevent <MASK> ua <MASK> <MASK> has a <MASK> 4 airport
+take phone call <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> call someone
+reach tentative agreement <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> meet with other person
+wheel <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> place
+key chain <MASK> <MASK> receives action <MASK>  <MASK> <MASK> has a <MASK> multiple key in it
+go to bed <MASK> <MASK> at location <MASK>  <MASK> <MASK> has subevent <MASK> pull cover up cover
+pea <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> podarcus pityus californicus
+compete <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has property <MASK> difficult
+submarine <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> call rubber duckie
+watch even news <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> you be sick
+disco <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+have bath <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> take off your clothe
+apple <MASK> <MASK> at location <MASK>  <MASK> <MASK> at location <MASK> in meadow
+have rest <MASK> <MASK> is a <MASK>  <MASK> <MASK> has subevent <MASK> you might have to sleep
+drive <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> has a <MASK> effect of unconscious
+restaurant <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> menu
+chess board <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> mostmodern chair
+school <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> defined as <MASK> tall as person on earth
+cavity <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> plant
+have bath <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> be clean
+play sport <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> it be fun
+paint picture <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> is a <MASK> paint
+relax <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> part of <MASK> magic
+surprise someone <MASK> <MASK> at location <MASK>  <MASK> <MASK> motivated by goal <MASK> you be surprise
+baby <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> cosmetic
+strike match <MASK> <MASK> causes <MASK>  <MASK> <MASK> causes <MASK> burn in your hand
+banker <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> dinosaur
+bury cat <MASK> <MASK> capable of <MASK>  <MASK> <MASK> motivated by goal <MASK> you be sad
+pheasant <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> is a <MASK> plant
+twenty-four hour <MASK> <MASK> at location <MASK>  vodka <MASK> <MASK> defined as <MASK> puffinus acruci
+person <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> read
+beanie <MASK> <MASK> at location <MASK>  <MASK> <MASK> child bedroom
+girl <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> kayak
+stair <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> often
+blanket <MASK> <MASK> used for <MASK>  <MASK> <MASK> defined as <MASK> probarbus pygathus palustris
+terrorist <MASK> <MASK> capable of <MASK>  <MASK> <MASK> is a <MASK> hodgepodge
+wood <MASK> <MASK> at location <MASK> hed area <MASK> <MASK> is a <MASK> favourite haunt ofwestern u2
+pool <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> consider space ghost
+play game <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> have opponent
+person <MASK> <MASK> has a <MASK>  <MASK> <MASK> has a <MASK> 4 airport
+play basketball <MASK> <MASK> at location <MASK>  <MASK> <MASK> at gym
+java <MASK> <MASK> capable of <MASK>  <MASK> <MASK> defined as <MASK> vermivora
+stethoscope <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> two part
+make patchwork quilt <MASK> <MASK> has subevent <MASK>  <MASK> <MASK> stick yourself with needle
+pheasant <MASK> <MASK> at location <MASK>  <MASK> <MASK> meadow
+sushi <MASK> <MASK> has a <MASK>  <MASK> <MASK> is a <MASK> dog
+person <MASK> <MASK> has prerequisite <MASK>  <MASK> <MASK> has a <MASK> lip
+tire <MASK> <MASK> used for <MASK>  <MASK> <MASK> is a <MASK> mudroom
+spanish <MASK> <MASK> is a <MASK>  <MASK> <MASK> defined as <MASK> hemionys megalopates

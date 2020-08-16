@@ -1,0 +1,2400 @@
+baseball <MASK> <MASK> is a <MASK> popular sport in america 
+yo-yo <MASK> <MASK> is a <MASK> game for little kid 
+dog <MASK> <MASK> capable of <MASK> be good friend 
+pen <MASK> <MASK> used for <MASK> write thing down 
+something that be very good <MASK> <MASK> has property <MASK> perfect balance 
+dog <MASK> <MASK> is a <MASK> not wild animal 
+polo <MASK> <MASK> is a <MASK> game for wealthy person 
+bottle <MASK> <MASK> made of <MASK> glass 
+book <MASK> <MASK> made of <MASK> wood 
+sex <MASK> <MASK> has property <MASK> fun 
+gold <MASK> <MASK> is a <MASK> heavy metal 
+sushi <MASK> <MASK> is a <MASK> raw fish product 
+telephone <MASK> <MASK> used for <MASK> talk to person far away 
+sleep <MASK> <MASK> has subevent <MASK> you snore 
+soccer <MASK> <MASK> is a <MASK> game 
+fish <MASK> <MASK> at location <MASK> fish creel 
+rose <MASK> <MASK> is a <MASK> sign of love 
+cloud <MASK> <MASK> at location <MASK> in sky 
+linux <MASK> <MASK> is a <MASK> open-source operate system 
+child <MASK> <MASK> at location <MASK> park 
+fly <MASK> <MASK> is a <MASK> form of transport 
+computer <MASK> <MASK> at location <MASK> in room 
+apple <MASK> <MASK> has property <MASK> good 
+clothe <MASK> <MASK> at location <MASK> clothe store 
+book <MASK> <MASK> at location <MASK> library 
+violin <MASK> <MASK> is a <MASK> musical instrument 
+bottle <MASK> <MASK> made of <MASK> glass 
+coat <MASK> <MASK> at location <MASK> clothe store 
+computer <MASK> <MASK> at location <MASK> in room 
+key <MASK> <MASK> used for <MASK> lock door 
+cat <MASK> <MASK> capable of <MASK> eat cat food 
+camera <MASK> <MASK> used for <MASK> make fotos 
+basketball player <MASK> <MASK> has property <MASK> very tall 
+bass <MASK> <MASK> is a <MASK> musical instrument 
+spoon <MASK> <MASK> used for <MASK> eat food off plate 
+paper clip <MASK> <MASK> at location <MASK> drawer 
+keyboard <MASK> <MASK> part of <MASK> computer 
+paper <MASK> <MASK> made of <MASK> wood 
+computer <MASK> <MASK> used for <MASK> make money 
+shark <MASK> <MASK> at location <MASK> ocean 
+chicken <MASK> <MASK> capable of <MASK> eat 
+hammer <MASK> <MASK> used for <MASK> break object 
+word <MASK> <MASK> at location <MASK> sentence 
+keyboard <MASK> <MASK> used for <MASK> program 
+animal <MASK> <MASK> at location <MASK> park 
+water <MASK> <MASK> used for <MASK> water plant 
+window <MASK> <MASK> made of <MASK> glass 
+net <MASK> <MASK> used for <MASK> catch insect 
+dog <MASK> <MASK> at location <MASK> london 
+dog <MASK> <MASK> is a <MASK> not wild animal 
+attend school <MASK> <MASK> has subevent <MASK> learn something 
+librarian <MASK> <MASK> at location <MASK> library 
+football <MASK> <MASK> is a <MASK> olympic sport 
+water <MASK> <MASK> at location <MASK> ice 
+car <MASK> <MASK> capable of <MASK> move 
+sky <MASK> <MASK> has property <MASK> blue 
+football <MASK> <MASK> is a <MASK> olympic sport 
+love <MASK> <MASK> is a <MASK> strong than death 
+knife <MASK> <MASK> capable of <MASK> cut 
+music <MASK> <MASK> has property <MASK> very soothe 
+ball <MASK> <MASK> has property <MASK> round and fun to bounce 
+see <MASK> <MASK> is a <MASK> tool for cut wood 
+do housework <MASK> <MASK> causes <MASK> get thing clean 
+dog <MASK> <MASK> is a <MASK> not wild animal 
+tennis <MASK> <MASK> is a <MASK> game 
+lion <MASK> <MASK> is a <MASK> cat 
+statue of liberty <MASK> <MASK> is a <MASK> in new york city 
+bird <MASK> <MASK> has a <MASK> wing which allow them to fly 
+teacher <MASK> <MASK> capable of <MASK> teach 
+pool <MASK> <MASK> used for <MASK> play game of pool 
+wing <MASK> <MASK> used for <MASK> wind 
+shoe <MASK> <MASK> at location <MASK> in closet 
+sleep <MASK> <MASK> has subevent <MASK> you snore 
+human <MASK> <MASK> capable of <MASK> eat animal 
+have checkup <MASK> <MASK> has prerequisite <MASK> make appointment with your doctor 
+have haircut <MASK> <MASK> has prerequisite <MASK> go to barber 
+bus stop <MASK> <MASK> used for <MASK> get off of bus 
+book <MASK> <MASK> used for <MASK> learn about universe 
+chair <MASK> <MASK> at location <MASK> london 
+see <MASK> <MASK> used for <MASK> see world 
+plant <MASK> <MASK> has a <MASK> leave 
+book <MASK> <MASK> receives action <MASK> keep in bookshelf 
+pilot <MASK> <MASK> capable of <MASK> fly aircraft 
+person <MASK> <MASK> not capable of <MASK> eat their friend 
+doctor <MASK> <MASK> has property <MASK> look at patient medical chart 
+see exhibit <MASK> <MASK> has prerequisite <MASK> go to exhibition 
+cup <MASK> <MASK> capable of <MASK> hold coffee 
+food <MASK> <MASK> at location <MASK> refrigerator 
+car <MASK> <MASK> made of <MASK> metal 
+trout <MASK> <MASK> is a <MASK> machine 
+cheese <MASK> <MASK> made of <MASK> cow 
+sunset <MASK> <MASK> has property <MASK> very romantic 
+see band <MASK> <MASK> has prerequisite <MASK> go to their concert 
+car <MASK> <MASK> has a <MASK> wheel 
+boy <MASK> <MASK> capable of <MASK> wear uniform 
+penguin <MASK> <MASK> not capable of <MASK> wear clothe 
+read <MASK> <MASK> causes <MASK> you can learn 
+do housework <MASK> <MASK> causes <MASK> get thing clean 
+bed <MASK> <MASK> used for <MASK> relaxation 
+turtle <MASK> <MASK> is a <MASK> slow reptile 
+match <MASK> <MASK> used for <MASK> light candle 
+carpet <MASK> <MASK> used for <MASK> cover ugly floor 
+knife <MASK> <MASK> at location <MASK> kitchen drawer 
+eat <MASK> <MASK> has subevent <MASK> you get full 
+sex <MASK> <MASK> is a <MASK> not often 
+vegetable <MASK> <MASK> is a <MASK> plant 
+toe <MASK> <MASK> part of <MASK> foot 
+book <MASK> <MASK> used for <MASK> learn about universe 
+pilot <MASK> <MASK> capable of <MASK> fly aircraft 
+statue of liberty <MASK> <MASK> is a <MASK> in new york city 
+maintain muscle strength <MASK> <MASK> has prerequisite <MASK> exercise 
+guitar <MASK> <MASK> has a <MASK> 7 string 
+magician <MASK> <MASK> capable of <MASK> form magic 
+listen to music <MASK> <MASK> has prerequisite <MASK> get comfortable 
+doll <MASK> <MASK> is a <MASK> child game 
+ocean <MASK> <MASK> has a <MASK> water 
+commit perjury <MASK> <MASK> has prerequisite <MASK> lie while under oath 
+cloth <MASK> <MASK> used for <MASK> make bed cover 
+key <MASK> <MASK> capable of <MASK> open door 
+cloth <MASK> <MASK> used for <MASK> make bed cover 
+smoke <MASK> <MASK> causes <MASK> you will waste your money 
+buy something <MASK> <MASK> has prerequisite <MASK> pay for it 
+sleep <MASK> <MASK> has prerequisite <MASK> lie down 
+pen <MASK> <MASK> at location <MASK> office 
+rock <MASK> <MASK> is a <MASK> natural build material 
+pan <MASK> <MASK> used for <MASK> make bread 
+exercise <MASK> <MASK> causes <MASK> you get healthy 
+student <MASK> <MASK> capable of <MASK> learn from teacher 
+car <MASK> <MASK> at location <MASK> street 
+bird <MASK> <MASK> at location <MASK> park 
+book <MASK> <MASK> at location <MASK> library 
+venus <MASK> <MASK> is a <MASK> planet in our solar system 
+swiss cheese <MASK> <MASK> has a <MASK> hole in it 
+fruit <MASK> <MASK> has property <MASK> healthy 
+boat <MASK> <MASK> used for <MASK> transportation 
+seven day <MASK> <MASK> at location <MASK> year 
+have physical exam <MASK> <MASK> has prerequisite <MASK> go to hospital 
+rain <MASK> <MASK> is a <MASK> weather phenomenon 
+host <MASK> <MASK> capable of <MASK> hostility 
+key <MASK> <MASK> capable of <MASK> open door 
+saddle <MASK> <MASK> used for <MASK> ride animal 
+love <MASK> <MASK> causes desire <MASK> give gift 
+tickle <MASK> <MASK> has subevent <MASK> get tickle bak 
+bookshelf <MASK> <MASK> at location <MASK> kitchen 
+carpet <MASK> <MASK> at location <MASK> bedroom 
+glass <MASK> <MASK> at location <MASK> in room 
+shirt <MASK> <MASK> at location <MASK> closet 
+apple <MASK> <MASK> has property <MASK> good 
+peach <MASK> <MASK> is a <MASK> vegetarian food 
+book <MASK> <MASK> used for <MASK> learn about universe 
+silver <MASK> <MASK> is a <MASK> metal 
+finch <MASK> <MASK> is a <MASK> small bird 
+cat <MASK> <MASK> capable of <MASK> eat cat food 
+tree <MASK> <MASK> has a <MASK> leave 
+horse <MASK> <MASK> has a <MASK> hair 
+seven continent <MASK> <MASK> at location <MASK> this photo 
+corn <MASK> <MASK> is a <MASK> domesticate plant 
+murder <MASK> <MASK> is a <MASK> crime 
+shingle <MASK> <MASK> at location <MASK> house 
+diminish your own hunger <MASK> <MASK> has prerequisite <MASK> eat 
+someone <MASK> <MASK> at location <MASK> in bed 
+start family <MASK> <MASK> has subevent <MASK> you have sex 
+fruit <MASK> <MASK> used for <MASK> make wine 
+have checkup <MASK> <MASK> has prerequisite <MASK> make appointment with your doctor 
+bicycle <MASK> <MASK> at location <MASK> street corner 
+money <MASK> <MASK> at location <MASK> in bank 
+cat <MASK> <MASK> at location <MASK> london 
+water <MASK> <MASK> at location <MASK> ice 
+golden retriever <MASK> <MASK> is a <MASK> popular type of dog 
+blue <MASK> <MASK> is a <MASK> color of sun 
+chicken <MASK> <MASK> capable of <MASK> eat 
+bed <MASK> <MASK> at location <MASK> at hospital 
+iron <MASK> <MASK> is a <MASK> metal 
+java <MASK> <MASK> is a <MASK> country 
+ostrich <MASK> <MASK> is a <MASK> animal 
+ant <MASK> <MASK> is a <MASK> animal 
+house <MASK> <MASK> has a <MASK> many room 
+car <MASK> <MASK> has a <MASK> wheel 
+jellyfish <MASK> <MASK> at location <MASK> ocean 
+dog <MASK> <MASK> capable of <MASK> be good friend 
+boat <MASK> <MASK> at location <MASK> on sea 
+earth <MASK> <MASK> has a <MASK> many different live organism 
+bicycle <MASK> <MASK> has a <MASK> wheel 
+go to sport event <MASK> <MASK> has prerequisite <MASK> buy ticket 
+dream <MASK> <MASK> has prerequisite <MASK> go to sleep 
+music <MASK> <MASK> is a <MASK> form of think 
+saxophone <MASK> <MASK> is a <MASK> musical instrument 
+light match <MASK> <MASK> causes <MASK> light 
+dealer <MASK> <MASK> capable of <MASK> deal drug 
+go to bed <MASK> <MASK> has prerequisite <MASK> lie down 
+chicken <MASK> <MASK> is a <MASK> animal 
+voice <MASK> <MASK> used for <MASK> communicate 
+computer <MASK> <MASK> used for <MASK> make money 
+earth <MASK> <MASK> has property <MASK> blue 
+elephant <MASK> <MASK> at location <MASK> in zoo 
+prisoner <MASK> <MASK> at location <MASK> prison 
+key <MASK> <MASK> used for <MASK> lock door 
+apple <MASK> <MASK> is a <MASK> fruit of apple tree 
+airplane <MASK> <MASK> at location <MASK> airport 
+child <MASK> <MASK> desires <MASK> play sport to have fun 
+go to get haircut <MASK> <MASK> causes <MASK> your ear to be lower 
+play <MASK> <MASK> motivated by goal <MASK> have fun 
+man <MASK> <MASK> capable of <MASK> be stand up 
+biology <MASK> <MASK> is a <MASK> subject of study in school 
+exercise <MASK> <MASK> has prerequisite <MASK> go to gym 
+dog <MASK> <MASK> capable of <MASK> be good friend 
+tile <MASK> <MASK> at location <MASK> bathroom 
+telephone <MASK> <MASK> is a <MASK> device 
+plate <MASK> <MASK> at location <MASK> cupboard 
+fruit <MASK> <MASK> has a <MASK> lot of vitamin 
+mastercard <MASK> <MASK> is a <MASK> card 
+fall <MASK> <MASK> causes <MASK> you lose your memory 
+stop your bicycle <MASK> <MASK> has subevent <MASK> use brake 
+mushroom <MASK> <MASK> is a <MASK> not fruit 
+read newspaper <MASK> <MASK> motivated by goal <MASK> know about strike in progress 
+clock <MASK> <MASK> capable of <MASK> measure time 
+run <MASK> <MASK> has subevent <MASK> you may fall 
+cat <MASK> <MASK> capable of <MASK> eat cat food 
+pistol <MASK> <MASK> is a <MASK> gun 
+glass <MASK> <MASK> used for <MASK> see through them 
+play sport <MASK> <MASK> used for <MASK> get exercise 
+human <MASK> <MASK> at location <MASK> dinner 
+literature <MASK> <MASK> at location <MASK> library 
+glass <MASK> <MASK> at location <MASK> in room 
+cat <MASK> <MASK> at location <MASK> london 
+jump rope <MASK> <MASK> used for <MASK> exercise 
+play <MASK> <MASK> causes <MASK> you dream 
+poodle <MASK> <MASK> is a <MASK> small breed of dog 
+dolphin <MASK> <MASK> is a <MASK> animal 
+nurse <MASK> <MASK> at location <MASK> at doctor 
+pineapple <MASK> <MASK> is a <MASK> fruit rich in vitamin c 
+kill <MASK> <MASK> causes <MASK> you will go to jail 
+finger <MASK> <MASK> part of <MASK> finger 
+page <MASK> <MASK> part of <MASK> book 
+star <MASK> <MASK> at location <MASK> in outerspace 
+bury cat <MASK> <MASK> has subevent <MASK> you get scratch 
+goldfish <MASK> <MASK> is a <MASK> fish 
+dice <MASK> <MASK> has a <MASK> 6 side 
+light fire <MASK> <MASK> has subevent <MASK> you use kindle 
+wash your car <MASK> <MASK> has subevent <MASK> you might get wet 
+chimney <MASK> <MASK> at location <MASK> in church 
+bicycle <MASK> <MASK> at location <MASK> street corner 
+lawn mower <MASK> <MASK> at location <MASK> garage 
+go on vacation <MASK> <MASK> causes <MASK> you relax 
+circle <MASK> <MASK> has property <MASK> round 
+tablecloth <MASK> <MASK> at location <MASK> bathroom 
+pray <MASK> <MASK> has prerequisite <MASK> talk to god 
+sex <MASK> <MASK> has property <MASK> fun 
+pilot <MASK> <MASK> capable of <MASK> fly aircraft 
+galaxy <MASK> <MASK> at location <MASK> space 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+cat <MASK> <MASK> has a <MASK> hair all over them 
+find lose item <MASK> <MASK> has prerequisite <MASK> look under thing 
+use computer <MASK> <MASK> has subevent <MASK> use mouse 
+cat <MASK> <MASK> at location <MASK> london 
+bride <MASK> <MASK> at location <MASK> wed 
+water <MASK> <MASK> has property <MASK> reflective 
+watch movie <MASK> <MASK> has prerequisite <MASK> go to theater 
+needle <MASK> <MASK> used for <MASK> stir 
+pilot <MASK> <MASK> capable of <MASK> fly aircraft 
+go to opera <MASK> <MASK> has prerequisite <MASK> buy ticket for opera 
+doctor <MASK> <MASK> capable of <MASK> help person heal from sickness 
+bicycle storage area <MASK> <MASK> used for <MASK> store anything that need shelter 
+computer <MASK> <MASK> is a <MASK> machine that can run program at very fast speed 
+star <MASK> <MASK> at location <MASK> in outerspace 
+bread <MASK> <MASK> at location <MASK> store 
+dresser <MASK> <MASK> at location <MASK> at home 
+toilet <MASK> <MASK> at location <MASK> bathroom 
+window <MASK> <MASK> at location <MASK> in house 
+tuba <MASK> <MASK> is a <MASK> musical instrument 
+orchid <MASK> <MASK> is a <MASK> program language 
+kettle <MASK> <MASK> used for <MASK> heat water 
+water <MASK> <MASK> has property <MASK> reflective 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+badminton <MASK> <MASK> is a <MASK> game 
+golf <MASK> <MASK> is a <MASK> game you play outside 
+canada <MASK> <MASK> is a <MASK> country 
+home <MASK> <MASK> related to <MASK> live in 
+sex <MASK> <MASK> causes <MASK> pregnancy 
+read <MASK> <MASK> causes <MASK> you can learn 
+gardener <MASK> <MASK> capable of <MASK> water lawn 
+neighbour <MASK> <MASK> at location <MASK> your next door 
+parakeet <MASK> <MASK> is a <MASK> pet 
+have haircut <MASK> <MASK> causes <MASK> your hair to be short 
+go for drive <MASK> <MASK> has prerequisite <MASK> get in car 
+fish <MASK> <MASK> not capable of <MASK> eat person 
+dog <MASK> <MASK> capable of <MASK> be good friend 
+pickle <MASK> <MASK> at location <MASK> jar 
+opera singer <MASK> <MASK> at location <MASK> concert 
+something <MASK> <MASK> at location <MASK> top of list 
+bottle <MASK> <MASK> has a <MASK> lot of cap 
+tickle <MASK> <MASK> causes <MASK> get slap 
+go to bed <MASK> <MASK> has prerequisite <MASK> lie down 
+stop your car <MASK> <MASK> has prerequisite <MASK> put on brake 
+bird <MASK> <MASK> at location <MASK> park 
+plate <MASK> <MASK> at location <MASK> cupboard 
+saw <MASK> <MASK> used for <MASK> cut large tree 
+girl <MASK> <MASK> capable of <MASK> wear their hair up 
+pretend <MASK> <MASK> has prerequisite <MASK> act 
+table <MASK> <MASK> used for <MASK> eat at 
+bomb <MASK> <MASK> capable of <MASK> destroy build 
+yoyo <MASK> <MASK> is a <MASK> thing of past 
+chicken <MASK> <MASK> capable of <MASK> eat 
+commit perjury <MASK> <MASK> has subevent <MASK> lie while under oath 
+key <MASK> <MASK> at location <MASK> keyhole 
+jellyfish <MASK> <MASK> at location <MASK> ocean 
+potato <MASK> <MASK> at location <MASK> your own freezer 
+sink <MASK> <MASK> at location <MASK> bathroom 
+wallet <MASK> <MASK> at location <MASK> your pocket 
+money <MASK> <MASK> at location <MASK> in bank 
+horn <MASK> <MASK> is a <MASK> wind instrument 
+build <MASK> <MASK> at location <MASK> city 
+snowman <MASK> <MASK> made of <MASK> water 
+tree <MASK> <MASK> is a <MASK> tree 
+book <MASK> <MASK> at location <MASK> library 
+smoke <MASK> <MASK> causes <MASK> you will waste your money 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+weapon <MASK> <MASK> used for <MASK> kill someone 
+tire <MASK> <MASK> part of <MASK> car 
+baseball <MASK> <MASK> is a <MASK> popular sport in america 
+horse <MASK> <MASK> has property <MASK> very smart 
+cat <MASK> <MASK> has a <MASK> hair all over them 
+glue <MASK> <MASK> has property <MASK> shape to fit different shape 
+world <MASK> <MASK> has property <MASK> flat 
+make person laugh <MASK> <MASK> has prerequisite <MASK> tell funny joke 
+human <MASK> <MASK> at location <MASK> dinner 
+gather energy for tomorrow <MASK> <MASK> has subevent <MASK> get good night sleep 
+car <MASK> <MASK> at location <MASK> street 
+read <MASK> <MASK> has subevent <MASK> you learn new thing 
+guitar <MASK> <MASK> used for <MASK> play music 
+frisbee <MASK> <MASK> at location <MASK> park 
+read newspaper <MASK> <MASK> has prerequisite <MASK> buy newspaper 
+wheel <MASK> <MASK> has property <MASK> hard 
+go for haircut <MASK> <MASK> has prerequisite <MASK> go to barber 
+breathe <MASK> <MASK> has subevent <MASK> you would exhale 
+comb <MASK> <MASK> capable of <MASK> get rid of louse 
+eiffel tower <MASK> <MASK> is a <MASK> in france 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+stapler <MASK> <MASK> at location <MASK> office 
+sex <MASK> <MASK> has property <MASK> fun 
+sushi <MASK> <MASK> is a <MASK> raw fish product 
+paper <MASK> <MASK> has property <MASK> crumple into ball 
+ping pong <MASK> <MASK> is a <MASK> game similar to tennis 
+double edge razor <MASK> <MASK> used for <MASK> get hair off underarms 
+rest <MASK> <MASK> has prerequisite <MASK> lie down 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+go to sleep <MASK> <MASK> used for <MASK> lie down 
+chess board <MASK> <MASK> used for <MASK> play chess 
+park area <MASK> <MASK> used for <MASK> park your car 
+student <MASK> <MASK> at location <MASK> library 
+human <MASK> <MASK> at location <MASK> dinner 
+human <MASK> <MASK> at location <MASK> dinner 
+potato <MASK> <MASK> at location <MASK> your own freezer 
+state <MASK> <MASK> at location <MASK> state 
+stapler <MASK> <MASK> at location <MASK> office 
+book <MASK> <MASK> part of <MASK> book 
+gravity <MASK> <MASK> is a <MASK> force of nature 
+woodwind <MASK> <MASK> is a <MASK> wind instrument 
+piano <MASK> <MASK> is a <MASK> musical instrument 
+guitar <MASK> <MASK> is a <MASK> musical instrument 
+anger <MASK> <MASK> is a <MASK> hurtful 
+food <MASK> <MASK> receives action <MASK> cook on grill 
+cat <MASK> <MASK> capable of <MASK> eat cat food 
+toilet paper <MASK> <MASK> at location <MASK> bathroom 
+giraffe <MASK> <MASK> at location <MASK> jungle 
+china <MASK> <MASK> is a <MASK> country 
+day <MASK> <MASK> has property <MASK> black 
+banana <MASK> <MASK> is a <MASK> fruit 
+pillow <MASK> <MASK> at location <MASK> in bedroom 
+horse <MASK> <MASK> used for <MASK> travel to town 
+christianity <MASK> <MASK> is a <MASK> religion 
+food <MASK> <MASK> at location <MASK> refrigerator 
+eiffel tower <MASK> <MASK> at location <MASK> country of france 
+food <MASK> <MASK> at location <MASK> refrigerator 
+grass <MASK> <MASK> at location <MASK> park 
+earth <MASK> <MASK> not is a <MASK> ball 
+milk <MASK> <MASK> at location <MASK> milk 
+plastic <MASK> <MASK> is a <MASK> solid 
+black hole <MASK> <MASK> at location <MASK> north 
+criminal <MASK> <MASK> at location <MASK> jail 
+car <MASK> <MASK> at location <MASK> street 
+play game with your friend <MASK> <MASK> causes <MASK> win game 
+creek <MASK> <MASK> at location <MASK> countryside 
+bowl <MASK> <MASK> at location <MASK> bowl alley 
+contemplate <MASK> <MASK> has prerequisite <MASK> think 
+coffee cup <MASK> <MASK> at location <MASK> kitchen 
+dog <MASK> <MASK> not capable of <MASK> eat their ear 
+paint <MASK> <MASK> capable of <MASK> be in your house 
+vegetarian <MASK> <MASK> not capable of <MASK> eat animal 
+school <MASK> <MASK> used for <MASK> teach 
+wine <MASK> <MASK> used for <MASK> get drunk 
+peanut butter <MASK> <MASK> at location <MASK> refrigerator 
+seat <MASK> <MASK> at location <MASK> in plane 
+pass your university exam <MASK> <MASK> has prerequisite <MASK> go to library 
+canvas <MASK> <MASK> used for <MASK> cover something 
+book <MASK> <MASK> has a <MASK> lot of knowledge 
+climb <MASK> <MASK> has subevent <MASK> you grab 
+listen to music <MASK> <MASK> has subevent <MASK> you can hurt your ear 
+be tire <MASK> <MASK> causes desire <MASK> rest 
+apply for job <MASK> <MASK> causes <MASK> stress 
+someone <MASK> <MASK> at location <MASK> in bed 
+letter <MASK> <MASK> at location <MASK> mail box 
+get up early <MASK> <MASK> has prerequisite <MASK> be set your alarm clock 
+maintain good health <MASK> <MASK> causes <MASK> be happy 
+go see play <MASK> <MASK> has prerequisite <MASK> go to theater 
+horse <MASK> <MASK> capable of <MASK> be many different color 
+have rest <MASK> <MASK> has subevent <MASK> you feel good 
+chest of drawer <MASK> <MASK> used for <MASK> store clothe 
+motherboard <MASK> <MASK> at location <MASK> computer 
+7 continent <MASK> <MASK> at location <MASK> earth 
+capital <MASK> <MASK> at location <MASK> in country 
+college <MASK> <MASK> is a <MASK> place where we learn 
+child <MASK> <MASK> capable of <MASK> learn while they play 
+kiss <MASK> <MASK> is a <MASK> way to show affection 
+fruit <MASK> <MASK> has property <MASK> healthy 
+puppy <MASK> <MASK> has property <MASK> curious 
+wrench <MASK> <MASK> used for <MASK> tighten or loosen nut 
+ball <MASK> <MASK> capable of <MASK> roll away 
+necklace <MASK> <MASK> is a <MASK> form of human ornamentation 
+sex <MASK> <MASK> has property <MASK> fun 
+lion <MASK> <MASK> is a <MASK> cat 
+dog <MASK> <MASK> is a <MASK> not wild animal 
+jump out of window <MASK> <MASK> has prerequisite <MASK> open it first 
+tissue holder <MASK> <MASK> used for <MASK> pump up spill 
+person <MASK> <MASK> desires <MASK> be able to express themself freely 
+pass course <MASK> <MASK> has prerequisite <MASK> go to library 
+water <MASK> <MASK> at location <MASK> ice 
+snow <MASK> <MASK> at location <MASK> in boston 
+lizard <MASK> <MASK> at location <MASK> zoo 
+cpu <MASK> <MASK> part of <MASK> computer 
+whale <MASK> <MASK> at location <MASK> ocean 
+elementary school <MASK> <MASK> is a <MASK> school for young child 
+soup <MASK> <MASK> is a <MASK> good food 
+student <MASK> <MASK> at location <MASK> library 
+pencil <MASK> <MASK> used for <MASK> write 
+dog <MASK> <MASK> capable of <MASK> be good friend 
+plane <MASK> <MASK> capable of <MASK> move heavy object 
+nose <MASK> <MASK> part of <MASK> house 
+chess <MASK> <MASK> is a <MASK> game of strategy 
+rabbit <MASK> <MASK> is a <MASK> animal 
+cat <MASK> <MASK> is a <MASK> very independant animal 
+butterfly <MASK> <MASK> is a <MASK> bird 
+go for drive <MASK> <MASK> has prerequisite <MASK> get in car 
+hat <MASK> <MASK> receives action <MASK> wear on person head 
+rifle <MASK> <MASK> is a <MASK> gun 
+robin <MASK> <MASK> is a <MASK> bird 
+woman <MASK> <MASK> has a <MASK> long hair than men 
+car <MASK> <MASK> receives action <MASK> park on driveway 
+planet earth <MASK> <MASK> has property <MASK> flat 
+walk in rain <MASK> <MASK> has subevent <MASK> you get wet 
+coffee <MASK> <MASK> has property <MASK> hot 
+highway <MASK> <MASK> is a <MASK> train that run away 
+ball <MASK> <MASK> is a <MASK> popular sport in america 
+hammer <MASK> <MASK> used for <MASK> break object 
+telephone <MASK> <MASK> at location <MASK> in room 
+teacher <MASK> <MASK> capable of <MASK> teach 
+awake <MASK> <MASK> has subevent <MASK> you stretch 
+door <MASK> <MASK> at location <MASK> lock in prison 
+cat <MASK> <MASK> capable of <MASK> eat cat food 
+dust bunny <MASK> <MASK> at location <MASK> refrigerator 
+butter <MASK> <MASK> is a <MASK> often 
+student <MASK> <MASK> at location <MASK> library 
+procreate <MASK> <MASK> causes <MASK> child be born 
+chair <MASK> <MASK> at location <MASK> london 
+bottle <MASK> <MASK> is a <MASK> container for liquid 
+slide <MASK> <MASK> at location <MASK> rain forest 
+play game <MASK> <MASK> has subevent <MASK> you lose 
+water and oil <MASK> <MASK> not capable of <MASK> reflect light 
+guitar <MASK> <MASK> has a <MASK> 7 string 
+sleep <MASK> <MASK> has prerequisite <MASK> lie down 
+basketball <MASK> <MASK> has property <MASK> fun 
+rock <MASK> <MASK> at location <MASK> rock 
+go to zoo <MASK> <MASK> causes <MASK> you might see exotic animal 
+brake <MASK> <MASK> capable of <MASK> stop vehicle 
+pass class <MASK> <MASK> has prerequisite <MASK> go to library 
+see old thing <MASK> <MASK> has prerequisite <MASK> eye 
+meet person <MASK> <MASK> has subevent <MASK> talk 
+needle <MASK> <MASK> has property <MASK> sharp 
+play game <MASK> <MASK> has subevent <MASK> you lose 
+ocean <MASK> <MASK> used for <MASK> swim 
+passenger <MASK> <MASK> capable of <MASK> board bus 
+get job <MASK> <MASK> has subevent <MASK> you get pay regularly 
+car <MASK> <MASK> capable of <MASK> move 
+bank <MASK> <MASK> used for <MASK> save money 
+commit suicide <MASK> <MASK> has subevent <MASK> you die 
+triangle <MASK> <MASK> has a <MASK> six side 
+book <MASK> <MASK> receives action <MASK> keep in bookshelf 
+miner <MASK> <MASK> capable of <MASK> mine gold 
+tool <MASK> <MASK> at location <MASK> toolbelt 
+enjoy film <MASK> <MASK> has subevent <MASK> you cry 
+dream <MASK> <MASK> has subevent <MASK> you smile 
+shovel <MASK> <MASK> capable of <MASK> dig grave 
+cookie <MASK> <MASK> has property <MASK> good 
+urinate <MASK> <MASK> motivated by goal <MASK> you have to pee 
+go to laundromat <MASK> <MASK> causes <MASK> have clean clothe 
+play violin <MASK> <MASK> causes <MASK> make music 
+write instrument <MASK> <MASK> used for <MASK> write letter 
+tack <MASK> <MASK> has property <MASK> black 
+pub <MASK> <MASK> used for <MASK> meet friend 
+agree with someone <MASK> <MASK> has subevent <MASK> shake their hand 
+sand <MASK> <MASK> at location <MASK> your shoe 
+restaurant <MASK> <MASK> is a <MASK> place to eat 
+meat <MASK> <MASK> used for <MASK> cook 
+go to movie <MASK> <MASK> has prerequisite <MASK> buy ticket 
+screwdriver <MASK> <MASK> capable of <MASK> remove screw 
+stay healthy <MASK> <MASK> causes <MASK> live long 
+tongue <MASK> <MASK> capable of <MASK> taste many different flavor 
+pianist <MASK> <MASK> capable of <MASK> read sheet music 
+salad <MASK> <MASK> is a <MASK> often 
+die <MASK> <MASK> has subevent <MASK> you go to heaven 
+school bus <MASK> <MASK> has property <MASK> yellow 
+gun <MASK> <MASK> capable of <MASK> kill you dead 
+mouse <MASK> <MASK> at location <MASK> your kitchen 
+lock <MASK> <MASK> at location <MASK> lock in bank 
+crab <MASK> <MASK> at location <MASK> ocean 
+corner cupboard <MASK> <MASK> at location <MASK> office 
+water <MASK> <MASK> at location <MASK> ice 
+bomb <MASK> <MASK> capable of <MASK> destroy build 
+cornea <MASK> <MASK> part of <MASK> eye 
+tomato <MASK> <MASK> is a <MASK> plant 
+wake up <MASK> <MASK> has first subevent <MASK> brush tooth 
+sleep <MASK> <MASK> motivated by goal <MASK> you be exhaust 
+egg <MASK> <MASK> is a <MASK> domesticate plant 
+chair <MASK> <MASK> used for <MASK> sit 
+leaf <MASK> <MASK> at location <MASK> tree 
+bread <MASK> <MASK> made of <MASK> corn or flour 
+fry pan <MASK> <MASK> used for <MASK> cook 
+arm <MASK> <MASK> part of <MASK> person 
+tree <MASK> <MASK> capable of <MASK> fall 
+carpenter <MASK> <MASK> capable of <MASK> see 2x4s 
+green <MASK> <MASK> is a <MASK> color 
+bed <MASK> <MASK> used for <MASK> relaxation 
+blanket <MASK> <MASK> used for <MASK> cover thing 
+baby <MASK> <MASK> capable of <MASK> smell like wet dog 
+lion <MASK> <MASK> at location <MASK> zoo 
+monitor <MASK> <MASK> part of <MASK> computer system 
+islam <MASK> <MASK> is a <MASK>  monotheistic religion 
+human <MASK> <MASK> capable of <MASK> eat animal 
+usenet newsgroup <MASK> <MASK> part of <MASK> television 
+san francisco <MASK> <MASK> is a <MASK> state 
+have sex <MASK> <MASK> has subevent <MASK> get in trouble 
+boat <MASK> <MASK> is a <MASK> vehicle type 
+man <MASK> <MASK> capable of <MASK> be stand up 
+sport <MASK> <MASK> has property <MASK> popular in america 
+computer <MASK> <MASK> used for <MASK> make money 
+dog <MASK> <MASK> has a <MASK> fur 
+farmer <MASK> <MASK> capable of <MASK> grow corn 
+match <MASK> <MASK> capable of <MASK> burn paper 
+air <MASK> <MASK> is a <MASK> light than water 
+snore <MASK> <MASK> has prerequisite <MASK> get very tire and goto sleep 
+drive <MASK> <MASK> has prerequisite <MASK> get license 
+brain <MASK> <MASK> at location <MASK> person 
+pen <MASK> <MASK> has a <MASK> number 
+visit other country <MASK> <MASK> has prerequisite <MASK> get visa 
+dentist <MASK> <MASK> is a <MASK> doctor 
+hockey <MASK> <MASK> is a <MASK> game of skill 
+empty your bladder <MASK> <MASK> has prerequisite <MASK> put toilet lid up 
+thief <MASK> <MASK> capable of <MASK> hurt 
+apple <MASK> <MASK> receives action <MASK> make into pie 
+neighbor <MASK> <MASK> at location <MASK> house next door 
+passenger <MASK> <MASK> capable of <MASK> board bus 
+hanger <MASK> <MASK> at location <MASK> school 
+read magazine <MASK> <MASK> has subevent <MASK> you get idea 
+babysitter <MASK> <MASK> capable of <MASK> not mind child 
+boy <MASK> <MASK> capable of <MASK> wear uniform 
+skate <MASK> <MASK> has subevent <MASK> fall on your butt 
+french <MASK> <MASK> is a <MASK> human language 
+bar stool <MASK> <MASK> used for <MASK> sit on when at bar 
+play tennis <MASK> <MASK> has subevent <MASK> you would sweat 
+see your favorite show <MASK> <MASK> causes <MASK> love 
+go to play <MASK> <MASK> causes <MASK> see actor act 
+program <MASK> <MASK> at location <MASK> office 
+sing <MASK> <MASK> causes <MASK> you give person pleasure 
+teacher <MASK> <MASK> at location <MASK> in class 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+thief <MASK> <MASK> capable of <MASK> hurt 
+have fun <MASK> <MASK> has subevent <MASK> play table tennis 
+book <MASK> <MASK> at location <MASK> library 
+love <MASK> <MASK> causes desire <MASK> give gift 
+rest <MASK> <MASK> has subevent <MASK> fall asleep 
+commercial <MASK> <MASK> at location <MASK> on television 
+reproduce <MASK> <MASK> has subevent <MASK> you get more of something 
+horse <MASK> <MASK> capable of <MASK> be many different color 
+get up early <MASK> <MASK> has prerequisite <MASK> be set your alarm clock 
+cook <MASK> <MASK> capable of <MASK> brown grind beef 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+internet <MASK> <MASK> used for <MASK> meet friend 
+cold <MASK> <MASK> causes desire <MASK> sate hunger 
+fan <MASK> <MASK> used for <MASK> cool air 
+chair <MASK> <MASK> has property <MASK> comfortable 
+author <MASK> <MASK> capable of <MASK> write 
+artist <MASK> <MASK> capable of <MASK> draw someone 
+highway <MASK> <MASK> used for <MASK> drive 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+play game <MASK> <MASK> used for <MASK> entertainment 
+bathe <MASK> <MASK> has subevent <MASK> you will get clean 
+bathtub <MASK> <MASK> used for <MASK> wash 
+chalk <MASK> <MASK> used for <MASK> write word or draw pictuures 
+someone <MASK> <MASK> at location <MASK> in bed 
+floor <MASK> <MASK> used for <MASK> stand on 
+weasel <MASK> <MASK> at location <MASK> great britain 
+lizard <MASK> <MASK> at location <MASK> zoo 
+mouse <MASK> <MASK> at location <MASK> your kitchen 
+man <MASK> <MASK> desires <MASK> be famous 
+take shower <MASK> <MASK> has subevent <MASK> you get clean 
+death <MASK> <MASK> part of <MASK> human experience 
+drum <MASK> <MASK> is a <MASK> musical instrument 
+scissor <MASK> <MASK> used for <MASK> cut ribbon 
+grass <MASK> <MASK> at location <MASK> park 
+soap <MASK> <MASK> used for <MASK> wash dish 
+food <MASK> <MASK> used for <MASK> eat 
+cake <MASK> <MASK> has property <MASK> make for birthday 
+viola <MASK> <MASK> is a <MASK> musical instrument 
+wheel <MASK> <MASK> part of <MASK> car 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+human <MASK> <MASK> is a <MASK> competative 
+rice <MASK> <MASK> is a <MASK> domesticate plant 
+eraser <MASK> <MASK> made of <MASK> rubber 
+chopstick <MASK> <MASK> used for <MASK> eat chinese food with 
+knife <MASK> <MASK> used for <MASK> kill person 
+saturn <MASK> <MASK> is a <MASK> planet 
+mar <MASK> <MASK> is a <MASK> small than earth 
+mouse <MASK> <MASK> is a <MASK> computer 
+galaxy <MASK> <MASK> part of <MASK> galaxy 
+exercise <MASK> <MASK> has property <MASK> important to health 
+jack <MASK> <MASK> is a <MASK> game of physical dexterity 
+jack <MASK> <MASK> is a <MASK> game of physical dexterity 
+build <MASK> <MASK> has property <MASK> build very tall 
+your tooth <MASK> <MASK> at location <MASK> your mouth 
+ride horse <MASK> <MASK> has subevent <MASK> you fall off 
+gamble <MASK> <MASK> has property <MASK> fun 
+food <MASK> <MASK> at location <MASK> refrigerator 
+cut your hair <MASK> <MASK> has prerequisite <MASK> have hair 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+computer <MASK> <MASK> at location <MASK> in room 
+refrigerator <MASK> <MASK> used for <MASK> keep food from rot 
+lizard <MASK> <MASK> has property <MASK> cold-blooded 
+disco <MASK> <MASK> used for <MASK> get drunk 
+bathe <MASK> <MASK> has prerequisite <MASK> get naked 
+reproduce <MASK> <MASK> has prerequisite <MASK> make plan 
+seat <MASK> <MASK> at location <MASK> in plane 
+car <MASK> <MASK> at location <MASK> street 
+fly in airplane <MASK> <MASK> has prerequisite <MASK> get license 
+swim <MASK> <MASK> has prerequisite <MASK> get in water 
+cross street <MASK> <MASK> causes <MASK> get to other side 
+colorado <MASK> <MASK> is a <MASK> in washington dc 
+california <MASK> <MASK> is a <MASK> state 
+dog <MASK> <MASK> has a <MASK> fur 
+get something <MASK> <MASK> has prerequisite <MASK> give me 
+flask <MASK> <MASK> used for <MASK> store liquid 
+get pay <MASK> <MASK> has prerequisite <MASK> get job 
+quill <MASK> <MASK> used for <MASK> hold ink 
+food <MASK> <MASK> at location <MASK> refrigerator 
+marijuana <MASK> <MASK> is a <MASK> drug 
+computer <MASK> <MASK> at location <MASK> in room 
+fish <MASK> <MASK> at location <MASK> fish creel 
+wristwatch <MASK> <MASK> used for <MASK> keep time 
+book <MASK> <MASK> at location <MASK> library 
+write <MASK> <MASK> has subevent <MASK> you may break fingernail 
+go for swim <MASK> <MASK> has subevent <MASK> you get wet 
+pepper and salt <MASK> <MASK> used for <MASK> make food taste good 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+pretend <MASK> <MASK> has prerequisite <MASK> act 
+cereal bowl <MASK> <MASK> used for <MASK> spagetti 
+human <MASK> <MASK> has a <MASK> many vice 
+compete <MASK> <MASK> has subevent <MASK> you try to win 
+box <MASK> <MASK> is a <MASK> container for cream 
+coke <MASK> <MASK> is a <MASK> drink 
+chew your food <MASK> <MASK> causes <MASK> food become easy to swallow 
+brain <MASK> <MASK> is a <MASK> part of human body 
+floor <MASK> <MASK> at location <MASK> build 
+library <MASK> <MASK> has a <MASK> many book on shelve 
+book <MASK> <MASK> has a <MASK> lot of knowledge 
+can food <MASK> <MASK> at location <MASK> cupboard 
+play guitar <MASK> <MASK> has subevent <MASK> you play song 
+cat <MASK> <MASK> has a <MASK> hair all over them 
+lawyer <MASK> <MASK> capable of <MASK> object that statement 
+something <MASK> <MASK> at location <MASK> top of list 
+telephone <MASK> <MASK> at location <MASK> in room 
+hummingbird <MASK> <MASK> capable of <MASK> fly and maintain their position 
+cat <MASK> <MASK> is a <MASK> very independant animal 
+drink <MASK> <MASK> has prerequisite <MASK> drink 
+star trek <MASK> <MASK> is a <MASK> movie 
+read <MASK> <MASK> motivated by goal <MASK> know 
+radio <MASK> <MASK> capable of <MASK> teach 
+literature <MASK> <MASK> used for <MASK> teach 
+attend lecture <MASK> <MASK> has subevent <MASK> you learn something 
+read news <MASK> <MASK> has prerequisite <MASK> switch on radio 
+stage <MASK> <MASK> used for <MASK> show big object of art 
+fur <MASK> <MASK> used for <MASK> make clothe 
+answer question <MASK> <MASK> has prerequisite <MASK> think about your answer 
+fork <MASK> <MASK> at location <MASK> kitchen 
+baseball field <MASK> <MASK> used for <MASK> play baseball with team 
+winter <MASK> <MASK> has property <MASK> cold 
+drink alcohol <MASK> <MASK> has subevent <MASK> you get drunk 
+dream <MASK> <MASK> has prerequisite <MASK> go to sleep 
+finger <MASK> <MASK> capable of <MASK> point at something 
+person <MASK> <MASK> part of <MASK> human society 
+compete <MASK> <MASK> motivated by goal <MASK> win 
+full bladder <MASK> <MASK> causes desire <MASK> go to toilet 
+human <MASK> <MASK> capable of <MASK> eat animal 
+play poker <MASK> <MASK> has subevent <MASK> hold your card 
+pillow case <MASK> <MASK> used for <MASK> protect pillow from dirt 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+star <MASK> <MASK> at location <MASK> in outerspace 
+bird <MASK> <MASK> at location <MASK> park 
+pantry <MASK> <MASK> at location <MASK> house 
+towel rack <MASK> <MASK> at location <MASK> bathroom 
+open gift <MASK> <MASK> causes <MASK> be happy 
+telephone <MASK> <MASK> used for <MASK> talk to person far away 
+monkey <MASK> <MASK> desires <MASK> eat banana 
+violin <MASK> <MASK> used for <MASK> make noise 
+computer <MASK> <MASK> capable of <MASK> make music 
+salt <MASK> <MASK> used for <MASK> keep evil spirit away 
+drawer <MASK> <MASK> at location <MASK> drawer 
+banana <MASK> <MASK> has property <MASK> green or yellow in color 
+physic <MASK> <MASK> is a <MASK> science 
+wine <MASK> <MASK> is a <MASK> alcoholic 
+tiger <MASK> <MASK> at location <MASK> zoo 
+cucumber <MASK> <MASK> is a <MASK> plant 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+eye <MASK> <MASK> used for <MASK> see world 
+red <MASK> <MASK> is a <MASK> color visible to human 
+study <MASK> <MASK> has subevent <MASK> read book 
+denim <MASK> <MASK> is a <MASK> fabric 
+metal <MASK> <MASK> is a <MASK> heavy than wood 
+france <MASK> <MASK> is a <MASK> country in europe 
+frog <MASK> <MASK> is a <MASK> animal 
+novel <MASK> <MASK> is a <MASK> library 
+brazil <MASK> <MASK> is a <MASK> country 
+information <MASK> <MASK> at location <MASK> library 
+have sex <MASK> <MASK> causes <MASK> get high 
+work <MASK> <MASK> not has property <MASK> do 
+bicycle <MASK> <MASK> used for <MASK> transport 
+shoe <MASK> <MASK> used for <MASK> protect foot from tne grind 
+dog <MASK> <MASK> not capable of <MASK> eat their ear 
+have rest <MASK> <MASK> motivated by goal <MASK> you be tire 
+most pizza <MASK> <MASK> has a <MASK> lot of calorie 
+paper <MASK> <MASK> used for <MASK> print 
+sit down <MASK> <MASK> has prerequisite <MASK> find chair 
+atheist <MASK> <MASK> capable of <MASK> believe that god exist 
+person <MASK> <MASK> desires <MASK> be able to express themself freely 
+something <MASK> <MASK> at location <MASK> top of list 
+detective <MASK> <MASK> capable of <MASK> catch suspect 
+play sport <MASK> <MASK> has subevent <MASK> you get tire 
+horse <MASK> <MASK> receives action <MASK> train to jump 
+alcohol <MASK> <MASK> capable of <MASK> cloud your mind 
+something <MASK> <MASK> at location <MASK> top of list 
+some car <MASK> <MASK> has property <MASK> red 
+pony <MASK> <MASK> is a <MASK> small horse 
+house <MASK> <MASK> has a <MASK> many room 
+teacher <MASK> <MASK> capable of <MASK> teach 
+your neighbor <MASK> <MASK> at location <MASK> your house 
+gun <MASK> <MASK> used for <MASK> kill animal 
+wine <MASK> <MASK> has a <MASK> alcohol in it 
+poker <MASK> <MASK> is a <MASK> game of skill 
+remember phone number <MASK> <MASK> has prerequisite <MASK> know number 
+food <MASK> <MASK> at location <MASK> refrigerator 
+visit other country <MASK> <MASK> has prerequisite <MASK> get visa 
+moon <MASK> <MASK> at location <MASK> sky 
+flower <MASK> <MASK> at location <MASK> flowerpot 
+take bus <MASK> <MASK> has prerequisite <MASK> money 
+frisbee <MASK> <MASK> has property <MASK> fun 
+alcohol <MASK> <MASK> capable of <MASK> cloud your mind 
+rose <MASK> <MASK> has a <MASK> thorn and be beautiful 
+human <MASK> <MASK> at location <MASK> dinner 
+jewish person <MASK> <MASK> at location <MASK> japan 
+kitchen <MASK> <MASK> used for <MASK> prepare food to eat 
+human <MASK> <MASK> at location <MASK> dinner 
+mirror <MASK> <MASK> at location <MASK> woman purse 
+oxygen <MASK> <MASK> is a <MASK> element 
+train <MASK> <MASK> capable of <MASK> take you to mall 
+woman <MASK> <MASK> capable of <MASK> love their child 
+girl <MASK> <MASK> at location <MASK> school 
+cheese <MASK> <MASK> is a <MASK> often 
+someone <MASK> <MASK> at location <MASK> in bed 
+submarine <MASK> <MASK> at location <MASK> sea 
+move car <MASK> <MASK> causes <MASK> move about at destination 
+blacksmith <MASK> <MASK> capable of <MASK> iron horseshoe 
+duck <MASK> <MASK> has a <MASK> wing and feather 
+hamburger <MASK> <MASK> at location <MASK> refrigerator 
+get drunk <MASK> <MASK> has prerequisite <MASK> get some alcohol to drink 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+carpet pad <MASK> <MASK> at location <MASK> desk 
+condominium <MASK> <MASK> used for <MASK> live in 
+sate your hunger <MASK> <MASK> has prerequisite <MASK> food 
+shoe <MASK> <MASK> receives action <MASK> wear to protect foot 
+cross street <MASK> <MASK> has prerequisite <MASK> get license 
+someone <MASK> <MASK> at location <MASK> in bed 
+bicycle <MASK> <MASK> is a <MASK> vehicle 
+shirt <MASK> <MASK> is a <MASK> form of clothe 
+something <MASK> <MASK> at location <MASK> top of list 
+play piano <MASK> <MASK> has prerequisite <MASK> learn to play piano 
+fire <MASK> <MASK> capable of <MASK> burn tire 
+stopwatch <MASK> <MASK> capable of <MASK> measure small amount of time 
+attend classical concert <MASK> <MASK> has prerequisite <MASK> buy ticket 
+usher <MASK> <MASK> capable of <MASK> seat wed guest 
+cup <MASK> <MASK> used for <MASK> drink out of 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+walk in rain <MASK> <MASK> causes <MASK> fall to grind 
+bomb <MASK> <MASK> capable of <MASK> destroy build 
+fan <MASK> <MASK> used for <MASK> cool air 
+parent <MASK> <MASK> capable of <MASK> teach child 
+raisin <MASK> <MASK> is a <MASK> fruit 
+bird <MASK> <MASK> at location <MASK> park 
+traveller <MASK> <MASK> at location <MASK> train station 
+something <MASK> <MASK> at location <MASK> top of list 
+something <MASK> <MASK> at location <MASK> top of list 
+go to school <MASK> <MASK> has subevent <MASK> learn something 
+man <MASK> <MASK> has a <MASK> be to moon 
+bomb <MASK> <MASK> used for <MASK> destroy thing 
+mechanic <MASK> <MASK> capable of <MASK> oil machine 
+someone <MASK> <MASK> at location <MASK> in bed 
+jump out of window <MASK> <MASK> has subevent <MASK> break bone 
+cake <MASK> <MASK> at location <MASK> store 
+read magazine <MASK> <MASK> has prerequisite <MASK> buy magazine 
+mother <MASK> <MASK> capable of <MASK> love their child 
+play sport <MASK> <MASK> has subevent <MASK> you get tire 
+tv <MASK> <MASK> is a <MASK> device 
+pipe <MASK> <MASK> used for <MASK> hold tobacco for smoke 
+water <MASK> <MASK> capable of <MASK> reflect light 
+go to bed <MASK> <MASK> causes <MASK> lie down 
+tickle <MASK> <MASK> causes <MASK> get slap 
+tool <MASK> <MASK> used for <MASK> build something 
+study <MASK> <MASK> has subevent <MASK> read book 
+saxophone <MASK> <MASK> is a <MASK> musical instrument 
+bomb <MASK> <MASK> used for <MASK> destroy thing 
+plant <MASK> <MASK> has property <MASK> green because of chlorophyll 
+skyscraper <MASK> <MASK> is a <MASK> tall build 
+soap <MASK> <MASK> used for <MASK> wash dish 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+fruit <MASK> <MASK> has property <MASK> healthy 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+master bedroom <MASK> <MASK> used for <MASK> keep personal object 
+have asthma attack <MASK> <MASK> has prerequisite <MASK> have epilepsy 
+ticket office <MASK> <MASK> used for <MASK> get ticket 
+bookstore <MASK> <MASK> used for <MASK> sell magazine 
+diner <MASK> <MASK> used for <MASK> eat in 
+sailor <MASK> <MASK> capable of <MASK> wind winch 
+have food <MASK> <MASK> used for <MASK> eat 
+student <MASK> <MASK> capable of <MASK> learn from teacher 
+tooth <MASK> <MASK> used for <MASK> grind food 
+classroom <MASK> <MASK> used for <MASK> teach student 
+propose to woman <MASK> <MASK> causes <MASK> get engage 
+ruler <MASK> <MASK> capable of <MASK> count 
+airplane <MASK> <MASK> used for <MASK> travel 
+dresser <MASK> <MASK> used for <MASK> put clothe in 
+feather <MASK> <MASK> used for <MASK> protect bird 
+window <MASK> <MASK> used for <MASK> look inside 
+submarine <MASK> <MASK> is a <MASK> submarine that move underwater 
+bagpipe <MASK> <MASK> used for <MASK> make music 
+listen to radio <MASK> <MASK> has subevent <MASK> you can hear music 
+find lose item <MASK> <MASK> has prerequisite <MASK> look under thing 
+pulpit <MASK> <MASK> used for <MASK> speak from 
+live <MASK> <MASK> has subevent <MASK> die 
+dog <MASK> <MASK> is a <MASK> not wild animal 
+fish <MASK> <MASK> at location <MASK> fish creel 
+salt <MASK> <MASK> at location <MASK> your table 
+card catalog <MASK> <MASK> at location <MASK> librarian office 
+cd <MASK> <MASK> at location <MASK> cd tower 
+planet <MASK> <MASK> at location <MASK> in space 
+clarinet <MASK> <MASK> at location <MASK> music room 
+wine list <MASK> <MASK> at location <MASK> restaurant 
+mouthwash <MASK> <MASK> at location <MASK> bathroom 
+rosebush <MASK> <MASK> at location <MASK> flower show 
+elephant <MASK> <MASK> at location <MASK> in zoo 
+play game <MASK> <MASK> has subevent <MASK> you lose 
+sheet <MASK> <MASK> used for <MASK> keep warm while sleep 
+computer <MASK> <MASK> capable of <MASK> make music 
+potato <MASK> <MASK> is a <MASK> domesticate plant 
+bread <MASK> <MASK> used for <MASK> eat 
+music stand <MASK> <MASK> used for <MASK> hold your sheetmusic 
+razor <MASK> <MASK> used for <MASK> cut paper with precision 
+student <MASK> <MASK> at location <MASK> library 
+ball <MASK> <MASK> used for <MASK> play game 
+dinner <MASK> <MASK> is a <MASK> form of social interaction 
+notebook <MASK> <MASK> at location <MASK> classroom 
+ear <MASK> <MASK> used for <MASK> hear 
+chocolate <MASK> <MASK> is a <MASK> delicious food 
+son <MASK> <MASK> part of <MASK> house 
+gun <MASK> <MASK> is a <MASK> device 
+lettuce <MASK> <MASK> is a <MASK> plant 
+car <MASK> <MASK> is a <MASK> vehicle 
+fork <MASK> <MASK> used for <MASK> eat food off plate 
+human <MASK> <MASK> is a <MASK> competative 
+fall <MASK> <MASK> is a <MASK> form of exercise 
+night <MASK> <MASK> has property <MASK> dark 
+steel <MASK> <MASK> is a <MASK> heavy than wood 
+sword <MASK> <MASK> has property <MASK> sharp 
+chocolate <MASK> <MASK> is a <MASK> delicious food 
+leaf <MASK> <MASK> part of <MASK> tree 
+crappie <MASK> <MASK> is a <MASK> dog 
+salamander <MASK> <MASK> is a <MASK> bird 
+table tennis <MASK> <MASK> is a <MASK> game 
+pelican <MASK> <MASK> is a <MASK> animal 
+pencil <MASK> <MASK> used for <MASK> write 
+god <MASK> <MASK> part of <MASK> god 
+library <MASK> <MASK> used for <MASK> find book to read 
+paris <MASK> <MASK> is a <MASK> city in northern france 
+music <MASK> <MASK> is a <MASK> form of think 
+most person <MASK> <MASK> has property <MASK> selfish 
+most person <MASK> <MASK> has property <MASK> selfish 
+car <MASK> <MASK> has a <MASK> wheel 
+girl <MASK> <MASK> is a <MASK> young female human 
+bicycle <MASK> <MASK> is a <MASK> vehicle 
+nose <MASK> <MASK> at location <MASK> your face 
+there <MASK> <MASK> is a <MASK> no account for taste 
+propose to woman <MASK> <MASK> motivated by goal <MASK> get marry 
+have sex <MASK> <MASK> has subevent <MASK> get in trouble 
+house <MASK> <MASK> has a <MASK> many room 
+pig <MASK> <MASK> not capable of <MASK> eat cat 
+clothe <MASK> <MASK> at location <MASK> clothe store 
+sushi <MASK> <MASK> is a <MASK> raw fish product 
+sock <MASK> <MASK> at location <MASK> clothe closet 
+student <MASK> <MASK> capable of <MASK> learn from teacher 
+eat breakfast <MASK> <MASK> has prerequisite <MASK> get together with your family 
+apple <MASK> <MASK> has property <MASK> good 
+soap <MASK> <MASK> used for <MASK> wash dish 
+corn <MASK> <MASK> is a <MASK> domesticate plant 
+glass <MASK> <MASK> has property <MASK> half full with clear liquid 
+high rise <MASK> <MASK> is a <MASK> where government reside 
+go to party <MASK> <MASK> used for <MASK> socialize 
+program <MASK> <MASK> has prerequisite <MASK> learn program language 
+music <MASK> <MASK> created by <MASK> music 
+sock <MASK> <MASK> at location <MASK> clothe closet 
+policeman <MASK> <MASK> capable of <MASK> stop traffic 
+paper <MASK> <MASK> has property <MASK> crumple into ball 
+chicken <MASK> <MASK> is a <MASK> animal 
+sofa <MASK> <MASK> is a <MASK> chair 
+see art <MASK> <MASK> has prerequisite <MASK> go to art gallery 
+go for haircut <MASK> <MASK> has prerequisite <MASK> go to barber 
+knife <MASK> <MASK> capable of <MASK> cut 
+classroom <MASK> <MASK> is a <MASK> room 
+floor <MASK> <MASK> at location <MASK> build 
+clerk <MASK> <MASK> capable of <MASK> bag grocery 
+bunsen burner <MASK> <MASK> at location <MASK> classroom 
+horse <MASK> <MASK> at location <MASK> country 
+rope <MASK> <MASK> at location <MASK> cabinet 
+police officer <MASK> <MASK> capable of <MASK> kill someone 
+dog <MASK> <MASK> has property <MASK> good than cat 
+read <MASK> <MASK> has subevent <MASK> you learn new thing 
+bridge <MASK> <MASK> used for <MASK> cross over body of water 
+cat <MASK> <MASK> has a <MASK> hair all over them 
+puck <MASK> <MASK> at location <MASK> porn 
+bill <MASK> <MASK> at location <MASK> your wallet 
+grocer <MASK> <MASK> capable of <MASK> bag grocery 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+watch even news <MASK> <MASK> has prerequisite <MASK> switch tv on 
+have epileptic fit <MASK> <MASK> has subevent <MASK> you might swallow your tongue 
+bell <MASK> <MASK> at location <MASK> front door 
+reproduce <MASK> <MASK> has prerequisite <MASK> make plan 
+book <MASK> <MASK> at location <MASK> library 
+movie <MASK> <MASK> at location <MASK> movie theater 
+have nervous breakdown <MASK> <MASK> has subevent <MASK> you sweat lot 
+get some money from someone <MASK> <MASK> has prerequisite <MASK> work for them 
+deaf person <MASK> <MASK> not capable of <MASK> eat person 
+floor <MASK> <MASK> used for <MASK> stand on 
+woman <MASK> <MASK> capable of <MASK> love their child 
+go for swim <MASK> <MASK> has subevent <MASK> you get wet 
+actor <MASK> <MASK> at location <MASK> show 
+match <MASK> <MASK> capable of <MASK> burn paper 
+empty your bladder <MASK> <MASK> has prerequisite <MASK> put toilet lid up 
+tank <MASK> <MASK> receives action <MASK> use in battle 
+car <MASK> <MASK> capable of <MASK> move 
+nurse <MASK> <MASK> capable of <MASK> help you if you be breathe 
+detective <MASK> <MASK> capable of <MASK> catch suspect 
+contraceptive <MASK> <MASK> used for <MASK> get high 
+grain of sand <MASK> <MASK> has property <MASK> grain 
+wait in line <MASK> <MASK> causes <MASK> get to front 
+visitor <MASK> <MASK> capable of <MASK> listen to music 
+knife <MASK> <MASK> at location <MASK> kitchen drawer 
+gideon bible <MASK> <MASK> at location <MASK> school 
+towel bar <MASK> <MASK> used for <MASK> dry towel 
+some plastic <MASK> <MASK> receives action <MASK> make from petroleum 
+passenger <MASK> <MASK> capable of <MASK> board bus 
+sew <MASK> <MASK> has prerequisite <MASK> get needle and thread 
+think <MASK> <MASK> has prerequisite <MASK> think 
+clothe <MASK> <MASK> at location <MASK> clothe store 
+typewriter <MASK> <MASK> used for <MASK> write quickly and neatly 
+rack <MASK> <MASK> at location <MASK> in oven 
+party <MASK> <MASK> has property <MASK> fun 
+fire engine <MASK> <MASK> has property <MASK> red 
+dog <MASK> <MASK> is a <MASK> not wild animal 
+watch television show <MASK> <MASK> has prerequisite <MASK> turn on television 
+go to hairdresser <MASK> <MASK> has subevent <MASK> you get arouse 
+something <MASK> <MASK> at location <MASK> top of list 
+something <MASK> <MASK> at location <MASK> top of list 
+soda <MASK> <MASK> is a <MASK> drink with bubble in it 
+spanish restaurant <MASK> <MASK> used for <MASK> eat spanish meal 
+pocket knife <MASK> <MASK> is a <MASK> very useful tool 
+enjoy film <MASK> <MASK> has subevent <MASK> you cry 
+ski <MASK> <MASK> has prerequisite <MASK> get ski 
+two person <MASK> <MASK> has a <MASK> hand 
+chat with friend <MASK> <MASK> causes <MASK> have close your eye 
+vintner <MASK> <MASK> capable of <MASK> make wine 
+love <MASK> <MASK> is a <MASK> strong than death 
+someone <MASK> <MASK> at location <MASK> in bed 
+dog <MASK> <MASK> capable of <MASK> be good friend 
+watch tv <MASK> <MASK> has subevent <MASK> you fall asleep 
+plane <MASK> <MASK> capable of <MASK> move heavy object 
+canada <MASK> <MASK> has property <MASK> cold 
+relax <MASK> <MASK> causes <MASK> relaxation 
+banjo <MASK> <MASK> is a <MASK> musical instrument 
+guitare <MASK> <MASK> is a <MASK> musical instrument 
+diminish your own hunger <MASK> <MASK> has subevent <MASK> eat food 
+express how funny something <MASK> <MASK> has subevent <MASK> be you might laugh 
+chop firewood <MASK> <MASK> has prerequisite <MASK> get axe 
+play frisbee <MASK> <MASK> has subevent <MASK> you miss 
+stop your car <MASK> <MASK> has prerequisite <MASK> put on brake 
+bathe <MASK> <MASK> causes <MASK> get clean 
+stone <MASK> <MASK> is a <MASK> stone 
+baseball <MASK> <MASK> is a <MASK> popular sport in america 
+beanie <MASK> <MASK> is a <MASK> hat 
+cowboy boot <MASK> <MASK> made of <MASK> wood 
+rubber duck <MASK> <MASK> has property <MASK> fun to bath 
+baby animal <MASK> <MASK> has property <MASK> small 
+fedora <MASK> <MASK> is a <MASK> sport for men or woman 
+play ball <MASK> <MASK> has subevent <MASK> you might hit home run 
+shotgun <MASK> <MASK> is a <MASK> gun 
+gather energy for tomorrow <MASK> <MASK> has prerequisite <MASK> rest today 
+have examination <MASK> <MASK> has prerequisite <MASK> go to doctor 
+plane <MASK> <MASK> capable of <MASK> move heavy object 
+get up early <MASK> <MASK> has prerequisite <MASK> be set your alarm clock 
+make friend <MASK> <MASK> has prerequisite <MASK> go to pub 
+person <MASK> <MASK> desires <MASK> be able to express themself freely 
+new york <MASK> <MASK> is a <MASK> city 
+clarinet <MASK> <MASK> is a <MASK> musical instrument 
+reproduce <MASK> <MASK> causes <MASK> have baby 
+bean <MASK> <MASK> is a <MASK> domesticate plant 
+play basketball <MASK> <MASK> has subevent <MASK> you could have fun 
+camper <MASK> <MASK> capable of <MASK> set up tent 
+hear news <MASK> <MASK> has prerequisite <MASK> turn radio or television on 
+hill <MASK> <MASK> used for <MASK> get high 
+comb <MASK> <MASK> used for <MASK> comb one hair 
+turtle <MASK> <MASK> capable of <MASK> live to be very old 
+tie your shoelace <MASK> <MASK> used for <MASK> keep shoe on your foot 
+paint house <MASK> <MASK> has prerequisite <MASK> buy paint 
+woman <MASK> <MASK> capable of <MASK> love their child 
+president <MASK> <MASK> capable of <MASK> be elect official 
+piggy bank <MASK> <MASK> used for <MASK> save coin 
+think <MASK> <MASK> used for <MASK> learn 
+watch television <MASK> <MASK> has prerequisite <MASK> switch tv on 
+sofa bed <MASK> <MASK> used for <MASK> sit 
+buy food <MASK> <MASK> has prerequisite <MASK> money 
+towel rack <MASK> <MASK> used for <MASK> hold towel in place 
+brownstone <MASK> <MASK> used for <MASK> build skyscraper 
+lawyer <MASK> <MASK> capable of <MASK> object that statement 
+fork <MASK> <MASK> used for <MASK> eat food off plate 
+egg <MASK> <MASK> at location <MASK> store 
+sun <MASK> <MASK> at location <MASK> in solar system 
+tenor <MASK> <MASK> at location <MASK> concert 
+audience <MASK> <MASK> at location <MASK> at movie 
+human <MASK> <MASK> at location <MASK> dinner 
+staple <MASK> <MASK> at location <MASK> desk 
+key <MASK> <MASK> at location <MASK> keyhole 
+trash <MASK> <MASK> at location <MASK> trash 
+city <MASK> <MASK> at location <MASK> michigan 
+shop basket <MASK> <MASK> at location <MASK> laundry in laundry closet 
+science <MASK> <MASK> at location <MASK> library 
+closet <MASK> <MASK> at location <MASK> house 
+foot <MASK> <MASK> at location <MASK> sport event 
+cavity <MASK> <MASK> at location <MASK> your tooth 
+statue <MASK> <MASK> at location <MASK> dinner 
+person <MASK> <MASK> desires <MASK> be able to express themself freely 
+book <MASK> <MASK> created by <MASK> person 
+xylophone <MASK> <MASK> is a <MASK> musical instrument 
+broom <MASK> <MASK> used for <MASK> look good 
+knife <MASK> <MASK> used for <MASK> kill person 
+english <MASK> <MASK> is a <MASK> language 
+lemon <MASK> <MASK> has property <MASK> white 
+trigger <MASK> <MASK> part of <MASK> alphabet 
+baseball <MASK> <MASK> used for <MASK> play game 
+table <MASK> <MASK> at location <MASK> london 
+oil <MASK> <MASK> has property <MASK> solid 
+cup <MASK> <MASK> used for <MASK> drink out of 
+tree <MASK> <MASK> at location <MASK> in forest 
+pencil <MASK> <MASK> made of <MASK> wood 
+london <MASK> <MASK> is a <MASK> city in england 
+swim <MASK> <MASK> is a <MASK> fun sport 
+child <MASK> <MASK> capable of <MASK> learn while they play 
+door <MASK> <MASK> part of <MASK> house 
+pot <MASK> <MASK> used for <MASK> make tea 
+rock <MASK> <MASK> has property <MASK> very hard 
+palm <MASK> <MASK> part of <MASK> bacteria 
+coffee <MASK> <MASK> made of <MASK> cocoa bean 
+paper <MASK> <MASK> has property <MASK> crumple into ball 
+fish <MASK> <MASK> is a <MASK> not mammal 
+jean <MASK> <MASK> made of <MASK> wood 
+fruit <MASK> <MASK> has property <MASK> healthy 
+robot <MASK> <MASK> is a <MASK> machine 
+pilot <MASK> <MASK> capable of <MASK> fly aircraft 
+backgammon <MASK> <MASK> is a <MASK> game of strategy and chance 
+jupiter <MASK> <MASK> is a <MASK> planet 
+lake <MASK> <MASK> is a <MASK> place 
+spider <MASK> <MASK> is a <MASK> animal 
+whale <MASK> <MASK> is a <MASK> animal 
+beaver <MASK> <MASK> is a <MASK> animal 
+pheasant <MASK> <MASK> is a <MASK> animal 
+crow <MASK> <MASK> is a <MASK> tree 
+hawk <MASK> <MASK> is a <MASK> animal 
+goose <MASK> <MASK> is a <MASK> animal 
+perl <MASK> <MASK> is a <MASK> musical instrument 
+c <MASK> <MASK> is a <MASK> letter 
+bird <MASK> <MASK> capable of <MASK> fly through air 
+sex <MASK> <MASK> causes <MASK> pregnancy 
+fish <MASK> <MASK> at location <MASK> fish creel 
+dog <MASK> <MASK> desires <MASK> play with toy 
+dog <MASK> <MASK> not capable of <MASK> eat their ear 
+cat <MASK> <MASK> is a <MASK> very independant animal 
+buy present for others <MASK> <MASK> has prerequisite <MASK> get money 
+twenty four hour <MASK> <MASK> at location <MASK> one day 
+phone <MASK> <MASK> at location <MASK> in room 
+atheist <MASK> <MASK> not capable of <MASK> believe that god exist 
+dog <MASK> <MASK> used for <MASK> keep you company 
+college <MASK> <MASK> at location <MASK> any large city 
+feather <MASK> <MASK> at location <MASK> feather 
+shovel <MASK> <MASK> used for <MASK> dig 
+soap <MASK> <MASK> used for <MASK> wash dish 
+apple <MASK> <MASK> has property <MASK> good 
+eat breakfast in bed <MASK> <MASK> has subevent <MASK> you spill coffee 
+commit to memory <MASK> <MASK> has subevent <MASK> you memorize it 
+learn <MASK> <MASK> has prerequisite <MASK> know 
+unix <MASK> <MASK> is a <MASK> computer operate system 
+unix <MASK> <MASK> is a <MASK> computer operate system 
+write term paper <MASK> <MASK> has prerequisite <MASK> use computer 
+sailboat <MASK> <MASK> receives action <MASK> move by wind 
+kitten <MASK> <MASK> defined as <MASK> young cat 
+pray <MASK> <MASK> has subevent <MASK> you fold your hand 
+shop <MASK> <MASK> has prerequisite <MASK> get money 
+kill <MASK> <MASK> has property <MASK> bad 
+bottle <MASK> <MASK> used for <MASK> hold liquid 
+sleep <MASK> <MASK> has prerequisite <MASK> lie down 
+music <MASK> <MASK> has property <MASK> very soothe 
+men and woman <MASK> <MASK> has property <MASK> different 
+tongue <MASK> <MASK> at location <MASK> in your mouth 
+plate <MASK> <MASK> at location <MASK> cupboard 
+become inebriate <MASK> <MASK> has prerequisite <MASK> drink lot of alcohol 
+sail <MASK> <MASK> has property <MASK> fun 
+boy <MASK> <MASK> is a <MASK> young human 
+beer <MASK> <MASK> is a <MASK> liquid 
+study <MASK> <MASK> has prerequisite <MASK> go to library 
+city <MASK> <MASK> is a <MASK> where many person live 
+fart <MASK> <MASK> causes <MASK> blush 
+smoke cigarette <MASK> <MASK> causes <MASK> cancer and other deadly disease 
+compete against someone <MASK> <MASK> has prerequisite <MASK> win 
+roof tile <MASK> <MASK> at location <MASK> build 
+toothbrush <MASK> <MASK> used for <MASK> brush tooth 
+go to performance <MASK> <MASK> has prerequisite <MASK> get ticket 
+create idea <MASK> <MASK> has prerequisite <MASK> think about something 
+surprise someone <MASK> <MASK> has prerequisite <MASK> say boo 
+meet interest person <MASK> <MASK> has subevent <MASK> talk 
+take phone call <MASK> <MASK> has prerequisite <MASK> telephone 
+reach tentative agreement <MASK> <MASK> has prerequisite <MASK> talk to another person 
+lie <MASK> <MASK> has subevent <MASK> you get away with it 
+key chain <MASK> <MASK> used for <MASK> hold your key 
+foot <MASK> <MASK> at location <MASK> sport event 
+pea <MASK> <MASK> is a <MASK> vegetarian food 
+compete <MASK> <MASK> has subevent <MASK> you try to win 
+submarine <MASK> <MASK> capable of <MASK> travel underwater 
+watch even news <MASK> <MASK> has prerequisite <MASK> switch tv on 
+play <MASK> <MASK> has subevent <MASK> you will fall asleep 
+have bath <MASK> <MASK> has prerequisite <MASK> get bathtub 
+apple <MASK> <MASK> at location <MASK> apple orchard 
+slave <MASK> <MASK> is a <MASK> person 
+drive <MASK> <MASK> has subevent <MASK> use horn 
+restaurant <MASK> <MASK> used for <MASK> eat at 
+chess board <MASK> <MASK> has a <MASK> picture 
+school <MASK> <MASK> at location <MASK> any large city 
+chat with friend <MASK> <MASK> has subevent <MASK> talk about business 
+have bath <MASK> <MASK> has subevent <MASK> you get clean 
+baggage <MASK> <MASK> at location <MASK> train station 
+paint picture <MASK> <MASK> has subevent <MASK> you use brush 
+relax <MASK> <MASK> has subevent <MASK> fall to sleep 
+cookie <MASK> <MASK> at location <MASK> refrigerator 
+baby <MASK> <MASK> capable of <MASK> smell like wet dog 
+strike match <MASK> <MASK> causes <MASK> get fire 
+banker <MASK> <MASK> capable of <MASK> bank their money 
+bury cat <MASK> <MASK> has prerequisite <MASK> kill it 
+earn live <MASK> <MASK> has prerequisite <MASK> get job 
+twenty-four hour <MASK> <MASK> at location <MASK> one day 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+furnace <MASK> <MASK> at location <MASK> heat 
+play sport <MASK> <MASK> used for <MASK> get exercise 
+stair <MASK> <MASK> used for <MASK> walk down 
+park lot <MASK> <MASK> used for <MASK> park vehicle 
+terrorist <MASK> <MASK> capable of <MASK> use plane as bomb 
+wood <MASK> <MASK> used for <MASK> build boat 
+pool <MASK> <MASK> used for <MASK> play game of pool 
+play game <MASK> <MASK> has prerequisite <MASK> get deck of card 
+duck <MASK> <MASK> has a <MASK> wing and feather 
+play basketball <MASK> <MASK> has subevent <MASK> you could have fun 
+ball <MASK> <MASK> capable of <MASK> roll away 
+stethoscope <MASK> <MASK> at location <MASK> doctor office 
+make patchwork quilt <MASK> <MASK> has subevent <MASK> you prick your finger 
+leave <MASK> <MASK> at location <MASK> park 
+plant <MASK> <MASK> has a <MASK> leave 
+pay bill <MASK> <MASK> has prerequisite <MASK> get money 
+skin <MASK> <MASK> used for <MASK> protect body 
+spanish <MASK> <MASK> is a <MASK> country 
+baseball <MASK> <MASK> is a <MASK> popular sport in america 
+yo-yo <MASK> <MASK> is a <MASK> game for little kid 
+go to bed <MASK> <MASK> capable of <MASK> make love 
+pen <MASK> <MASK> at location <MASK> office 
+golf <MASK> <MASK> has property <MASK> fun 
+dog <MASK> <MASK> is a <MASK> not wild animal 
+polo <MASK> <MASK> is a <MASK> game for wealthy person 
+colorado <MASK> <MASK> made of <MASK> water 
+book <MASK> <MASK> made of <MASK> wood 
+sex <MASK> <MASK> at location <MASK> home 
+gold <MASK> <MASK> is a <MASK> heavy metal 
+sushi <MASK> <MASK> is a <MASK> raw fish product 
+telephone <MASK> <MASK> is a <MASK> device 
+sleep <MASK> <MASK> has prerequisite <MASK> lie down 
+soccer <MASK> <MASK> at location <MASK> soccer game 
+fish <MASK> <MASK> at location <MASK> fish creel 
+plant <MASK> <MASK> is a <MASK> live thing 
+cloud <MASK> <MASK> at location <MASK> in sky 
+linux <MASK> <MASK> is a <MASK> open-source operate system 
+child <MASK> <MASK> at location <MASK> park 
+fly <MASK> <MASK> has subevent <MASK> you catch bird 
+paint house <MASK> <MASK> at location <MASK> street 
+apple <MASK> <MASK> has property <MASK> good 
+clothe <MASK> <MASK> capable of <MASK> be many color 
+book <MASK> <MASK> used for <MASK> learn about universe 
+violin <MASK> <MASK> is a <MASK> musical instrument 
+fruit <MASK> <MASK> made of <MASK> water 
+cat <MASK> <MASK> at location <MASK> london 
+computer <MASK> <MASK> capable of <MASK> make music 
+key <MASK> <MASK> causes <MASK> purchase 
+play basketball <MASK> <MASK> capable of <MASK> help me loose 
+propose to woman <MASK> <MASK> used for <MASK> get marry 
+basketball player <MASK> <MASK> has subevent <MASK> break furniture 
+bass <MASK> <MASK> has prerequisite <MASK> musical composition 
+spoon <MASK> <MASK> has prerequisite <MASK> cup 
+paper clip <MASK> <MASK> at location <MASK> drawer 
+keyboard <MASK> <MASK> has prerequisite <MASK> key 
+paper <MASK> <MASK> has subevent <MASK> make noise 
+chair <MASK> <MASK> used for <MASK> sit 
+shark <MASK> <MASK> used for <MASK> fish 
+teacher <MASK> <MASK> capable of <MASK> teach 
+book <MASK> <MASK> used for <MASK> learn about universe 
+lizard <MASK> <MASK> at location <MASK> zoo 
+keyboard <MASK> <MASK> capable of <MASK> be copy 
+animal <MASK> <MASK> not has property <MASK> use in sport 
+c <MASK> <MASK> used for <MASK> dig 
+window <MASK> <MASK> at location <MASK> in house 
+man <MASK> <MASK> used for <MASK> kill insect 
+key <MASK> <MASK> at location <MASK> keyhole 
+day <MASK> <MASK> is a <MASK>  24 hour long 
+attend school <MASK> <MASK> has subevent <MASK> learn something 
+clothe <MASK> <MASK> at location <MASK> clothe store 
+football <MASK> <MASK> capable of <MASK> be very strenuous game 
+knife <MASK> <MASK> at location <MASK> kitchen drawer 
+car <MASK> <MASK> capable of <MASK> move 
+sky <MASK> <MASK> has property <MASK> blue 
+bury cat <MASK> <MASK> is a <MASK> great feel 
+love <MASK> <MASK> at location <MASK> library 
+knife <MASK> <MASK> capable of <MASK> cut 
+music <MASK> <MASK> has property <MASK> very soothe 
+ball <MASK> <MASK> has prerequisite <MASK> hand eye coordination 
+student <MASK> <MASK> is a <MASK> person who learn at school 
+do housework <MASK> <MASK> causes <MASK> get thing clean 
+dog <MASK> <MASK> has subevent <MASK> lick 
+tennis <MASK> <MASK> is a <MASK> game 
+lion <MASK> <MASK> causes <MASK> cage 
+key <MASK> <MASK> is a <MASK> machine 
+literature <MASK> <MASK> has a <MASK> lot of knowledge 
+teacher <MASK> <MASK> is a <MASK> person 
+pool <MASK> <MASK> used for <MASK> play game of pool 
+wing <MASK> <MASK> at location <MASK> plane 
+shoe <MASK> <MASK> has a <MASK> many use 
+sleep <MASK> <MASK> has subevent <MASK> you snore 
+human <MASK> <MASK> capable of <MASK> eat animal 
+have checkup <MASK> <MASK> has prerequisite <MASK> make appointment with your doctor 
+have haircut <MASK> <MASK> has prerequisite <MASK> go to barber 
+bus stop <MASK> <MASK> used for <MASK> get off of bus 
+book <MASK> <MASK> capable of <MASK> be burn 
+chair <MASK> <MASK> has property <MASK> comfortable 
+see <MASK> <MASK> at location <MASK> toolbox 
+plant <MASK> <MASK> has a <MASK> leave 
+food <MASK> <MASK> receives action <MASK> cook on grill 
+fish <MASK> <MASK> capable of <MASK> live in lake 
+person <MASK> <MASK> not capable of <MASK> eat their friend 
+fall <MASK> <MASK> has property <MASK> fall 
+author <MASK> <MASK> has prerequisite <MASK> knowledge 
+cup <MASK> <MASK> has subevent <MASK> you drink 
+vegetarian <MASK> <MASK> at location <MASK> refrigerator 
+car <MASK> <MASK> used for <MASK> transportation 
+trout <MASK> <MASK> has property <MASK> open 
+cheese <MASK> <MASK> has subevent <MASK> breathe 
+sunset <MASK> <MASK> has prerequisite <MASK> sun 
+see band <MASK> <MASK> has prerequisite <MASK> go to their concert 
+urinate <MASK> <MASK> has a <MASK> effect of empty bladder 
+boy <MASK> <MASK> has subevent <MASK> have fun 
+penguin <MASK> <MASK> not capable of <MASK> wear clothe 
+read <MASK> <MASK> is a <MASK> way to learn 
+do housework <MASK> <MASK> has a <MASK> effect of clean home 
+bed <MASK> <MASK> used for <MASK> relaxation 
+student <MASK> <MASK> is a <MASK> person who learn at school 
+match <MASK> <MASK> at location <MASK> kitchen 
+carpet <MASK> <MASK> used for <MASK> cover ugly floor 
+knife <MASK> <MASK> at location <MASK> kitchen drawer 
+car <MASK> <MASK> has subevent <MASK> turn steer wheel 
+sex <MASK> <MASK> has subevent <MASK> get in bed 
+vegetable <MASK> <MASK> is a <MASK> plant 
+meet interest person <MASK> <MASK> part of <MASK> socialize 
+traveller <MASK> <MASK> used for <MASK> travel 
+pilot <MASK> <MASK> has property <MASK> good off not take drug 
+razor <MASK> <MASK> is a <MASK> tool 
+play ball <MASK> <MASK> has prerequisite <MASK> go outside 
+someone <MASK> <MASK> has a <MASK> two ear 
+magician <MASK> <MASK> is a <MASK> person 
+listen to music <MASK> <MASK> has prerequisite <MASK> get comfortable 
+doll <MASK> <MASK> is a <MASK> child game 
+ocean <MASK> <MASK> has property <MASK> full of lifeforms 
+commit perjury <MASK> <MASK> has a <MASK> effect of get away with crime 
+cloth <MASK> <MASK> used for <MASK> make bed cover 
+key <MASK> <MASK> capable of <MASK> open door 
+voice <MASK> <MASK> used for <MASK> communicate 
+smoke <MASK> <MASK> causes <MASK> you will waste your money 
+buy something <MASK> <MASK> has prerequisite <MASK> pay for it 
+sleep <MASK> <MASK> has property <MASK> good 
+pen <MASK> <MASK> used for <MASK> write thing down 
+rock <MASK> <MASK> at location <MASK> rock 
+read <MASK> <MASK> used for <MASK> learn 
+exercise <MASK> <MASK> capable of <MASK> help you stay healthy 
+pelican <MASK> <MASK> capable of <MASK> fly 
+car <MASK> <MASK> part of <MASK> train 
+watch tv <MASK> <MASK> at location <MASK> in live room 
+book <MASK> <MASK> at location <MASK> library 
+venus <MASK> <MASK> part of <MASK> planet 
+swiss cheese <MASK> <MASK> has a <MASK> hole in it 
+have epileptic fit <MASK> <MASK> has property <MASK> very experience 
+boat <MASK> <MASK> at location <MASK> on sea 
+seven day <MASK> <MASK> has a <MASK> seven continent 
+wheel <MASK> <MASK> has prerequisite <MASK> wheel 
+remember phone number <MASK> <MASK> is a <MASK> call number 
+host <MASK> <MASK> has property <MASK> very invite 
+key <MASK> <MASK> at location <MASK> keyhole 
+saddle <MASK> <MASK> at location <MASK> laddle 
+love <MASK> <MASK> is a <MASK> strong than death 
+tickle <MASK> <MASK> has subevent <MASK> get tickle bak 
+buy present for others <MASK> <MASK> at location <MASK> funeral 
+bar stool <MASK> <MASK> at location <MASK> restaurant 
+glass <MASK> <MASK> made of <MASK> glass 
+wheel <MASK> <MASK> at location <MASK> car 
+apple <MASK> <MASK> has property <MASK> good 
+peach <MASK> <MASK> has subevent <MASK> you get tall 
+listen to radio <MASK> <MASK> used for <MASK> listen to weather forecast 
+silver <MASK> <MASK> is a <MASK> metal 
+key <MASK> <MASK> is a <MASK> machine 
+go to hairdresser <MASK> <MASK> capable of <MASK> make your hair shiny 
+tree <MASK> <MASK> capable of <MASK> fall 
+paint picture <MASK> <MASK> has a <MASK> picture on it 
+seven continent <MASK> <MASK> used for <MASK> this 
+corn <MASK> <MASK> is a <MASK> domesticate plant 
+murder <MASK> <MASK> at location <MASK> war 
+shingle <MASK> <MASK> part of <MASK> house 
+diminish your own hunger <MASK> <MASK> has subevent <MASK> eat food 
+someone <MASK> <MASK> used for <MASK> play sport 
+student <MASK> <MASK> has subevent <MASK> be train 
+see exhibit <MASK> <MASK> used for <MASK> learn 
+have checkup <MASK> <MASK> at location <MASK> doctor 
+bottle <MASK> <MASK> at location <MASK> store 
+money <MASK> <MASK> made of <MASK> metal 
+food <MASK> <MASK> at location <MASK> refrigerator 
+pilot <MASK> <MASK> at location <MASK> in space shuttle 
+golden retriever <MASK> <MASK> is a <MASK> popular type of dog 
+blue <MASK> <MASK> has property <MASK> color 
+chicken <MASK> <MASK> at location <MASK> jar 
+plant <MASK> <MASK> at location <MASK> field 
+iron <MASK> <MASK> desires <MASK> iron clothe 
+java <MASK> <MASK> at location <MASK> opera 
+ostrich <MASK> <MASK> used for <MASK> kill animal 
+ant <MASK> <MASK> is a <MASK> animal 
+go to get haircut <MASK> <MASK> has a <MASK> effect of make your hair short 
+car <MASK> <MASK> has a <MASK> wheel 
+beanie <MASK> <MASK> at location <MASK> toy store 
+dog <MASK> <MASK> used for <MASK> keep you company 
+boat <MASK> <MASK> has prerequisite <MASK> sail 
+earth <MASK> <MASK> at location <MASK> space 
+procreate <MASK> <MASK> has a <MASK> effect of happiness 
+go to sport event <MASK> <MASK> causes <MASK> you be entertain 
+dream <MASK> <MASK> has a <MASK> effect of fantasy 
+glass <MASK> <MASK> is a <MASK> form of light 
+gravity <MASK> <MASK> is a <MASK> force of nature 
+light match <MASK> <MASK> receives action <MASK> make up of photon 
+author <MASK> <MASK> capable of <MASK> write 
+go to bed <MASK> <MASK> has prerequisite <MASK> lie down 
+slide <MASK> <MASK> is a <MASK> dance 
+lemon <MASK> <MASK> used for <MASK> eat 
+computer <MASK> <MASK> capable of <MASK> make music 
+kiss <MASK> <MASK> has property <MASK> good 
+elephant <MASK> <MASK> at location <MASK> in zoo 
+prisoner <MASK> <MASK> at location <MASK> prison 
+college <MASK> <MASK> used for <MASK> get degree 
+alcohol <MASK> <MASK> is a <MASK> form of entertainment 
+airplane <MASK> <MASK> used for <MASK> travel 
+passenger <MASK> <MASK> desires <MASK> win election 
+go to get haircut <MASK> <MASK> has property <MASK> important 
+play <MASK> <MASK> motivated by goal <MASK> have fun 
+man <MASK> <MASK> capable of <MASK> be stand up 
+biology <MASK> <MASK> is a <MASK> subject of study in school 
+exercise <MASK> <MASK> is a <MASK> important especially as you grow old 
+play sport <MASK> <MASK> capable of <MASK> be competition 
+tile <MASK> <MASK> at location <MASK> bathroom 
+live <MASK> <MASK> is a <MASK> where life 
+plate <MASK> <MASK> is a <MASK> container 
+fruit <MASK> <MASK> has subevent <MASK> you get vitamin 
+mastercard <MASK> <MASK> is a <MASK> card 
+fall <MASK> <MASK> has prerequisite <MASK> fall 
+stop your bicycle <MASK> <MASK> has subevent <MASK> use brake 
+cross street <MASK> <MASK> is a <MASK> fun but not in traffic 
+gravity <MASK> <MASK> motivated by goal <MASK> you do not want to walk 
+clock <MASK> <MASK> has a <MASK> number on them 
+dog <MASK> <MASK> has subevent <MASK> lick 
+cat <MASK> <MASK> at location <MASK> london 
+pistol <MASK> <MASK> causes <MASK> death 
+notebook <MASK> <MASK> used for <MASK> write note 
+play sport <MASK> <MASK> has prerequisite <MASK> get fit 
+human <MASK> <MASK> at location <MASK> dinner 
+literature <MASK> <MASK> capable of <MASK> teach 
+glass <MASK> <MASK> at location <MASK> in room 
+cat <MASK> <MASK> has a <MASK> hair all over them 
+jump rope <MASK> <MASK> used for <MASK> exercise 
+play <MASK> <MASK> causes <MASK> you dream 
+poodle <MASK> <MASK> causes <MASK> punch someone 
+soccer <MASK> <MASK> is a <MASK> game 
+nurse <MASK> <MASK> is a <MASK> person 
+cereal bowl <MASK> <MASK> is a <MASK> container 
+kill <MASK> <MASK> causes <MASK> you will go to jail 
+finger <MASK> <MASK> part of <MASK> finger 
+page <MASK> <MASK> part of <MASK> book 
+star <MASK> <MASK> at location <MASK> in outerspace 
+bury cat <MASK> <MASK> has prerequisite <MASK> kill it 
+goldfish <MASK> <MASK> at location <MASK> fish tank 
+pass course <MASK> <MASK> has a <MASK> effect of elastication 
+shovel <MASK> <MASK> has subevent <MASK> you get cold 
+wash your car <MASK> <MASK> has subevent <MASK> you might get wet 
+chimney <MASK> <MASK> at location <MASK> in church 
+bicycle <MASK> <MASK> has property <MASK> fun 
+lawn mower <MASK> <MASK> at location <MASK> garage 
+go on vacation <MASK> <MASK> has prerequisite <MASK> get plane ticket 
+circle <MASK> <MASK> has property <MASK> round 
+tablecloth <MASK> <MASK> is a <MASK> fabric 
+pray <MASK> <MASK> used for <MASK> talk with god 
+sex <MASK> <MASK> has property <MASK> fun 
+pilot <MASK> <MASK> has property <MASK> good off not take drug 
+galaxy <MASK> <MASK> at location <MASK> space 
+person <MASK> <MASK> at location <MASK> bus depot 
+sex <MASK> <MASK> has a <MASK> effect of burn calorie 
+commit perjury <MASK> <MASK> has prerequisite <MASK> lie while under oath 
+use computer <MASK> <MASK> has subevent <MASK> use mouse 
+robot <MASK> <MASK> at location <MASK> build 
+bride <MASK> <MASK> used for <MASK> make you feel good 
+water <MASK> <MASK> has property <MASK> reflective 
+ball <MASK> <MASK> has prerequisite <MASK> hand eye coordination 
+needle <MASK> <MASK> has property <MASK> sharp 
+duck <MASK> <MASK> capable of <MASK> swim well 
+jean <MASK> <MASK> has prerequisite <MASK> wear fabric 
+doctor <MASK> <MASK> capable of <MASK> help person heal from sickness 
+bicycle storage area <MASK> <MASK> at location <MASK> mall 
+computer <MASK> <MASK> is a <MASK> machine that can run program at very fast speed 
+star <MASK> <MASK> at location <MASK> in outerspace 
+bread <MASK> <MASK> used for <MASK> eat 
+dresser <MASK> <MASK> at location <MASK> at home 
+toilet <MASK> <MASK> at location <MASK> bathroom 
+student <MASK> <MASK> at location <MASK> library 
+tuba <MASK> <MASK> is a <MASK> musical instrument 
+diner <MASK> <MASK> is a <MASK> place to get pie 
+kettle <MASK> <MASK> at location <MASK> kitchen 
+leaf <MASK> <MASK> has property <MASK> green 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+badminton <MASK> <MASK> is a <MASK> game 
+golf <MASK> <MASK> is a <MASK> game you play outside 
+canada <MASK> <MASK> is a <MASK> country 
+home <MASK> <MASK> related to <MASK> live in 
+sex <MASK> <MASK> causes <MASK> pregnancy 
+read <MASK> <MASK> causes <MASK> you can learn 
+gardener <MASK> <MASK> capable of <MASK> water lawn 
+neighbour <MASK> <MASK> at location <MASK> your next door 
+day <MASK> <MASK> is a <MASK>  24 hour long 
+pepper and salt <MASK> <MASK> causes <MASK> you have eat 
+lizard <MASK> <MASK> has prerequisite <MASK> water and sun 
+fish <MASK> <MASK> not capable of <MASK> eat person 
+fruit <MASK> <MASK> capable of <MASK> be very pretty and colourfull 
+rain <MASK> <MASK> at location <MASK> rainbow 
+opera singer <MASK> <MASK> at location <MASK> concert 
+murder <MASK> <MASK> at location <MASK> war 
+thief <MASK> <MASK> has a <MASK> effect of steal 
+paper <MASK> <MASK> causes <MASK> crumple 
+learn <MASK> <MASK> has prerequisite <MASK> know 
+stop your car <MASK> <MASK> has prerequisite <MASK> put on brake 
+canvas <MASK> <MASK> at location <MASK> art studio 
+plate <MASK> <MASK> has prerequisite <MASK> put food in your mouth 
+be tire <MASK> <MASK> used for <MASK> relax 
+girl <MASK> <MASK> is a <MASK> young female human 
+pretend <MASK> <MASK> is a <MASK> activity 
+table <MASK> <MASK> used for <MASK> eat at 
+bomb <MASK> <MASK> has a <MASK> explosive device 
+yoyo <MASK> <MASK> is a <MASK> thing of past 
+chicken <MASK> <MASK> part of <MASK> animal kingdom 
+commit perjury <MASK> <MASK> has subevent <MASK> lie while under oath 
+egg <MASK> <MASK> at location <MASK> store 
+go to bed <MASK> <MASK> at location <MASK> bed 
+city <MASK> <MASK> at location <MASK> michigan 
+sink <MASK> <MASK> at location <MASK> bathroom 
+wallet <MASK> <MASK> at location <MASK> your pocket 
+money <MASK> <MASK> at location <MASK> in bank 
+sword <MASK> <MASK> is a <MASK> weapon 
+build <MASK> <MASK> has prerequisite <MASK> build 
+teacher <MASK> <MASK> made of <MASK> teacher 
+tree <MASK> <MASK> at location <MASK> in forest 
+visitor <MASK> <MASK> at location <MASK> bus depot 
+passenger <MASK> <MASK> causes <MASK> air sickness 
+chopstick <MASK> <MASK> capable of <MASK> be steam 
+clothe <MASK> <MASK> used for <MASK> keep person warm 
+apple <MASK> <MASK> part of <MASK> apple tree 
+contraceptive <MASK> <MASK> is a <MASK> call sexual intercourse 
+canvas <MASK> <MASK> has property <MASK> soft 
+take bus <MASK> <MASK> has a <MASK> effect of transportation without car 
+glue <MASK> <MASK> has property <MASK> shape to fit different shape 
+world <MASK> <MASK> has a <MASK> many thing to see 
+make person laugh <MASK> <MASK> has property <MASK> fun 
+human <MASK> <MASK> used for <MASK> make music 
+gather energy for tomorrow <MASK> <MASK> has subevent <MASK> get good night sleep 
+fork <MASK> <MASK> at location <MASK> kitchen 
+read <MASK> <MASK> has subevent <MASK> you learn new thing 
+guitar <MASK> <MASK> used for <MASK> play music 
+frisbee <MASK> <MASK> at location <MASK> park 
+read newspaper <MASK> <MASK> capable of <MASK> help expand your vocabulary 
+wheel <MASK> <MASK> has property <MASK> hard 
+go for haircut <MASK> <MASK> used for <MASK> look great 
+bury cat <MASK> <MASK> has subevent <MASK> you get scratch 
+comb <MASK> <MASK> capable of <MASK> get rid of louse 
+eiffel tower <MASK> <MASK> is a <MASK> in france 
+read <MASK> <MASK> capable of <MASK> help expand your vocabulary 
+stapler <MASK> <MASK> has subevent <MASK> you use calculator 
+toilet <MASK> <MASK> has property <MASK> dirty 
+sushi <MASK> <MASK> used for <MASK> eat 
+paper <MASK> <MASK> has prerequisite <MASK> get out printer 
+ping pong <MASK> <MASK> used for <MASK> exercise 
+double edge razor <MASK> <MASK> used for <MASK> get hair off underarms 
+frisbee <MASK> <MASK> has prerequisite <MASK> play game 
+window <MASK> <MASK> capable of <MASK> let light in build 
+rice <MASK> <MASK> used for <MASK> make rice 
+crappie <MASK> <MASK> used for <MASK> hide in 
+carpet <MASK> <MASK> used for <MASK> cover ugly floor 
+student <MASK> <MASK> has a <MASK> not yet visit other planet 
+go to school <MASK> <MASK> at location <MASK> school 
+human <MASK> <MASK> has property <MASK> very social 
+author <MASK> <MASK> at location <MASK> library 
+state <MASK> <MASK> is a <MASK> state 
+stapler <MASK> <MASK> is a <MASK> container 
+book <MASK> <MASK> part of <MASK> book 
+planet earth <MASK> <MASK> is a <MASK> planet 
+woodwind <MASK> <MASK> is a <MASK> wind instrument 
+shingle <MASK> <MASK> is a <MASK> form of clothe 
+guitar <MASK> <MASK> is a <MASK> musical instrument 
+cookie <MASK> <MASK> is a <MASK> food 
+oil <MASK> <MASK> receives action <MASK> make from oil 
+cat <MASK> <MASK> capable of <MASK> eat cat food 
+toilet paper <MASK> <MASK> at location <MASK> bathroom 
+giraffe <MASK> <MASK> used for <MASK> eat 
+china <MASK> <MASK> is a <MASK> country 
+day <MASK> <MASK> has property <MASK> black 
+banana <MASK> <MASK> capable of <MASK> taste bad 
+pillow <MASK> <MASK> used for <MASK> sleep 
+go to bed <MASK> <MASK> used for <MASK> lie down 
+christianity <MASK> <MASK> is a <MASK> religion 
+snowman <MASK> <MASK> at location <MASK> street 
+eiffel tower <MASK> <MASK> capable of <MASK> fall in sky 
+football <MASK> <MASK> at location <MASK> baseball game 
+grass <MASK> <MASK> has subevent <MASK> you get wet 
+earth <MASK> <MASK> has prerequisite <MASK> water 
+milk <MASK> <MASK> at location <MASK> milk 
+boat <MASK> <MASK> is a <MASK> vehicle type 
+exercise <MASK> <MASK> at location <MASK> train 
+criminal <MASK> <MASK> capable of <MASK> break law 
+water <MASK> <MASK> at location <MASK> ice 
+play game with your friend <MASK> <MASK> capable of <MASK> be fun 
+creek <MASK> <MASK> is a <MASK> small river 
+bowl <MASK> <MASK> has prerequisite <MASK> water 
+contemplate <MASK> <MASK> has prerequisite <MASK> think 
+coffee cup <MASK> <MASK> is a <MASK> container 
+dog <MASK> <MASK> at location <MASK> london 
+plane <MASK> <MASK> capable of <MASK> move heavy object 
+vegetarian <MASK> <MASK> not capable of <MASK> eat animal 
+shop <MASK> <MASK> used for <MASK> get thing you need 
+wine <MASK> <MASK> capable of <MASK> make person drunk 
+peanut butter <MASK> <MASK> at location <MASK> refrigerator 
+lizard <MASK> <MASK> at location <MASK> zoo 
+pass your university exam <MASK> <MASK> used for <MASK> get degree 
+have fun <MASK> <MASK> used for <MASK> enjoy yourself 
+book <MASK> <MASK> has a <MASK> lot of knowledge 
+climb <MASK> <MASK> has prerequisite <MASK> get rope 
+listen to music <MASK> <MASK> has subevent <MASK> you can hurt your ear 
+wine list <MASK> <MASK> causes desire <MASK> wash your hand 
+lemon <MASK> <MASK> causes <MASK> eat 
+someone <MASK> <MASK> has a <MASK> two ear 
+letter <MASK> <MASK> at location <MASK> mail box 
+get up early <MASK> <MASK> has prerequisite <MASK> be set your alarm clock 
+maintain good health <MASK> <MASK> causes <MASK> be happy 
+go see play <MASK> <MASK> capable of <MASK> used forget your child 
+horse <MASK> <MASK> capable of <MASK> be many different color 
+have rest <MASK> <MASK> has prerequisite <MASK> lie in bed 
+sex <MASK> <MASK> used for <MASK> get high education 
+motherboard <MASK> <MASK> has prerequisite <MASK> mother 
+computer <MASK> <MASK> at location <MASK> in room 
+capital <MASK> <MASK> at location <MASK> in country 
+college <MASK> <MASK> at location <MASK> any large city 
+child <MASK> <MASK> capable of <MASK> learn while they play 
+kiss <MASK> <MASK> has prerequisite <MASK> have partner 
+fruit <MASK> <MASK> is a <MASK> healthy food 
+sofa bed <MASK> <MASK> has property <MASK> comfortable 
+wrench <MASK> <MASK> at location <MASK> tool box 
+play game <MASK> <MASK> capable of <MASK> be profiatble 
+jump out of window <MASK> <MASK> is a <MASK> activity 
+sex <MASK> <MASK> used for <MASK> get high education 
+lion <MASK> <MASK> used for <MASK> fry 
+dog <MASK> <MASK> at location <MASK> london 
+jump out of window <MASK> <MASK> has prerequisite <MASK> open it first 
+tissue holder <MASK> <MASK> not capable of <MASK> smell bad 
+person <MASK> <MASK> at location <MASK> bus depot 
+pass course <MASK> <MASK> has prerequisite <MASK> go to library 
+water <MASK> <MASK> has a <MASK> high specific heat capacity 
+snow <MASK> <MASK> is a <MASK> form of precipitation 
+lizard <MASK> <MASK> has subevent <MASK> water fall from sky 
+cpu <MASK> <MASK> part of <MASK> computer 
+whale <MASK> <MASK> at location <MASK> ocean 
+elementary school <MASK> <MASK> capable of <MASK> mean professor 
+knife <MASK> <MASK> is a <MASK> tool 
+nurse <MASK> <MASK> at location <MASK> at doctor 
+something <MASK> <MASK> used for <MASK> bake bread 
+key <MASK> <MASK> capable of <MASK> open door 
+write <MASK> <MASK> capable of <MASK> be messy experience 
+pistol <MASK> <MASK> part of <MASK> hand 
+chess <MASK> <MASK> causes <MASK> win 
+rabbit <MASK> <MASK> created by <MASK> animal 
+thief <MASK> <MASK> is a <MASK>  criminal 
+butterfly <MASK> <MASK> has property <MASK> funny 
+go for drive <MASK> <MASK> has property <MASK> fun 
+hat <MASK> <MASK> has prerequisite <MASK> wear 
+rifle <MASK> <MASK> has prerequisite <MASK> hand 
+robin <MASK> <MASK> at location <MASK> in boat 
+woman <MASK> <MASK> has a <MASK> long hair than men 
+car <MASK> <MASK> receives action <MASK> park on driveway 
+planet earth <MASK> <MASK> capable of <MASK> appear to be around sun 
+walk in rain <MASK> <MASK> used for <MASK> cool off 
+coffee <MASK> <MASK> has property <MASK> hot 
+highway <MASK> <MASK> is a <MASK> train that run away 
+ball <MASK> <MASK> is a <MASK> popular sport in america 
+eye <MASK> <MASK> used for <MASK> see world 
+lawn mower <MASK> <MASK> at location <MASK> garage 
+teacher <MASK> <MASK> capable of <MASK> teach 
+awake <MASK> <MASK> is a <MASK> motivated by goal <MASK> be asleep 
+chat with friend <MASK> <MASK> at location <MASK> friend house 
+have rest <MASK> <MASK> capable of <MASK> take practice too 
+dust bunny <MASK> <MASK> used for <MASK> make love 
+butter <MASK> <MASK> at location <MASK> your pantry 
+plant <MASK> <MASK> at location <MASK> field 
+procreate <MASK> <MASK> causes <MASK> child be born 
+earth <MASK> <MASK> at location <MASK> space 
+bottle <MASK> <MASK> is a <MASK> container for liquid 
+slide <MASK> <MASK> has a <MASK> effect of fall down 
+play game <MASK> <MASK> has subevent <MASK> you lose 
+water and oil <MASK> <MASK> capable of <MASK> make lot of steam 
+guitar <MASK> <MASK> has a <MASK> 7 string 
+sleep <MASK> <MASK> has prerequisite <MASK> lie down 
+basketball <MASK> <MASK> at location <MASK> basketball court 
+rock <MASK> <MASK> at location <MASK> rock 
+go to zoo <MASK> <MASK> has a <MASK> many animal 
+maintain muscle strength <MASK> <MASK> capable of <MASK> used for <MASK> stay in shape 
+surprise someone <MASK> <MASK> has prerequisite <MASK> say boo 
+book <MASK> <MASK> has prerequisite <MASK> have some paper 
+meet person <MASK> <MASK> at location <MASK> meet 
+needle <MASK> <MASK> has property <MASK> sharp 
+play game <MASK> <MASK> has subevent <MASK> you lose 
+winter <MASK> <MASK> used for <MASK> winter 
+passenger <MASK> <MASK> at location <MASK> bus depot 
+chimney <MASK> <MASK> has subevent <MASK> breathe 
+book <MASK> <MASK> capable of <MASK> be burn 
+bank <MASK> <MASK> used for <MASK> save money 
+commit suicide <MASK> <MASK> has subevent <MASK> you die 
+tenor <MASK> <MASK> has a <MASK> seven string 
+book <MASK> <MASK> at location <MASK> library 
+miner <MASK> <MASK> capable of <MASK> mine gold 
+day <MASK> <MASK> at location <MASK> school 
+enjoy film <MASK> <MASK> capable of <MASK> has subevent <MASK> you cry 
+dream <MASK> <MASK> has subevent <MASK> you smile 
+shovel <MASK> <MASK> has prerequisite <MASK> dig 
+cookie <MASK> <MASK> has property <MASK> good 
+urinate <MASK> <MASK> is a <MASK> form of bladder 
+go to laundromat <MASK> <MASK> has property <MASK> expensive 
+play violin <MASK> <MASK> used for <MASK> make music 
+reproduce <MASK> <MASK> used for <MASK> make copy 
+yo-yo <MASK> <MASK> has property <MASK> fun to play with 
+pilot <MASK> <MASK> used for <MASK> fly aircraft 
+jack <MASK> <MASK> has subevent <MASK> have fun 
+france <MASK> <MASK> at location <MASK> europe 
+restaurant <MASK> <MASK> is a <MASK> place to eat 
+earn live <MASK> <MASK> used for <MASK> person who be live 
+go to movie <MASK> <MASK> used for <MASK> see star 
+screwdriver <MASK> <MASK> capable of <MASK> remove screw 
+stay healthy <MASK> <MASK> at location <MASK> end of line 
+tongue <MASK> <MASK> capable of <MASK> taste many different flavor 
+finch <MASK> <MASK> capable of <MASK> eat fly with it leg 
+bomb <MASK> <MASK> is a <MASK> weapon 
+die <MASK> <MASK> causes <MASK> death 
+school bus <MASK> <MASK> at location <MASK> school 
+have examination <MASK> <MASK> capable of <MASK> lead to problem 
+mouse <MASK> <MASK> at location <MASK> your kitchen 
+lock <MASK> <MASK> at location <MASK> lock in bank 
+sheet <MASK> <MASK> at location <MASK> bed 
+corner cupboard <MASK> <MASK> at location <MASK> office 
+water <MASK> <MASK> capable of <MASK> reflect light 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+cornea <MASK> <MASK> has prerequisite <MASK> toast 
+tomato <MASK> <MASK> is a <MASK> plant 
+wake up <MASK> <MASK> capable of <MASK> take practice too 
+sleep <MASK> <MASK> motivated by goal <MASK> you be exhaust 
+egg <MASK> <MASK> is a <MASK> domesticate plant 
+teacher <MASK> <MASK> used for <MASK> teach 
+snowman <MASK> <MASK> at location <MASK> street 
+murder <MASK> <MASK> made of <MASK> metal 
+fry pan <MASK> <MASK> used for <MASK> cook 
+arm <MASK> <MASK> capable of <MASK> bearm 
+book <MASK> <MASK> capable of <MASK> be burn 
+carpenter <MASK> <MASK> used for <MASK> cover floor 
+green <MASK> <MASK> is a <MASK> color 
+match <MASK> <MASK> used for <MASK> light candle 
+teacher <MASK> <MASK> used for <MASK> teach 
+baby <MASK> <MASK> capable of <MASK> smell like wet dog 
+lion <MASK> <MASK> at location <MASK> zoo 
+coat <MASK> <MASK> part of <MASK> clothe 
+islam <MASK> <MASK> is a <MASK>  monotheistic religion 
+christianity <MASK> <MASK> capable of <MASK> come from royal family 
+usenet newsgroup <MASK> <MASK> has subevent <MASK> be very operator 
+san francisco <MASK> <MASK> is a <MASK> state 
+see <MASK> <MASK> has subevent <MASK> use instrument 
+boat <MASK> <MASK> used for <MASK> transportation 
+man <MASK> <MASK> capable of <MASK> be stand up 
+pass course <MASK> <MASK> has property <MASK> important 
+computer <MASK> <MASK> used for <MASK> make money 
+dog <MASK> <MASK> used for <MASK> keep you company 
+farmer <MASK> <MASK> capable of <MASK> grow corn 
+read <MASK> <MASK> capable of <MASK> help expand your vocabulary 
+air <MASK> <MASK> is a <MASK> light than water 
+snore <MASK> <MASK> has prerequisite <MASK> get very tire and goto sleep 
+drive <MASK> <MASK> has prerequisite <MASK> get license 
+brain <MASK> <MASK> has a <MASK> lot of knowledge 
+pen <MASK> <MASK> used for <MASK> write thing down 
+fork <MASK> <MASK> has prerequisite <MASK> have food 
+dentist <MASK> <MASK> is a <MASK> doctor 
+hockey <MASK> <MASK> used for <MASK> hockey 
+watch television <MASK> <MASK> has prerequisite <MASK> switch tv on 
+thief <MASK> <MASK> is a <MASK>  criminal 
+dog <MASK> <MASK> receives action <MASK> train to fetch 
+double edge razor <MASK> <MASK> at location <MASK> bathroom 
+meet person <MASK> <MASK> capable of <MASK> meet in 
+football <MASK> <MASK> at location <MASK> baseball game 
+read magazine <MASK> <MASK> is a <MASK> popular human activity 
+babysitter <MASK> <MASK> has prerequisite <MASK> not mind 
+mouse <MASK> <MASK> capable of <MASK> eat cheese 
+cat <MASK> <MASK> has subevent <MASK> you catch bird 
+pillow <MASK> <MASK> is a <MASK> build 
+floor <MASK> <MASK> used for <MASK> stand on 
+play tennis <MASK> <MASK> has subevent <MASK> you would sweat 
+see your favorite show <MASK> <MASK> causes <MASK> love 
+go to play <MASK> <MASK> causes <MASK> see actor act 
+carpet <MASK> <MASK> at location <MASK> bedroom 
+kill <MASK> <MASK> causes <MASK> you will go to jail 
+sleep <MASK> <MASK> at location <MASK> your house 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+thief <MASK> <MASK> is a <MASK>  criminal 
+have fun <MASK> <MASK> has subevent <MASK> play table tennis 
+book <MASK> <MASK> is a <MASK> often 
+love <MASK> <MASK> at location <MASK> library 
+rest <MASK> <MASK> used for <MASK> rest 
+commercial <MASK> <MASK> at location <MASK> on television 
+reproduce <MASK> <MASK> has subevent <MASK> you get more of something 
+pot <MASK> <MASK> capable of <MASK> be steam 
+get up early <MASK> <MASK> at location <MASK> train station 
+cook <MASK> <MASK> at location <MASK> kitchen 
+person <MASK> <MASK> used for <MASK> eat 
+internet <MASK> <MASK> used for <MASK> meet friend 
+cold <MASK> <MASK> is a <MASK> form of freeze water 
+dog <MASK> <MASK> used for <MASK> keep you company 
+chair <MASK> <MASK> capable of <MASK> be ceramic or wood 
+author <MASK> <MASK> capable of <MASK> write 
+artist <MASK> <MASK> capable of <MASK> draw someone 
+jump out of window <MASK> <MASK> used for <MASK> break bone 
+person <MASK> <MASK> is a <MASK> ski down big hill 
+play game <MASK> <MASK> part of <MASK> game 
+bathe <MASK> <MASK> causes <MASK> get clean 
+coke <MASK> <MASK> used for <MASK> taste something good 
+towel rack <MASK> <MASK> used for <MASK> hold towel in place 
+someone <MASK> <MASK> is a <MASK> hold computer disk 
+floor <MASK> <MASK> used for <MASK> stand on 
+weasel <MASK> <MASK> causes <MASK> become smelly 
+lizard <MASK> <MASK> at location <MASK> zoo 
+cross street <MASK> <MASK> at location <MASK> street 
+man <MASK> <MASK> desires <MASK> be famous 
+take shower <MASK> <MASK> has subevent <MASK> you get clean 
+triangle <MASK> <MASK> part of <MASK> music class 
+drum <MASK> <MASK> capable of <MASK> make rhythm 
+bed <MASK> <MASK> used for <MASK> relaxation 
+banana <MASK> <MASK> at location <MASK> refrigerator 
+glass <MASK> <MASK> used for <MASK> see through them 
+food <MASK> <MASK> used for <MASK> eat 
+cake <MASK> <MASK> at location <MASK> store 
+steel <MASK> <MASK> is a <MASK> heavy than wood 
+wheel <MASK> <MASK> part of <MASK> car 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+human <MASK> <MASK> is a <MASK> competative 
+rice <MASK> <MASK> is a <MASK> domesticate plant 
+rice <MASK> <MASK> made of <MASK> rice grain 
+chopstick <MASK> <MASK> used for <MASK> eat chinese food with 
+knife <MASK> <MASK> has subevent <MASK> you cut your finger 
+saturn <MASK> <MASK> is a <MASK> planet 
+mar <MASK> <MASK> capable of <MASK> take forever 
+apple <MASK> <MASK> is a <MASK> fruit of apple tree 
+galaxy <MASK> <MASK> part of <MASK> galaxy 
+exercise <MASK> <MASK> has property <MASK> important to health 
+jack <MASK> <MASK> capable of <MASK> be very fun game 
+jack <MASK> <MASK> used for <MASK> play game of jack 
+chimney <MASK> <MASK> has property <MASK> hot 
+star <MASK> <MASK> at location <MASK> in outerspace 
+ride horse <MASK> <MASK> has subevent <MASK> you fall off 
+gamble <MASK> <MASK> has property <MASK> fun 
+food <MASK> <MASK> has a <MASK> lot of fat 
+cut your hair <MASK> <MASK> has prerequisite <MASK> have hair 
+person <MASK> <MASK> has property <MASK> sad when another person die 
+computer <MASK> <MASK> is a <MASK> machine that can run program at very fast speed 
+tongue <MASK> <MASK> used for <MASK> eat pussy 
+lizard <MASK> <MASK> capable of <MASK> eat 
+disco <MASK> <MASK> used for <MASK> get drunk 
+bathe <MASK> <MASK> has prerequisite <MASK> get naked 
+sex <MASK> <MASK> has prerequisite <MASK> get money 
+seat <MASK> <MASK> causes <MASK> move 
+car <MASK> <MASK> used for <MASK> transportation 
+fly in airplane <MASK> <MASK> capable of <MASK> take up lot of space 
+swim <MASK> <MASK> part of <MASK> fun 
+cross street <MASK> <MASK> causes <MASK> get to other side 
+colorado <MASK> <MASK> used for <MASK> see 
+pilot <MASK> <MASK> is a <MASK> person 
+dog <MASK> <MASK> is a <MASK> not wild animal 
+boat <MASK> <MASK> has prerequisite <MASK> sail 
+flask <MASK> <MASK> is a <MASK> container 
+get pay <MASK> <MASK> has prerequisite <MASK> get job 
+quill <MASK> <MASK> used for <MASK> hold ink 
+food <MASK> <MASK> used for <MASK> eat 
+marijuana <MASK> <MASK> is a <MASK> drug 
+computer <MASK> <MASK> used for <MASK> make money 
+fish <MASK> <MASK> at location <MASK> fish creel 
+wallet <MASK> <MASK> used for <MASK> hold credit card 
+soap <MASK> <MASK> at location <MASK> bathroom 
+write <MASK> <MASK> has subevent <MASK> you may break fingernail 
+diminish your own hunger <MASK> <MASK> has subevent <MASK> eat food 
+rice <MASK> <MASK> used for <MASK> make rice 
+horse <MASK> <MASK> capable of <MASK> be many different color 
+camper <MASK> <MASK> has prerequisite <MASK> start campfire 
+cereal bowl <MASK> <MASK> used for <MASK> spagetti 
+human <MASK> <MASK> has a <MASK> many vice 
+compete <MASK> <MASK> capable of <MASK> win at any opportunity 
+box <MASK> <MASK> is a <MASK> container for cream 
+coke <MASK> <MASK> is a <MASK> drink 
+chew your food <MASK> <MASK> capable of <MASK> helpfulcrush 
+pray <MASK> <MASK> is a <MASK> way of showience 
+floor <MASK> <MASK> at location <MASK> build 
+library <MASK> <MASK> causes <MASK> lamp 
+car <MASK> <MASK> has a <MASK> wheel 
+move car <MASK> <MASK> at location <MASK> street 
+play guitar <MASK> <MASK> has subevent <MASK> you play song 
+usher <MASK> <MASK> has a <MASK> seat in herseat 
+lawyer <MASK> <MASK> capable of <MASK> object that statement 
+something <MASK> <MASK> is a <MASK> at work 
+literature <MASK> <MASK> at location <MASK> library 
+hummingbird <MASK> <MASK> capable of <MASK> fly and maintain their position 
+cat <MASK> <MASK> has property <MASK> curious about new surroundngs 
+use computer <MASK> <MASK> has prerequisite <MASK> get computer 
+star trek <MASK> <MASK> is a <MASK> movie 
+key <MASK> <MASK> motivated by goal <MASK> keyhole in their door 
+radio <MASK> <MASK> at location <MASK> radio station 
+literature <MASK> <MASK> at location <MASK> library 
+attend lecture <MASK> <MASK> has property <MASK> important 
+twenty four hour <MASK> <MASK> has prerequisite <MASK> one to be on time 
+stage <MASK> <MASK> used for <MASK> show big object of art 
+get some money from someone <MASK> <MASK> used for <MASK> get pay 
+play basketball <MASK> <MASK> has prerequisite <MASK> get basketball and hoop 
+fork <MASK> <MASK> at location <MASK> kitchen 
+baseball field <MASK> <MASK> used for <MASK> play baseball with team 
+cup <MASK> <MASK> has property <MASK> make of ceramic 
+cloth <MASK> <MASK> has subevent <MASK> you fold 
+dream <MASK> <MASK> used for <MASK> entertainment 
+finger <MASK> <MASK> at location <MASK> purse 
+human <MASK> <MASK> part of <MASK> human society 
+compete <MASK> <MASK> motivated by goal <MASK> win 
+full bladder <MASK> <MASK> is a <MASK> tourist item 
+human <MASK> <MASK> capable of <MASK> eat animal 
+play poker <MASK> <MASK> has prerequisite <MASK> get deck of card 
+pillow case <MASK> <MASK> used for <MASK> protect pillow from dirt 
+person <MASK> <MASK> has a <MASK> sex indoors 
+star <MASK> <MASK> at location <MASK> in outerspace 
+get up early <MASK> <MASK> at location <MASK> train station 
+pantry <MASK> <MASK> at location <MASK> house 
+camper <MASK> <MASK> at location <MASK> train station 
+jump out of window <MASK> <MASK> causes <MASK> break bone 
+plane <MASK> <MASK> used for <MASK> travel 
+monkey <MASK> <MASK> desires <MASK> eat banana 
+read newspaper <MASK> <MASK> used for <MASK> learn 
+computer <MASK> <MASK> used for <MASK> make money 
+salt <MASK> <MASK> used for <MASK> keep evil spirit away 
+drawer <MASK> <MASK> is a <MASK> container 
+banana <MASK> <MASK> at location <MASK> refrigerator 
+physic <MASK> <MASK> is a <MASK> science 
+wine <MASK> <MASK> at location <MASK> bar 
+tiger <MASK> <MASK> used for <MASK> eat 
+cucumber <MASK> <MASK> receives action <MASK> plant in fall 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+eye <MASK> <MASK> used for <MASK> see world 
+clarinet <MASK> <MASK> is a <MASK> musical instrument 
+live <MASK> <MASK> has subevent <MASK> die 
+denim <MASK> <MASK> causes <MASK> fart 
+bread <MASK> <MASK> is a <MASK> food 
+france <MASK> <MASK> desires <MASK> france 
+frog <MASK> <MASK> used for <MASK> food 
+novel <MASK> <MASK> capable of <MASK> read tarushi 
+brazil <MASK> <MASK> causes <MASK> most tropical forest 
+bicycle <MASK> <MASK> at location <MASK> street corner 
+have sex <MASK> <MASK> causes <MASK> get high 
+book <MASK> <MASK> not has property <MASK> alike 
+bicycle <MASK> <MASK> is a <MASK> vehicle 
+blanket <MASK> <MASK> used for <MASK> cover thing 
+breathe <MASK> <MASK> not capable of <MASK> look comfortable 
+commit suicide <MASK> <MASK> motivated by goal <MASK> kill yourself when you be desperate 
+most pizza <MASK> <MASK> has a <MASK> lot of calorie 
+paper <MASK> <MASK> used for <MASK> print 
+sit down <MASK> <MASK> has prerequisite <MASK> find chair 
+atheist <MASK> <MASK> used for <MASK> believe in god 
+person <MASK> <MASK> desires <MASK> be able to express themself freely 
+something <MASK> <MASK> at location <MASK> top of list 
+pineapple <MASK> <MASK> capable of <MASK> grow in tropical or sub-tropical region 
+play sport <MASK> <MASK> capable of <MASK> be competition 
+policeman <MASK> <MASK> receives action <MASK> train to catch criminal 
+pickle <MASK> <MASK> capable of <MASK> stain 
+something <MASK> <MASK> at location <MASK> top of list 
+visit other country <MASK> <MASK> has property <MASK> used for tourist 
+pony <MASK> <MASK> at location <MASK> zoo 
+drink <MASK> <MASK> has a <MASK> effect of satiate one hunger 
+teacher <MASK> <MASK> used for <MASK> teach 
+your neighbor <MASK> <MASK> capable of <MASK> love you 
+gun <MASK> <MASK> used for <MASK> kill animal 
+restaurant <MASK> <MASK> has a <MASK>  waiter 
+poker <MASK> <MASK> is a <MASK> game of skill 
+car <MASK> <MASK> has prerequisite <MASK> get license 
+food <MASK> <MASK> at location <MASK> refrigerator 
+climb <MASK> <MASK> has prerequisite <MASK> get rope 
+moon <MASK> <MASK> has a <MASK> no grass or tree 
+flower <MASK> <MASK> has subevent <MASK> you pick them 
+take bus <MASK> <MASK> has prerequisite <MASK> money 
+frisbee <MASK> <MASK> has property <MASK> fun 
+glass <MASK> <MASK> capable of <MASK> hold liquid 
+rose <MASK> <MASK> has a <MASK> thorn and be beautiful 
+human <MASK> <MASK> at location <MASK> dinner 
+eat breakfast <MASK> <MASK> at location <MASK> motel 
+kitchen <MASK> <MASK> used for <MASK> prepare food to eat 
+human <MASK> <MASK> is a <MASK> competative 
+go to bed <MASK> <MASK> at location <MASK> bed 
+passenger <MASK> <MASK> is a <MASK> person 
+train <MASK> <MASK> causes <MASK> train to arrive 
+woman <MASK> <MASK> capable of <MASK> love their child 
+girl <MASK> <MASK> has prerequisite <MASK> buy her flower 
+cheese <MASK> <MASK> is a <MASK> often 
+spanish restaurant <MASK> <MASK> at location <MASK> spain 
+submarine <MASK> <MASK> capable of <MASK> travel underwater 
+move car <MASK> <MASK> causes <MASK> move about at destination 
+dog <MASK> <MASK> capable of <MASK> be good friend 
+gold <MASK> <MASK> has a <MASK> high value 
+hamburger <MASK> <MASK> at location <MASK> refrigerator 
+get drunk <MASK> <MASK> has subevent <MASK> you throw up 
+person <MASK> <MASK> used for <MASK> eat 
+chicken <MASK> <MASK> at location <MASK> jar 
+condominium <MASK> <MASK> used for <MASK> live in 
+propose to woman <MASK> <MASK> has prerequisite <MASK> get on your knee 
+shoe <MASK> <MASK> has subevent <MASK> wear clothe 
+paper <MASK> <MASK> has prerequisite <MASK> get out printer 
+someone <MASK> <MASK> has prerequisite <MASK> go to bed 
+bicycle <MASK> <MASK> is a <MASK> vehicle 
+shirt <MASK> <MASK> is a <MASK> form of clothe 
+something <MASK> <MASK> at location <MASK> top of list 
+play piano <MASK> <MASK> has a <MASK> effect of make music 
+fire <MASK> <MASK> capable of <MASK> burn tire 
+key <MASK> <MASK> capable of <MASK> open door 
+milk <MASK> <MASK> has prerequisite <MASK> milk 
+usher <MASK> <MASK> used for <MASK> seat wed guest 
+drive <MASK> <MASK> used for <MASK> go somewhere 
+person <MASK> <MASK> capable of <MASK> eat in restaurant 
+walk in rain <MASK> <MASK> at location <MASK> rain 
+bomb <MASK> <MASK> has a <MASK> explosive device 
+go to performance <MASK> <MASK> used for <MASK> get ticket 
+parent <MASK> <MASK> capable of <MASK> teach child 
+raisin <MASK> <MASK> is a <MASK> fruit 
+bird <MASK> <MASK> at location <MASK> park 
+traveller <MASK> <MASK> at location <MASK> train station 
+something <MASK> <MASK> at location <MASK> top of list 
+perl <MASK> <MASK> at location <MASK> in medicine cabinet 
+love <MASK> <MASK> has subevent <MASK> feel empathy 
+diner <MASK> <MASK> has a <MASK>  side of fry 
+bomb <MASK> <MASK> used for <MASK> destroy thing 
+mechanic <MASK> <MASK> capable of <MASK> oil machine 
+someone <MASK> <MASK> created by <MASK> shelter 
+feather <MASK> <MASK> has subevent <MASK> feather 
+cake <MASK> <MASK> has a <MASK> ice or frost on it 
+bread <MASK> <MASK> has prerequisite <MASK> bake 
+mother <MASK> <MASK> capable of <MASK> love their child 
+play sport <MASK> <MASK> at location <MASK> london 
+tv <MASK> <MASK> capable of <MASK> be addictive sometimes it be useful 
+pipe <MASK> <MASK> used for <MASK> hold tobacco for smoke 
+water <MASK> <MASK> has subevent <MASK> you will be freeze 
+sock <MASK> <MASK> causes <MASK> lucky 
+rosebush <MASK> <MASK> causes <MASK> flower 
+tool <MASK> <MASK> used for <MASK> build something 
+study <MASK> <MASK> has subevent <MASK> read book 
+saxophone <MASK> <MASK> is a <MASK> musical instrument 
+bomb <MASK> <MASK> part of <MASK> war 
+plant <MASK> <MASK> has subevent <MASK> you get wet 
+skyscraper <MASK> <MASK> has a <MASK> many window 
+soap <MASK> <MASK> has prerequisite <MASK> water and soap 
+person <MASK> <MASK> is a <MASK> ski down big hill 
+fruit <MASK> <MASK> has property <MASK> healthy 
+stone <MASK> <MASK> capable of <MASK> be unit of measurment 
+chocolate <MASK> <MASK> capable of <MASK> come in cube 
+toilet paper <MASK> <MASK> used for <MASK> wipe your ass 
+have asthma attack <MASK> <MASK> has prerequisite <MASK> have epilepsy 
+ticket office <MASK> <MASK> has subevent <MASK> you will get ticket 
+walk in rain <MASK> <MASK> used for <MASK> cool off 
+diner <MASK> <MASK> is a <MASK> place to get pie 
+sailor <MASK> <MASK> causes <MASK> wind in sail 
+have food <MASK> <MASK> capable of <MASK> help you stay alive 
+read magazine <MASK> <MASK> capable of <MASK> help expand your vocabulary 
+tooth <MASK> <MASK> used for <MASK> grind food 
+classroom <MASK> <MASK> used for <MASK> teach student 
+propose to woman <MASK> <MASK> is a <MASK> have fun 
+ruler <MASK> <MASK> capable of <MASK> count 
+airplane <MASK> <MASK> is a <MASK> machine for transportation 
+dresser <MASK> <MASK> has property <MASK> dark 
+feather <MASK> <MASK> used for <MASK> protect bird 
+window <MASK> <MASK> receives action <MASK> close 
+submarine <MASK> <MASK> causes <MASK> travel to sea 
+dog <MASK> <MASK> used for <MASK> keep you company 
+listen to radio <MASK> <MASK> made of <MASK> metal 
+find lose item <MASK> <MASK> has prerequisite <MASK> look under thing 
+something <MASK> <MASK> used for <MASK> bake bread 
+green <MASK> <MASK> has subevent <MASK> blush 
+dog <MASK> <MASK> part of <MASK> animal kingdom 
+fish <MASK> <MASK> is a <MASK> not mammal 
+bowl <MASK> <MASK> at location <MASK> bowl alley 
+card catalog <MASK> <MASK> at location <MASK> librarian office 
+cd <MASK> <MASK> at location <MASK> cd tower 
+planet <MASK> <MASK> has property <MASK> very far from each other 
+clarinet <MASK> <MASK> has subevent <MASK> it make music 
+wine list <MASK> <MASK> is a <MASK> container 
+nose <MASK> <MASK> at location <MASK> your face 
+computer <MASK> <MASK> at location <MASK> in room 
+food <MASK> <MASK> at location <MASK> refrigerator 
+play game <MASK> <MASK> has prerequisite <MASK> get deck of card 
+sheet <MASK> <MASK> has subevent <MASK> lickness 
+mouse <MASK> <MASK> capable of <MASK> eat cheese 
+chicken <MASK> <MASK> is a <MASK> animal 
+reproduce <MASK> <MASK> used for <MASK> make copy 
+music stand <MASK> <MASK> used for <MASK> hold your sheetmusic 
+passenger <MASK> <MASK> used for <MASK> seat passenger 
+flask <MASK> <MASK> at location <MASK> in chemistry lab 
+jump out of window <MASK> <MASK> used for <MASK> break bone 
+gather energy for tomorrow <MASK> <MASK> is a <MASK> good exercise 
+sock <MASK> <MASK> at location <MASK> clothe closet 
+ear <MASK> <MASK> used for <MASK> hear 
+chocolate <MASK> <MASK> at location <MASK> store 
+dog <MASK> <MASK> part of <MASK> animal kingdom 
+pen <MASK> <MASK> is a <MASK> write utensil 
+lettuce <MASK> <MASK> is a <MASK> plant 
+car <MASK> <MASK> at location <MASK> street 
+fork <MASK> <MASK> has prerequisite <MASK> have food 
+murder <MASK> <MASK> is a <MASK> crime 
+alcohol <MASK> <MASK> is a <MASK> form of entertainment 
+night <MASK> <MASK> at location <MASK> in den 
+steel <MASK> <MASK> is a <MASK> heavy than wood 
+girl <MASK> <MASK> has property <MASK> young female 
+chocolate <MASK> <MASK> has subevent <MASK> you get cavity 
+leaf <MASK> <MASK> has subevent <MASK> fall from tree 
+crappie <MASK> <MASK> has property <MASK> dead 
+salamander <MASK> <MASK> is a <MASK> bird 
+table tennis <MASK> <MASK> is a <MASK> game 
+pelican <MASK> <MASK> is a <MASK> animal 
+pray <MASK> <MASK> used for <MASK> talk with god 
+god <MASK> <MASK> part of <MASK> god 
+metal <MASK> <MASK> used for <MASK> make many modern device 
+paris <MASK> <MASK> has prerequisite <MASK> time 
+music <MASK> <MASK> part of <MASK> music 
+most person <MASK> <MASK> has property <MASK> selfish 
+most person <MASK> <MASK> has property <MASK> selfish 
+car <MASK> <MASK> is a <MASK> vehicle 
+girl <MASK> <MASK> is a <MASK> young female human 
+bicycle <MASK> <MASK> at location <MASK> street corner 
+nose <MASK> <MASK> at location <MASK> your face 
+have physical exam <MASK> <MASK> is a <MASK> become luxury 
+propose to woman <MASK> <MASK> motivated by goal <MASK> get marry 
+have sex <MASK> <MASK> has subevent <MASK> get in trouble 
+house <MASK> <MASK> has a <MASK> many room 
+pig <MASK> <MASK> not capable of <MASK> eat cat 
+clothe <MASK> <MASK> desires <MASK> be wash in water 
+sushi <MASK> <MASK> has a <MASK> raw fish 
+sock <MASK> <MASK> has a <MASK> feel 
+student <MASK> <MASK> capable of <MASK> learn from teacher 
+eat breakfast <MASK> <MASK> has prerequisite <MASK> get together with your family 
+apple <MASK> <MASK> at location <MASK> apple orchard 
+roof tile <MASK> <MASK> used for <MASK> protect roof from rain 
+corn <MASK> <MASK> has prerequisite <MASK> water 
+glass <MASK> <MASK> has property <MASK> half full with clear liquid 
+poodle <MASK> <MASK> is a <MASK> small breed of dog 
+go to party <MASK> <MASK> used for <MASK> socialize 
+be tire <MASK> <MASK> has prerequisite <MASK> lie down 
+pineapple <MASK> <MASK> created by <MASK> grape 
+sock <MASK> <MASK> at location <MASK> clothe closet 
+glass <MASK> <MASK> capable of <MASK> hold liquid 
+something <MASK> <MASK> has property <MASK> at location <MASK> top of car 
+twenty four hour <MASK> <MASK> is a <MASK> one day 
+sofa <MASK> <MASK> has subevent <MASK> sit 
+pulpit <MASK> <MASK> has prerequisite <MASK> speak to lawyer 
+go for haircut <MASK> <MASK> has prerequisite <MASK> go to barber 
+knife <MASK> <MASK> at location <MASK> kitchen drawer 
+classroom <MASK> <MASK> is a <MASK> room 
+stop your car <MASK> <MASK> at location <MASK> stop sign 
+clerk <MASK> <MASK> capable of <MASK> bag grocery 
+bunsen burner <MASK> <MASK> causes <MASK> interest 
+gather energy for tomorrow <MASK> <MASK> at location <MASK> motel 
+rope <MASK> <MASK> at location <MASK> cabinet 
+police officer <MASK> <MASK> capable of <MASK> kill someone 
+dog <MASK> <MASK> has property <MASK> good than cat 
+golden retriever <MASK> <MASK> has subevent <MASK> is a <MASK> be breed into dog 
+bridge <MASK> <MASK> used for <MASK> cross over body of water 
+literature <MASK> <MASK> has a <MASK> lot of knowledge 
+puck <MASK> <MASK> at location <MASK> porn 
+fan <MASK> <MASK> at location <MASK> in bus 
+grocer <MASK> <MASK> capable of <MASK> bag grocery 
+person <MASK> <MASK> has prerequisite <MASK> water to live 
+someone <MASK> <MASK> has prerequisite <MASK> go to bed 
+salt <MASK> <MASK> has subevent <MASK> put on chip 
+bell <MASK> <MASK> at location <MASK> front door 
+reproduce <MASK> <MASK> part of <MASK> animal 
+book <MASK> <MASK> part of <MASK> book 
+your neighbor <MASK> <MASK> at location <MASK> your house 
+have nervous breakdown <MASK> <MASK> has subevent <MASK> you sweat lot 
+get some money from someone <MASK> <MASK> at location <MASK> sport event 
+deaf person <MASK> <MASK> used for <MASK> kill person 
+floor <MASK> <MASK> used for <MASK> stand on 
+woman <MASK> <MASK> capable of <MASK> love their child 
+go for swim <MASK> <MASK> used for <MASK> fun 
+actor <MASK> <MASK> capable of <MASK> act in movie 
+match <MASK> <MASK> part of <MASK> match 
+most pizza <MASK> <MASK> has prerequisite <MASK> order hamburger 
+tank <MASK> <MASK> has subevent <MASK> person die 
+car <MASK> <MASK> capable of <MASK> move 
+nurse <MASK> <MASK> capable of <MASK> help you if you be breathe 
+detective <MASK> <MASK> used for <MASK> catch criminal 
+compete <MASK> <MASK> used for <MASK> win 
+grain of sand <MASK> <MASK> has property <MASK> grain 
+visit other country <MASK> <MASK> causes <MASK> learn new language 
+visitor <MASK> <MASK> at location <MASK> bus depot 
+your neighbor <MASK> <MASK> at location <MASK> your house 
+gideon bible <MASK> <MASK> at location <MASK> school 
+towel bar <MASK> <MASK> used for <MASK> dry towel 
+some plastic <MASK> <MASK> at location <MASK> paint 
+passenger <MASK> <MASK> causes <MASK> air sickness 
+sock <MASK> <MASK> has prerequisite <MASK> wear clothe 
+think <MASK> <MASK> causes <MASK> understand world 
+dolphin <MASK> <MASK> at location <MASK> water 
+typewriter <MASK> <MASK> causes <MASK> use pen 
+rack <MASK> <MASK> has a <MASK> wheel 
+roof tile <MASK> <MASK> has property <MASK> hard 
+fire engine <MASK> <MASK> used for <MASK> drive fire 
+tenor <MASK> <MASK> is a <MASK> musical instrument 
+watch television show <MASK> <MASK> desires <MASK> be entertain 
+go to hairdresser <MASK> <MASK> capable of <MASK> make your hair shiny 
+something <MASK> <MASK> has subevent <MASK> you canrun away with it 
+something <MASK> <MASK> at location <MASK> top of list 
+soda <MASK> <MASK> capable of <MASK> be most often 
+key <MASK> <MASK> used for <MASK> lock door 
+car <MASK> <MASK> is a <MASK> vehicle 
+black hole <MASK> <MASK> has subevent <MASK> usembol 
+human <MASK> <MASK> has prerequisite <MASK> water 
+two person <MASK> <MASK> used for <MASK> get to one another 
+chat with friend <MASK> <MASK> causes <MASK> have close your eye 
+vintner <MASK> <MASK> capable of <MASK> make wine 
+wake up <MASK> <MASK> is a <MASK> form of exercise 
+do housework <MASK> <MASK> at location <MASK> house 
+bowl <MASK> <MASK> capable of <MASK> hold fruit 
+dog <MASK> <MASK> has subevent <MASK> lick 
+plane <MASK> <MASK> at location <MASK> air 
+canada <MASK> <MASK> has property <MASK> cold 
+relax <MASK> <MASK> causes <MASK> relaxation 
+banjo <MASK> <MASK> at location <MASK> band 
+guitare <MASK> <MASK> at location <MASK> concert 
+plane <MASK> <MASK> has subevent <MASK> air lift 
+snore <MASK> <MASK> has subevent <MASK> wake others 
+chop firewood <MASK> <MASK> has prerequisite <MASK> get axe 
+play frisbee <MASK> <MASK> has prerequisite <MASK> go outside 
+stop your car <MASK> <MASK> has prerequisite <MASK> put on brake 
+bathe <MASK> <MASK> used for <MASK> get body clean 
+rabbit <MASK> <MASK> is a <MASK> animal 
+play <MASK> <MASK> is a <MASK> form of exercise 
+librarian <MASK> <MASK> is a <MASK> person who tend book 
+cup <MASK> <MASK> made of <MASK> glass 
+rubber duck <MASK> <MASK> has a <MASK> water in it bath 
+have food <MASK> <MASK> has property <MASK> important to person 
+drink <MASK> <MASK> is a <MASK> form ofdrink 
+play ball <MASK> <MASK> has subevent <MASK> you might hit home run 
+light fire <MASK> <MASK> is a <MASK> dangerous because it be open 
+paper <MASK> <MASK> has prerequisite <MASK> get out printer 
+child <MASK> <MASK> has prerequisite <MASK> love 
+plane <MASK> <MASK> is a <MASK> vehicle 
+drink <MASK> <MASK> has prerequisite <MASK> drink 
+make friend <MASK> <MASK> has prerequisite <MASK> go to pub 
+person <MASK> <MASK> is a <MASK> ski down big hill 
+bottle <MASK> <MASK> is a <MASK> container for liquid 
+commit perjury <MASK> <MASK> is a <MASK> lie before judge 
+reproduce <MASK> <MASK> causes <MASK> have baby 
+house <MASK> <MASK> is a <MASK> build 
+play basketball <MASK> <MASK> at location <MASK> london 
+camper <MASK> <MASK> is a <MASK> person 
+hear news <MASK> <MASK> has prerequisite <MASK> turn radio or television on 
+hill <MASK> <MASK> has subevent <MASK> fall down 
+play sport <MASK> <MASK> used for <MASK> get exercise 
+turtle <MASK> <MASK> has prerequisite <MASK> water 
+tie your shoelace <MASK> <MASK> used for <MASK> keep shoe on your foot 
+paint house <MASK> <MASK> has prerequisite <MASK> buy paint 
+spider <MASK> <MASK> capable of <MASK> eat insect 
+president <MASK> <MASK> capable of <MASK> be elect official 
+piggy bank <MASK> <MASK> used for <MASK> save coin 
+think <MASK> <MASK> is a <MASK> part of human life 
+watch television <MASK> <MASK> made of <MASK> metal 
+paper <MASK> <MASK> used for <MASK> print 
+classroom <MASK> <MASK> has prerequisite <MASK> classroom 
+towel rack <MASK> <MASK> not capable of <MASK> hang well on towel rack 
+rifle <MASK> <MASK> used for <MASK> kill animal 
+lawyer <MASK> <MASK> capable of <MASK> object that statement 
+fork <MASK> <MASK> at location <MASK> kitchen 
+egg <MASK> <MASK> has property <MASK> good 
+sun <MASK> <MASK> at location <MASK> in solar system 
+knife <MASK> <MASK> at location <MASK> kitchen drawer 
+audience <MASK> <MASK> part of <MASK> group 
+human <MASK> <MASK> has subevent <MASK> lose his job 
+staple <MASK> <MASK> related to <MASK> paper fastener 
+motherboard <MASK> <MASK> at location <MASK> computer 
+trash <MASK> <MASK> at location <MASK> trash 
+city <MASK> <MASK> at location <MASK> michigan 
+wake up <MASK> <MASK> at location <MASK> motel 
+science <MASK> <MASK> used for <MASK> learn 
+reproduce <MASK> <MASK> at location <MASK> park 
+foot <MASK> <MASK> at location <MASK> sport event 
+cavity <MASK> <MASK> at location <MASK> your tooth 
+golden retriever <MASK> <MASK> at location <MASK> zoo 
+person <MASK> <MASK> desires <MASK> be able to express themself freely 
+book <MASK> <MASK> has property <MASK> expensive 
+xylophone <MASK> <MASK> is a <MASK> musical instrument 
+dog <MASK> <MASK> used for <MASK> keep you company 
+knife <MASK> <MASK> used for <MASK> kill person 
+english <MASK> <MASK> is a <MASK> language 
+pass course <MASK> <MASK> has property <MASK> important 
+trigger <MASK> <MASK> capable of <MASK> short electrical circuit 
+closet <MASK> <MASK> used for <MASK> keep old clothe 
+money <MASK> <MASK> at location <MASK> in bank 
+oil <MASK> <MASK> has property <MASK> solid 
+cup <MASK> <MASK> receives action <MASK> make out of coffee bean 
+tree <MASK> <MASK> at location <MASK> in forest 
+think <MASK> <MASK> made of <MASK> brain 
+restaurant <MASK> <MASK> is a <MASK> place to eat 
+pea <MASK> <MASK> is a <MASK> vegetarian food 
+child <MASK> <MASK> has a <MASK> lot of energy 
+door <MASK> <MASK> part of <MASK> house 
+pot <MASK> <MASK> used for <MASK> make tea 
+someone <MASK> <MASK> has property <MASK> go to get hurt 
+bed <MASK> <MASK> part of <MASK> house 
+night <MASK> <MASK> made of <MASK> metal 
+paper <MASK> <MASK> has property <MASK> crumple into ball 
+fish <MASK> <MASK> is a <MASK> not mammal 
+person <MASK> <MASK> made of <MASK> live cell 
+jack <MASK> <MASK> has property <MASK> fun 
+hawk <MASK> <MASK> is a <MASK> animal 
+pilot <MASK> <MASK> is a <MASK> person 
+someone <MASK> <MASK> is a <MASK> hold computer disk 
+jupiter <MASK> <MASK> at location <MASK> space 
+lake <MASK> <MASK> is a <MASK> place 
+spider <MASK> <MASK> is a <MASK> animal 
+whale <MASK> <MASK> used for <MASK> sing 
+beaver <MASK> <MASK> is a <MASK> animal 
+glass <MASK> <MASK> is a <MASK> form of light 
+crow <MASK> <MASK> is a <MASK> tree 
+hawk <MASK> <MASK> is a <MASK> animal 
+human <MASK> <MASK> is a <MASK> competative 
+perl <MASK> <MASK> is a <MASK> musical instrument 
+c <MASK> <MASK> is a <MASK> letter 
+bird <MASK> <MASK> at location <MASK> park 
+sex <MASK> <MASK> causes <MASK> pregnancy 
+fish <MASK> <MASK> at location <MASK> fish creel 
+dog <MASK> <MASK> used for <MASK> keep you company 
+dog <MASK> <MASK> has prerequisite <MASK> get license 
+sex <MASK> <MASK> is a <MASK> not often 
+bill <MASK> <MASK> has prerequisite <MASK> money 
+twenty four hour <MASK> <MASK> not has property <MASK> very full of workday 
+phone <MASK> <MASK> used for <MASK> communicate 
+atheist <MASK> <MASK> not capable of <MASK> believe that god exist 
+dog <MASK> <MASK> used for <MASK> keep you company 
+golden retriever <MASK> <MASK> at location <MASK> zoo 
+feather <MASK> <MASK> has prerequisite <MASK> feather 
+football <MASK> <MASK> used for <MASK> play football 
+soap <MASK> <MASK> used for <MASK> wash dish 
+apple <MASK> <MASK> has prerequisite <MASK> water 
+eat breakfast in bed <MASK> <MASK> used for <MASK> be lazy 
+commit to memory <MASK> <MASK> has subevent <MASK> you memorize it 
+pillow case <MASK> <MASK> has prerequisite <MASK> pill 
+unix <MASK> <MASK> is a <MASK> computer operate system 
+unix <MASK> <MASK> at location <MASK> computer 
+write term paper <MASK> <MASK> part of <MASK> library 
+pool <MASK> <MASK> receives action <MASK> play in bar 
+compete <MASK> <MASK> defined as <MASK> compete 
+pray <MASK> <MASK> has prerequisite <MASK> talk to god 
+shop <MASK> <MASK> has prerequisite <MASK> get money 
+kill <MASK> <MASK> has property <MASK> bad 
+bottle <MASK> <MASK> used for <MASK> hold liquid 
+sleep <MASK> <MASK> has prerequisite <MASK> lie down 
+music <MASK> <MASK> has property <MASK> very soothe 
+usenet newsgroup <MASK> <MASK> has property <MASK> break 
+water <MASK> <MASK> at location <MASK> ice 
+plate <MASK> <MASK> at location <MASK> cupboard 
+snow <MASK> <MASK> has prerequisite <MASK> water 
+sail <MASK> <MASK> has property <MASK> fun 
+boy <MASK> <MASK> is a <MASK> young human 
+beer <MASK> <MASK> capable of <MASK> be fizzy 
+study <MASK> <MASK> used for <MASK> get good grade 
+net <MASK> <MASK> is a <MASK> small land mammal 
+fart <MASK> <MASK> capable of <MASK> make person angry 
+sink <MASK> <MASK> causes <MASK> wash dish 
+cat <MASK> <MASK> has prerequisite <MASK> water 
+person <MASK> <MASK> at location <MASK> bus depot 
+toothbrush <MASK> <MASK> used for <MASK> brush tooth 
+go to performance <MASK> <MASK> has prerequisite <MASK> get ticket 
+create idea <MASK> <MASK> at location <MASK> artificial intelligence 
+surprise someone <MASK> <MASK> has prerequisite <MASK> say boo 
+lock <MASK> <MASK> has subevent <MASK> lock door 
+take phone call <MASK> <MASK> capable of <MASK> help you get wrong number 
+reach tentative agreement <MASK> <MASK> has prerequisite <MASK> talk to another person 
+wheel <MASK> <MASK> has subevent <MASK> be bore 
+key chain <MASK> <MASK> receives action <MASK> close 
+go to bed <MASK> <MASK> at location <MASK> bed 
+pea <MASK> <MASK> is a <MASK> vegetarian food 
+compete <MASK> <MASK> has subevent <MASK> you try to win 
+submarine <MASK> <MASK> capable of <MASK> travel underwater 
+watch even news <MASK> <MASK> at location <MASK> supermarket 
+disco <MASK> <MASK> has subevent <MASK> you get tall 
+have bath <MASK> <MASK> has prerequisite <MASK> get bathtub 
+apple <MASK> <MASK> at location <MASK> apple orchard 
+have rest <MASK> <MASK> is a <MASK> used for take break from work 
+drive <MASK> <MASK> has subevent <MASK> use horn 
+restaurant <MASK> <MASK> used for <MASK> eat at 
+chess board <MASK> <MASK> used for <MASK> play chess 
+school <MASK> <MASK> at location <MASK> any large city 
+cavity <MASK> <MASK> has subevent <MASK> molarize yourself 
+have bath <MASK> <MASK> at location <MASK> bathroom 
+play sport <MASK> <MASK> at location <MASK> london 
+paint picture <MASK> <MASK> has subevent <MASK> you use brush 
+relax <MASK> <MASK> has subevent <MASK> fall to sleep 
+surprise someone <MASK> <MASK> at location <MASK> movie theater 
+baby <MASK> <MASK> capable of <MASK> smell like wet dog 
+strike match <MASK> <MASK> causes <MASK> get fire 
+banker <MASK> <MASK> capable of <MASK> bank their money 
+bury cat <MASK> <MASK> capable of <MASK> kill you dead 
+pheasant <MASK> <MASK> has prerequisite <MASK> think 
+twenty-four hour <MASK> <MASK> at location <MASK> one day 
+person <MASK> <MASK> used for <MASK> eat 
+beanie <MASK> <MASK> at location <MASK> toy store 
+girl <MASK> <MASK> used for <MASK> get you headache 
+stair <MASK> <MASK> used for <MASK> walk down 
+blanket <MASK> <MASK> used for <MASK> cover thing 
+terrorist <MASK> <MASK> capable of <MASK> use plane as bomb 
+wood <MASK> <MASK> at location <MASK> build 
+pool <MASK> <MASK> used for <MASK> play game of pool 
+play game <MASK> <MASK> has prerequisite <MASK> get deck of card 
+person <MASK> <MASK> has a <MASK> sex indoors 
+play basketball <MASK> <MASK> at location <MASK> london 
+java <MASK> <MASK> capable of <MASK> contain really 
+stethoscope <MASK> <MASK> has prerequisite <MASK> electricity 
+make patchwork quilt <MASK> <MASK> has subevent <MASK> you prick your finger 
+pheasant <MASK> <MASK> at location <MASK> zoo 
+sushi <MASK> <MASK> has a <MASK> raw fish 
+person <MASK> <MASK> has prerequisite <MASK> water to live 
+tire <MASK> <MASK> used for <MASK> drive 
+spanish <MASK> <MASK> is a <MASK> country 

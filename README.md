@@ -36,3 +36,14 @@ To use customized generation setting, please run:
 ```
 python generation_script.py --model_type gpt2 --model_name_or_path <path_to_saved_model> --length 100 --stop_token "<EOS>" --k 1 --num_return_sequences 1 --test_dir test_prompt.txt --output_dir results/<name_of_generation_file>
 ```
+
+## Evaluation
+
+### Results Comparing to COMeT
+
+
+| Method \ Metrics | PPL | AVG Score | N/T sro | N/T o |
+|--------| -------- | -------- | -------- | ------- |
+|COMeT   | 4.32     | 95.25    | 59.25    | 3.75 |
+|GPT-2   | **1.83**     | 72.87    | 53.90    | **8.18**|
+|GPT-2-pretrain| 4.40|73.64|**88.75**|**16.6**|

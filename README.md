@@ -45,6 +45,12 @@ First we need to preprocess the raw GPT-2 generation:
 python evaluate/preprocess.py --gens_name /path/to/generations_file/
 ```
 
+Then, we get the raw Conceptnet data:
+
+```
+bash get_conceptnet_data.sh
+```
+
 To run the classifier from Li et al., 2016 on your generated tuples to evaluate correctness, first download the pretrained model from:
 ```
 wget https://ttic.uchicago.edu/~kgimpel/comsense_resources/ckbc-demo.tar.gz
@@ -57,7 +63,7 @@ python2.7 evaluate/classify_conceptnet_generations.py --gens_name /path/to/gener
 
 To get the novelty metrics `N/T sro` and `N/T o`:
 ```
-python compare.py --training_set_file data/conceptnet/train100k.txt --gens_name /path/to/generations_file/
+python evaluate/compare.py --training_set_file data/conceptnet/train100k.txt --gens_name /path/to/generations_file/
 ```
 
 ### Results Comparing to [COMeT](https://github.com/atcbosselut/comet-commonsense)

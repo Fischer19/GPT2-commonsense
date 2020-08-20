@@ -60,7 +60,7 @@ To get the novelty metrics `N/T sro` and `N/T o`:
 python compare.py --training_set_file data/conceptnet/train100k.txt --gens_name /path/to/generations_file/
 ```
 
-### Results Comparing to COMeT
+### Results Comparing to [COMeT](https://github.com/atcbosselut/comet-commonsense)
 
 
 | Method \ Metrics | PPL | AVG Score | N/T sro | N/T o |

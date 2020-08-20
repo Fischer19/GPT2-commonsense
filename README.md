@@ -15,9 +15,10 @@ bash dependencies.bash
 
 To use the default setting:
 ```
+cd language-modeling/
 bash train_script.py
 ```
-The model parameters will be saved in `./language_modeling/model_conceptnet/pytorch_model.bin`
+The model parameters will be saved in `./language-modeling/model_conceptnet/pytorch_model.bin`
 
 To use customized training setting, please run:
 ```
@@ -28,9 +29,10 @@ python run_language_modeling.py --output_dir=<model_name> --model_type=gpt2 --mo
 
 To use the defaut generation setting:
 ```
+cd language-modeling/
 bash generation_script.bash
 ```
-The generation results will be saved in `./language_modeling/results/test_model_conceptnet.txt`
+The generation results will be saved in `./language-modeling/results/test_model_conceptnet.txt`
 
 To use customized generation setting, please run:
 ```

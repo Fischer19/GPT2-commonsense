@@ -38,6 +38,25 @@ python generation_script.py --model_type gpt2 --model_name_or_path <path_to_save
 ```
 
 ## Evaluation
+First we need to preprocess the raw GPT-2 generation:
+```
+python evaluate/preprocess.py --gens_name /path/to/generations_file/
+```
+
+To run the classifier from Li et al., 2016 on your generated tuples to evaluate correctness, first download the pretrained model from:
+```
+wget https://ttic.uchicago.edu/~kgimpel/comsense_resources/ckbc-demo.tar.gz
+tar -xvzf ckbc-demo.tar.gz
+```
+then run the following code on the the generations file
+```
+python2.7 evaluate/classify_conceptnet_generations.py --gens_name /path/to/generations_file/
+```
+
+To get the novelty metrics `N/T sro` and `N/T o`:
+```
+python compare.py --training_set_file data/conceptnet/train100k.txt --gens_name /path/to/generations_file/
+```
 
 ### Results Comparing to COMeT
 
